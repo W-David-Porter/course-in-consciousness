@@ -1,0 +1,5 @@
+# Part 1 Quantum Theory and Consciousness
+
+## Preface
+
+Part 1 consists of notes on the philosophical and scientific underpinnings of this course in consciousness. We establish the context of our discussion within the three major types of metaphysical philosophy, ask the questions that are naturally raised when one begins a study of conscious mind, summarise the scientific data that must be taken into account in any attempt to understand the phenomena of consciousness, and present a simple, understandable description of the philosophical and quantum theoretical basis for the need to include consciousness in our description of the material world. We shall see that, from a sound, scientific point of view, not only is it impossible to understand the material world without considering the consciousness of the observer, but, in fact, it is Consciousness which manifests the world. However, it cannot be the individual consciousness of the observer that does this, but it must be non-local, universal Consciousness. 

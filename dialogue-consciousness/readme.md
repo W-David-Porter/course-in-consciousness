@@ -8,7 +8,7 @@
 
     b. Thoughts begin to arise in early childhood. The infant’s mind contains few concepts, whereas the sage’s mind sometimes may contain many thoughts, but the sage always sees directly that separation is an illusion.
 
-    c. Without thoughts, there are no objects (e.g., in dreamless sleep, under anaesthesia or in samadhi) because, by definition, an object is the thought of it. 
+    c. Without thoughts, there are no objects (e.g., in dreamless sleep, under anaesthesia or in *samadhi*) because, by definition, an object is the thought of it. 
 
     d. Reality is not a thought. Rather, It is absence of separation. 
 
@@ -16,11 +16,11 @@
 
     a. A belief is a concept which contains the concept of attachment. 
 
-    b. A belief that cannot be verified by direct seeing is always subject to attack by a counter-belief. Therefore, it must be constantly reinforced by repetition of the belief. 
+    b. A belief that cannot be verified by direct seeing is always subject to attack by a counter-belief. Therefore, it must be constantly reïnforced by repetition of the belief. 
 
     c. Since Reality is absence of separation, It cannot be perceived. Therefore, concepts cannot describe Reality (but they can be true, see (g) and (h) below). 
 
-    d. Example: A material object, by definition, is separate from other material objects. Therefore, material objects are not real. The belief that material objects are real is constantly reinforced by materialistic culture, and is sustained only by a failure to see the distinction between objects and Reality.
+    d. Example: A material object, by definition, is separate from other material objects. Therefore, material objects are not real. The belief that material objects are real is constantly reïnforced by materialistic culture, and is sustained only by a failure to see the distinction between objects and Reality.
 
     e. Although concepts cannot describe Reality, they can point to Reality. 
 
@@ -79,7 +79,7 @@ objects.
 
     b. Existence is only apparent because Awareness/Presence always remains unsplit. 
 
-    c. The apparently real existence of objects is called illusion (Maya). 
+    c. The apparently real existence of objects is called illusion (*maya*). 
 
     d. The sage, being only Awareness/Presence and knowing only Awareness/Presence, knows that he is not separate from anything. 
 

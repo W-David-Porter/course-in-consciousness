@@ -33,9 +33,11 @@ Important: Because this course makes many statements, the reader might think tha
  * [Part 1. Quantum Theory and Consciousness ](./part-1-quantum-theory-consciousness)
     * [Chapter 1. The Three Major Metaphysical Philosophies](./chapter-1-three-major-metaphysical-philosophies)
     * [Chapter 2. Classical Physics from Newton to Einstein](./chapter-2-classical-physics-newton-einstein)
+    * [Chapter 3. Quantum physics from Planck and Einstein to Bohr, Heisenberg, de Broglie and Schrödinger](./chapter-3-quantum-physics)
 
 
 
 ### From the publisher:
 
-I have taken the liberty of adjusting some of the typographical conventions. Content hasn’t changed, but there’s been some slight reordering. I’ve also updated some of the dead links.
+I have taken the liberty of adjusting some of the typographical conventions. Content hasn’t changed, but there’s been some slight reördering. I’ve also updated some of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
+—David Porter

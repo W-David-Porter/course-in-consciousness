@@ -33,7 +33,8 @@ module.exports = {
 					"/chapter-3-quantum-physics/",
 					"/chapter-4-waves-interference/",
 					"/chapter-5-conscious-mind-free-will/",
-					"/chapter-6-what-does-quantum-theory-mean/"
+					"/chapter-6-what-does-quantum-theory-mean/",
+					"/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/"
 				]
 			},
 			{
@@ -52,6 +53,7 @@ module.exports = {
 				title: "Part 3 The End of Suffering and the Discovery of Our True Nature",
 				path: "/part-3-end-suffering-discovery-true-nature/",
 				children: [
+					"chapter-23-disidentification-through-inquiry/",
 					"chapter-24-disidentification-through-meditation/"
 				]
 			}

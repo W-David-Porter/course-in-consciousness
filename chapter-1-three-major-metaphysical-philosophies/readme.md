@@ -212,4 +212,5 @@ Well, then, what is It?
 
 We shall see that the only way to find out is to look and see for yourself, not to believe. In fact, this is a course in seeing, not in believing.
 
-<hr>
+---
+#### Footnotes

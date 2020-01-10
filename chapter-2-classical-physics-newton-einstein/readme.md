@@ -276,7 +276,7 @@ In addition to curved space, a physicist who adhered to the positivist philosoph
 
 For example, force fields are theoretical models of gravitational or electro-magnetic forces, and curved space–time is a model of space–time that accounts for the gravitational force. There are other models that account for the weak and strong forces that act on elementary particles. And there are models of the nucleus, the atom, molecules, crystals and gases. All of these models are highly mathematical because mathematics is the universal language of physics.
 
-When a model is found that accurately accounts for experimental observations, there is a strong tendency to think of the model itself as the external, objective reality. Thus, both physicists and the general public routinely speak of elementary particles, nuclei, atoms and space–time as being real objects, rather than simply as mathematical models. We shall see later that this tendency creates intractable problems in trying to understand the true nature of Reality.
+When a model is found that accurately accounts for experimental observations, there is a strong tendency to think of the model itself as the external, objective reality. Thus, both physicists and the general public routinely speak of elementary particles, nucleï, atoms and space–time as being real objects, rather than simply as mathematical models. We shall see later that this tendency creates intractable problems in trying to understand the true nature of Reality.
 
 :::tip Question
 From your own experience alone, answer the question, “What is space, anyway?”.
@@ -301,3 +301,5 @@ From your own experience, and with a minimum of concepts, be as specific and as 
 :::
 
 ---
+
+#### Footnotes

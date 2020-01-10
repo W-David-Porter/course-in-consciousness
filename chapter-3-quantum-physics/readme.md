@@ -38,7 +38,7 @@ In addition to measuring the spectra of blackbody radiation in the nineteenth ce
 
 ![line spectra](/images/line-spectra.gif)
 
-Line spectra are another example of phenomena that could not be explained by classical physics. Indeed, the explanation could not come until developments in the understanding of the structure of atoms had been made by New Zealander physicist Ernest Rutherford (1871–1937) and co-workers in 1911. By scattering alpha particles (i.e., helium nuclei, which consist of two protons and two neutrons bound together) from thin gold foils, they discovered that the gold atom consisted of a tiny (10<sup>-15</sup> metres) very dense, positively charged nucleus surrounded by a much larger (10<sup>-10</sup> metres) cloud of negatively charged electrons, see figure below. (Quantum mechanically, this picture is not correct, but for now it is adequate.)
+Line spectra are another example of phenomena that could not be explained by classical physics. Indeed, the explanation could not come until developments in the understanding of the structure of atoms had been made by New Zealander physicist Ernest Rutherford (1871–1937) and co-workers in 1911. By scattering alpha particles (i.e., helium nucleï, which consist of two protons and two neutrons bound together) from thin gold foils, they discovered that the gold atom consisted of a tiny (10<sup>-15</sup> metres) very dense, positively charged nucleus surrounded by a much larger (10<sup>-10</sup> metres) cloud of negatively charged electrons, see figure below. (Quantum mechanically, this picture is not correct, but for now it is adequate.)
 
 ![rutherford model](/images/rutherford-model.gif)
 

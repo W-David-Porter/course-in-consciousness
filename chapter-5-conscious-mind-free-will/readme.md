@@ -390,3 +390,4 @@ We must be clear that any concept of a future that is determined, or of a causal
 
 ---
 
+#### Footnotes

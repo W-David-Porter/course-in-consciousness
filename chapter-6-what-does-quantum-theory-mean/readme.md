@@ -174,8 +174,60 @@ It is only a small step now to suppose that, if all of our sensory perceptions a
 If you really knew that you are universal, non-local consciousness, could you still suffer?
 :::
 
+## 6.10. The interpretation of Christopher Fuchs; a minimally objective, mostly subjective interpretation
 
+Christopher Fuchs^[[QBism, the Perimeter of Quantum Bayesianism](http://arxiv.org/PS_cache/arxiv/pdf/1003/1003.5209v1.pdf)] is pioneering an interpretation which contains no wave-function at all. Quantum probabilities are interpreted as Bayesian probabilities, which are measures of states of belief, as contrasted with the more common case of quantum probabilities as measures of the physical properties of a system. Bayesian probabilities are calculated as updates from prior probabilities using a standard set of procedures and formulas.^[[http://en.wikipedia.org/wiki/Bayesian_probability](http://en.wikipedia.org/wiki/Bayesian_probability)] Fuchs has given these formulas a quantum interpretation.
 
+Without wave-functions, quantum mechanics has no problems or paradoxes of non-locality, collapse or branching. This, perhaps, is the strongest argument for a subjective interpretation.^[Historical note: British mathematician and Presbyterian minister Thomas Bayes (1702–1761) proved the special case, which is called Bayes’ theorem, of the more general ‘principle of insufficient reason’ of French mathematician and astronomer Pierre-Simon Laplace (1749–1827).]
 
+## 6.11. The purely subjective interpretation
+
+In physics, objective reality is defined as that which exists whether or not it is being observed. A fundamental problem with this definition is that it can never be verified by observation because all of our observations, without exception, are purely subjective and can never go beyond the mind (see [Section 1.1](/chapter-1-three-major-metaphysical-philosophies#_1-1-the-assumption-of-objective-reality-a-necessity-for-survival-and-for-science)).
+
+Classical physics is assumed to describe objective reality as it is (see [Section 2.2](/chapter-2-classical-physics-newton-einstein#_2-2-newton%E2%80%99s-laws-and-determinism)). There is broad agreement among physicists on what classical objective reality is. However, quantum theory is purely mathematical and requires an interpretation to relate it to some form of reality (see [Section 6.1](#_6-1-the-interpretation-problem).). Most interpretations relate the theory to some kind of objective reality, even if the reality consists only of objectively real brain states. Since there are many interpretations and hence many objective realities, how are we to know which one is correct?
+
+As we saw in [Section 4.1](/chapter-4-waves-interference#_4-1-waves-and-interference), interference suggests that physical waves are interfering, whether or not they are identified with the wave-function. Identifying them with the wave-function is tempting because they produce the same kind of interference pattern that the wave-function would produce were it a physical object. Yet, this leads to the non-physicality of non-locality, collapse or branching. Perhaps this dilemma is Nature’s way of hinting to us that there is no such thing as external, physical reality.
+
+In [Section 6.1.3](#_6-1-3-purely-subjective-interpretations), we mentioned the possibility that the wave-function is not a physical wave but is merely a tool for calculating the probabilities for certain specified events to be observed. If this is so, there is no external quantum wave either before or after an observation. In this interpretation, only many measurements on identical systems can be compared with the theory because the theory says nothing about a single measurement. Therefore, this is sometimes called the statistical interpretation.
+
+A few physicists hold this viewpoint because it avoids all of the problems of non-locality, collapse and branching.^[*Quantum Theory Needs No ‘Interpretation’* by Christopher Fuchs and Asher Peres, Physics Today, March 2000, p. 70, and *Letters*, *Physics Today*, September 2000, p. 11] Another viewpoint, espoused by David Mermin,^[*What’s Bad About This Habit?*, *Physics Today*, May 2009, p. 8] states that all of our theories represent only our state of knowledge, but they need not describe reality as it is. These physicists do not deny the possibility of the existence of an external reality independent of what observers perceive, but they do not state what its significance would be.
+
+Fundamental to the assumption of an objective reality is the assumption that space–time exists. In quantum theory, space–time is the absolute, unchanging context in which everything happens. In general relativity (gravity theory, see [Section 2.6](/chapter-2-classical-physics-newton-einstein#_2-6-relativity)), space, time, matter and energy all depend on each other and are the content of the theory. The two theories are incompatible because absolute context is not relative content. Hence, a unified theory of quantum gravity has not been found and probably will not be found unless context and content can somehow be reconciled. One way to resolve this incompatibility is to see that space–time is purely subjective rather than objective (see [Section 12.1](/chapter-12-space-time-causality-destiny#_12-1-the-concepts-of-space-and-time)). If space–time is a concept in the mind rather than the context of the mind, then objective reality is also a concept because separation between objects must occur in space–time. This viewpoint is consistent with the teaching of non-duality, in which separation is conceptual, not real (see [Chapter 9](/chapter-9-perceiving-conceptualising/)).
+
+A subjective interpretation of quantum theory would relate the theory to mind states (not brain states) and would thereby avoid the problems of objective reality. It would be related to the philosophy of idealism, the philosophy that all is consciousness and there is nothing but consciousness (see [Section 1.4](/chapter-1-three-major-metaphysical-philosophies#_1-4-idealism-pure-subjectivity-the-philosophy-that-consciousness-is-all-and-all-is-consciousness)), but not equivalent to it because the subjective interpretation need not say anything about pure consciousness. A subjective interpretation would be an epistemological interpretation, i.e., an interpretation in terms of subjective knowledge, whereas all other interpretations are ontological, i.e., they are theories of objective existence. The interpretation of Christopher Fuchs, et al. (see [Section 6.10](#_6-10-the-interpretation-of-christopher-fuchs-a-minimally-objective-mostly-subjective-interpretation)) is only partly subjective because it assumes that there is an objective quantum system although everything we can know about it is subjective. The only working physicist I know who states that the universe is purely mental is Richard Conn Henry.^[[http://www.newdualism.org/papers/R.Henry/436029a.html](http://www.newdualism.org/papers/R.Henry/436029a.html)]
+
+Even if there is no objective reality there might be other minds. As with objective reality, we cannot objectively verify that other minds exist because the contents of them (thoughts, feelings, emotions, body sensations, perceptions) are not directly perceivable to us. We can only infer or intuit that they might exist.
+
+We normally assume that there are at least two minds, mine and yours. So, how do our minds communicate? In the absence of objective reality, there can be no physical mechanism for communication, so we can say that if minds can communicate with each other, they cannot be truly separate from each other. Furthermore, communication requires a language — but the language we use is that of objective reality. So, even in the subjective interpretation, we use objective language! This requires agreement on the definitions of the ‘objects’ observed, a comparison of observations, and agreement on the results of observations (see [Section 1.1](/chapter-1-three-major-metaphysical-philosophies#_1-1-the-assumption-of-objective-reality-a-necessity-for-survival-and-for-science)).
+
+We cannot prove the existence of an external objective reality because all of our experiences are purely subjective and can be explained in purely subjective terms without invoking the concept of an objective reality. Assuming there is no external reality, our concepts of nature are limited by the kinds of experiments we do and by the type of theory that we use to interpret them. Our present picture of the microscopic world as consisting of atoms, molecules and elementary particles is determined in an essential way by these limits. Radically different kinds of experiments and theories might produce a radically different kind of picture.
+
+:::tip Question
+The three general classes of interpretations of quantum theory are the following: 
+
+1. Purely objective. In classical physics, this would be a purely materialistic interpretation. In quantum physics, it could be a hidden variables interpretation, or a many worlds interpretation when there are no observers, as in the early universe. If consciousness exists, it is an epiphenomenon of the material world and has no agency. The material world determines all of our experiences. 
+
+2. Partly objective and partly subjective. Classically, this would be a Cartesian dualistic, or mind/body interpretation. In quantum physics, it could be a Copenhagen interpretation if consciousness collapses the wave-function, or a many worlds interpretation if consciousness causes a branching. In both cases, it is consciousness that manifests the material world. 
+
+3. Purely subjective. Classically, this would be an idealistic interpretation, such as Plato’s or Berkeley’s. In quantum physics, a purely subjective interpretation need have no wave-function, but if it did, the wave-function would be purely a tool for calculating the probability that a subjective experience would occur. 
+
+How would your life be different if each of the three different interpretations were true?
+:::
+
+## 6.12 Physics is the study of the mind!
+
+As we discussed in [Section 1.1](/chapter-1-three-major-metaphysical-philosophies#_1-1-the-assumption-of-objective-reality-a-necessity-for-survival-and-for-science), because all of our experience is subjective, it is clear that the existence of an external reality can never be verified by observation and thus it can only be a metaphysical assumption. Furthermore, if objective reality cannot be observed, it cannot affect any observation because an effect on an observation is an observation. Thus, the concept of an external reality is both unsupportable and unwarranted. However, even though an external reality can itself have no effects, the concept of one certainly can. In fact, in [Chapter 9](/chapter-9-perceiving-conceptualising/) we shall see that it is this concept that causes all of the suffering there is.
+
+It is ironic to think that the careful, painstaking, empirical and theoretical study of external physical reality, which is what we call physics, could lead to the conclusion that there is no such reality! It appears that the hypothesis of external reality contains the seeds of its own destruction! *What physicists really do is to study their own minds because that is the only place where objects are present.* Perhaps the domain of physics will some day shift from objectivity to subjectivity, and physicists will begin to welcome the sages as friends rather than viewing them with suspicion.
+
+:::tip Questions
+Assuming there is no consciousness but non-local universal consciousness, what might be the definition of mind? If we infer that there are such things as different minds, what is the basis for this inference? Why does it seem so compelling? Would the inference of an objective reality be just as compelling? If so, why? If not, why not?
+:::
+
+:::tip Exercise
+Become aware of your sense of awareness. Is it a thought or feeling, or neither? Can it be present without thoughts or feelings? Can thoughts or feelings be present without it? Look inward and use your intuition!
+:::
 
 ---
+
+#### Footnotes

@@ -45,6 +45,7 @@ module.exports = {
 					"/chapter-9-perceiving-conceptualising/",
 					"/chapter-11-functioning-mind/",
 					"/chapter-12-space-time-causality-destiny/",
+					"/chapter-14-religion-belief-non-duality/",
 					"/chapter-16-love-seeking-itself/"
 				]
 			},

@@ -359,9 +359,7 @@ Thus, to pin our happiness on a chimera such as free will must doom us to a life
 
 In the meditation for December 6 in *A Net of Jewels* (1996), Ramesh Balsekar, a sage who lived in Mumbai, India and who will be quoted frequently in this course, says:
 
-<div class=indented>
-Freedom is what happens when the arrogant and silly notion that we live our own lives by our own will has fallen off.
-</div>
+>Freedom is what happens when the arrogant and silly notion that we live our own lives by our own will has fallen off.
 
 In spite of the prevalent belief in free will, it is not possible to show that free will objectively exists within the split self, as the previous sections showed. Something other than a split self must be the source of true freedom. This something is pure consciousness, which is unified, non-dual, unsplit and totally free, as we shall see in [Part 2](/part-2-metaphysics-non-duality). True freedom is pure subjectivity and is an intrinsic property of pure consciousness. Freedom as pure subjectivity is not the same as freedom of choice. Freedom of choice is an illusion. Freedom as subjectivity exists even in the absence of any objective freedom of choice. In fact, we can say that true freedom is freedom from the burdens and responsibilities of an imagined free will.
 

@@ -41,7 +41,7 @@ The idealist interpretation of Goswami states that, before observation, the cat 
 
 Suppose two observers simultaneously look in a box in which the wave-function still has not collapsed. Which observer collapses the wave-function? It is the same paradox as that of two detectors and two observers in the Stern–Gerlach experiment described in [Section 6.5](/chapter-6-what-does-quantum-theory-mean#_6-5-wave-function-reduction-in-the-copenhagen-interpretation-the-forward-direction-of-time). The only resolution is that the consciousness that collapses the wave-function must be unitary and non-local (universal). This means that what appears to be individual consciousness is in reality universal consciousness. In other words, the consciousness that I think is mine is identical to the consciousness that you think is yours. This does not mean that the contents of my mind are the same as the contents of your mind. These are individual, and depend on our individual sensory mechanisms, brain structures and conditioning.
 
-In quantum theory, observation is not a continuous process, but is a rapid sequence of discrete snapshot-like observations. ‘Between’ successive observations, there is only the wave-function, in most cases a very complex one. This wave-function includes not only the external world, but also our body–minds. Change occurs only ‘between’ observations, but remember that according to Goswami, the wave-function ‘between’ observations exists in the transcendental realm outside of time, so change actually occurs discontinuously in time. Only the wave-function can change and it changes in accordance with quantum theory. (For example, human vision cannot discern more than about twenty different images per second, which corresponds to about fifty milliseconds per image. Movies are filmed at twenty four or thirty frames per second so that motion appears to be continuous instead of flickering. In classical Indian philosophy, the duration of one discrete observation is called a *kshana*, which is stated to be 1/4500 minute or 1/75 second.^[[Encyclopedic Theosophical Glossary](http://www.theosociety.org/pasadena/etgloss/ke-kz.htm)])
+In quantum theory, observation is not a continuous process, but is a rapid sequence of discrete snapshot-like observations. ‘Between’ successive observations, there is only the wave-function, in most cases a very complex one. This wave-function includes not only the external world, but also our body–minds. Change occurs only ‘between’ observations, but remember that according to Goswami, the wave-function ‘between’ observations exists in the transcendental realm outside of time, so change actually occurs discontinuously in time. Only the wave-function can change and it changes in accordance with quantum theory. (For example, human vision cannot discern more than about twenty different images per second, which corresponds to about fifty milliseconds per image. Movies are filmed at twenty four or thirty frames per second so that motion appears to be continuous instead of flickering. In classical Indian philosophy, the duration of one discrete observation is called a *kshana*, which is stated to be 1/4500 minute or 1/75 second.^[[*Encyclopedic Theosophical Glossary*](http://www.theosociety.org/pasadena/etgloss/ke-kz.htm)])
 
 :::tip Exercise
 Find a quiet place and close your eyes. Focus on your body sensations, particularly those in your hands or feet. See if you feel a tingling sensation in them. Do you think this is evidence that sensations are discrete rather than continuous? Now, with your eyes still closed, focus on your visual field. Do you see the tiny grainy fluctuations? Do you think these are evidence that sensations are discrete rather than continuous?
@@ -81,6 +81,107 @@ Goswami proposes a model of the brain-mind that has a *quantum part* and a *clas
 1. Uncertainty and complementarity. A thought has *feature*, which is instantaneous content, analogous to the position of a particle. It also has *association*, which is movement, analogous to the velocity (or momentum) of a particle. A thought occurs in the field of awareness, which is analogous to space. Feature and association are complementary. If we concentrate on one and clearly identify it (small uncertainty), we tend to lose sight of the other (large uncertainty).
 2. Discontinuity, or jumps. For example, in creative thinking, new concepts appear discontinuously.
 3. Non-locality. The correlations in the observations of different observers is a form of non-locality (see <a href=/chapter-4-waves-interference#_4-3-bell%E2%80%99s-theorem-the-aspect%E2%80%93groblacher-experiments-and-the-non-locality-of-reality>Section 4.3</a>).
-4. Superposition. Psychological experiments by A.J. Marcel,^[*Conscious and preconscious recognition of polysemous words: locating the selective effect of prior verbal context*, in *Attention and Performance VIII* (1980), (Ed., R.S. Nickerson)] too complicated to be discussed here, can be interpreted in terms of a model of the subject’s brain which exists in a superposition of possibilities until the subject recognises the object.
+4. Superposition. Psychological experiments by A.J. Marcel,^[“Conscious and preconscious recognition of polysemous words: locating the selective effect of prior verbal context”, in *Attention and Performance VIII* (1980), (Ed., R.S. Nickerson)] too complicated to be discussed here, can be interpreted in terms of a model of the subject’s brain which exists in a superposition of possibilities until the subject recognises the object.
 
 </div>
+
+:::tip Exercise
+Close your eyes and watch the thoughts come and go in your mind. First, concentrate on an image in the mind. Does concentrating on the image tend to fix it in place so that it doesn’t disappear?
+
+Now concentrate on the flow of thoughts without singling any one out. Does concentrating on the flow (the movement) tend to blur the features of the individual thoughts?
+:::
+
+In Goswami’s model, the brain, consisting of coupled quantum and classical parts, exists as a wave-function in the transcendental domain (not in space–time) ‘until’ wave-function collapse materialises it. [Think of the Stern–Gerlach experiment or the Schrödinger cat paradox. ‘Prior’ to collapse, the quantum states of the quantum part (the spin or the radioactive nucleus) are coupled to the classically separate states of the classical part (‘on’ or ‘off’ of the spin detector, or dead or alive of the particle detector–cat combination) to form a quantum superposition in the transcendental domain.] Non-local consciousness collapses the wave-function of the entire system into one of the states allowed by the classical part. The *mind* consists of the *experiences* of these collapsed physical states of the brain, not the states themselves.
+
+The presence of the quantum part of the brain provides a large, possibly infinite, number of possibilities available to the classical part. (In our simple analogies, the only available possibilities were the spin-up and spin-down states in the Stern–Gerlach experiment, and the decay and no-decay states of the radioactive nucleus in the Schrödinger cat example.) All of the creativity and originality that the brain has comes from the quantum part, see Figure 2.
+
+![brain parts](/images/brain-parts.gif)
+<div style=text-align:center><em>Figure 2. Quantum-classical model of the brain</em></div>
+
+Just as in our analogies, the presence of the classical part is necessary for collapse to occur and to provide the experienced final states. In our analogies, these final states were the observed states of detector-on or detector-off, and live-cat or dead-cat. Only the states of the classical part can be experienced by consciousness, exactly as in these analogies. These classical states must be distinct and non-overlapping to correspond to our experience of only one distinct event at a time. They must also be memory states, which are states that are irreversible in time (resulting in the experience of time moving forward), with wave-functions that change only slowly so that persistent records of the collapsed events are made, leading to a sense of continuity in our experiences. The classical part functions completely deterministically just like any classical machine. The quantum states of the two parts of the brain are depicted in Figure 3.
+
+![brain wave function](/images/brain-wave-function.gif)
+<div style=text-align:center><em>Figure 3. Quantum-classical states of the brain</em></div>
+
+Unitary, non-local consciousness chooses (see [Section 7.9](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism#_7-9-the-disappearance-of-the-ego-the-experience-of-freedom-from-bondage)) the state to be experienced, but because the classical part is localised and isolated, the experience of the final brain states is local and individual. Although we are aware of the experience of an event, we are unaware of the choosing process that collapses the wave-function that results in the event, i.e., the choice is made unconsciously. This is clearly so when we are passively observing passing events so that the time sequence appears to proceed on its own without our intervention. However, it is even true when we think we are making decisions (see [Section 5.9](/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will)).
+
+Without a quantum part coupled to a classical part there would be no world of perceived objects. Both parts of the brain are necessary for wave-function collapse to occur.
+
+## 7.5. Paradoxes and tangled hierarchies
+
+Normally, we identify only with the experiences associated with a particular brain–body. In order to explain how universal consciousness might identify with a such a physical object (the combined sensory mechanism–brain structure), Goswami utilises the concept of a tangled hierarchy which he borrowed from the 1980 book by Douglas Hofstadter, *Gödel, Escher, Bach: An Eternal Golden Braid*. He gave the following analogy in order to illustrate this concept.
+
+<div class=indented>
+
+We first introduce the concept of logical types. An example of logical types is the following:
+
+1. People who make statements
+2. Statements
+
+An item which defines the context for another item is of a higher logical type than that of the other item. In the example above, the first item identifies objects (people) that define the context for the second item (statements that people make). Thus, people are of a higher logical type than statements.
+
+Next we define a self-referential system. An example is the following:
+
+1. The following statement is true.
+2. The preceding statement is true.
+
+Both of these items are of the same logical type since they are both statements. However, they refer to each other, making the system self-referential. In addition, the statements *reïnforce* each other, strengthening the validity of each.
+
+Now consider a *paradoxical* system of items of the same logical type:
+
+1. The following statement is true.
+2. The preceding statement is false.
+
+If the first statement is true, the second statement makes it false, etc., thus leading to an infinite series of opposite conclusions. This is a paradox. All logical paradoxes arise from self-referential systems, i.e., systems that refer to themselves rather than to something outside of themselves.
+
+We can reformulate both the reïnforcing and paradoxical systems as single statements:
+
+3. This statement is true (reïnforcing).
+4. This statement is false (paradoxical infinite series).
+
+Now consider the following self-referential system:
+
+5. I am a liar.
+
+Let us consider three alternative interpretations of this statement.
+
+a) If the ‘I’ is the statement itself, then this does not mix logical types and is equivalent to the paradoxical infinite series of statement number 4 above.
+
+b) However, if I am the person that is making the statement, I am of a higher logical type (I am the context of) than the statement I am making. Now there need be no paradox because the statement does not refer to itself or to another statement of the same logical type, but to I, which is of a higher logical type. If the statement does not affect its context, there is no mixing of the level of the statement with the level of its context. Thus, we do not yet have a tangled hierarchy because the clear delineation between the two levels is maintained.
+
+One can say that the infinite series of interpretation a) may be discontinuously terminated by a shift in the meaning of ‘I’ in order to obtain interpretation b). In this way, the paradox is eliminated.
+
+c) Now suppose I start to think about the statement, and I begin to take it seriously, perhaps even believing it. The statement is affecting its context, and it changes it. Assuming that I was not a liar initially, I could actually become a liar, which would be a radical change in the context. If I become a thorough-going, inveterate liar and cannot make a truthful statement, a paradox develops. If I never tell the truth, and I state that I am a liar, then I am not lying, etc. The two levels have become inextricably entangled in a paradoxical, tangled hierarchy.
+
+</div>
+
+:::tip Question
+Has anybody ever told you that they were a liar? Was the self-contradiction obvious to them?
+:::
+
+In the brain–mind system, the brain consisting of quantum and classical parts is stimulated by an input from the physical sensory system, leading to a superposition in the transcendental domain of all the possibilities of the coupled quantum–classical brain. This quantum state continues ‘until’ the wave-function is collapsed by non-local consciousness. In the next three sections, we shall see how the level of the physical brain and the level of non-local consciousness might be mixed together to form a self-referential, paradoxical, tangled hierarchy, resulting in the experience of individual self-consciousness. This is analogous to interpretation c) of statement 5 above.
+
+## 7.6. The first identification: The appearance of sentience
+
+At the first collapse of the brain-sensory system wave-function of the embryo or foetus, sentience appears, but without an observer–observed duality. (Exactly when this collapse occurs is unknown and consequently is an inadequacy of the theory.) Goswami explains this collapse as self-referential collapse between non-local consciousness and the brain wave-function. Brain wave-function and non-local consciousness mix with each other to make the collapse self-referential. Without self-referential collapse, there would be no sentience and no manifestation. The result is not only sentience but also entanglement of the level of non-local consciousness with the level of the physical system, a tangled hierarchy. *This results in identification of non-local consciousness with the physical mechanism.*
+
+:::tip Question
+In experiential terms, what is the evidence for the identification of non-local consciousness with the physical mechanism? What if there were no such identification?
+:::
+
+According to Goswami, this tangled hierarchy is necessary for sentience to appear and for the life processes of the physical mechanism to occur. It also produces the experience of awareness: Non-local consciousness thereby becomes aware. We may call this state the *unconditioned* self. This is shown graphically in Figure 4:
+
+![first identification](/images/first-identification.gif)
+<div class=indented><em>Figure 4. Diagram of the first identification</div>
+
+
+## 7.9. The disappearance of the ego. The experience of freedom from bondage
+
+
+
+
+
+
+
+---
+#### Footnotes

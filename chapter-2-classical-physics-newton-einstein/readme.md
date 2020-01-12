@@ -84,7 +84,7 @@ What are some everyday examples of the second law of thermodynamics?
 
 The third statement of the second law depends on a new concept, that of entropy. In order to discuss entropy, we first discuss the number of distinguishable arrangements of a system, from which the concept of entropy is derived. Some readers may wish to skip this discussion and go directly to the definition of entropy that is given afterwards.
 
-<div style="margin-left:3em">
+<div class=indented>
 
 Example #1: Imagine a box divided into two compartments, each of which can hold only one ball. Put a ball into one of the compartments. Clearly, the number of ways that you can do this is two — the ball can be put into either compartment. (Mathematically, this is the number of combinations of two objects taken one at a time; this is given by the binomial coefficient).
 
@@ -144,7 +144,7 @@ Do you think that the entropy of your body is decreasing as you get older, or is
 
 Economist Jing Chen has written that natural selection in biological evolution can be seen as a force towards low entropy states of the human mind at the cost of increasing entropy of the universe: 
 
-<div style="margin-left:3em">
+<div class=indented>
 
 People generally think that physical laws only have limited utility in understanding human behaviour because our mind is free. However, human mind is shaped by natural selection and sexual selection. Living organisms need to extract low entropy from the environment, to defend their low entropy sources and to reduce the diffusion of the low entropy. The struggle to stay in low entropy states is called natural selection. In human societies, agriculture is the main low entropy source. Part of health care systems aim at defending our own low entropy sources to be accessed by viruses and bacteria. The military forces are established to extract low entropy from others and to defend own low entropy sources. Clothing and housing reduce the diffusion of low entropy.
 

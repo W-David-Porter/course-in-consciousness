@@ -16,7 +16,7 @@ This equation is explicitly a first-order differential equation in time, but is 
 
 In contrast with classical physics, in which the results of an observation are implicit in the theory itself, quantum theory requires an interpretation to relate the theory to an observation. There are three broad categories of interpretations.
 
-<div style=margin-left:3rem>
+<div class=indented>
 
 ### 6.1.1. Purely objective interpretations
 

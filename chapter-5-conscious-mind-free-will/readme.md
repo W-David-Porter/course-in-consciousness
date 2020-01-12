@@ -28,7 +28,7 @@ There is a great deal of evidence — some reliable, some not so reliable — th
 
 Russell Targ and Jane Katra in their 1998 book, *Miracles of Mind*, list a few of the extra-sensory abilities that have been demonstrated:
 
-<div style=margin-left:3rem>
+<div class=indented>
 
 Telepathy: Direct mental communication between one mind and another.
 Remote viewing: Obtaining a mental image of a remote target object at which an accomplice is located. This is different from telepathy because the image often contains details not noticed by the accomplice.
@@ -51,7 +51,11 @@ Intuition: Direct, non-analytical awareness that can come from non-local mind, i
 
 The existence of extraordinary abilities attained through the practice of yoga is well established and documented in the literature of *yoga*, where they are called *siddhis*. The fourth century B.C. sage Patanjali enumerated the following *siddhis* in his *Yoga Sutras* (as listed by Targ and Katra):
 
-<p style=margin-left:3rem>Knowledge of past and future; understanding of the sounds made by all creatures; knowledge of past lives; knowing what others are thinking; prior knowledge of one’s death; the attainment of various kinds of strength; perception of the small, the concealed and the distant; knowledge of other inhabited regions; knowing about the stars and their motions; knowledge of the interior of the body; control of hunger and thirst; steadiness; seeing the adepts in one’s own interior light; intuition; understanding of the mind; entering the bodies of others; lightness and levitation; brightness; control of material elements; control of the senses; perfection of the body; quickness of the body.</p>
+<div class=indented>
+
+Knowledge of past and future; understanding of the sounds made by all creatures; knowledge of past lives; knowing what others are thinking; prior knowledge of one’s death; the attainment of various kinds of strength; perception of the small, the concealed and the distant; knowledge of other inhabited regions; knowing about the stars and their motions; knowledge of the interior of the body; control of hunger and thirst; steadiness; seeing the adepts in one’s own interior light; intuition; understanding of the mind; entering the bodies of others; lightness and levitation; brightness; control of material elements; control of the senses; perfection of the body; quickness of the body.
+
+</div>
 
 The effects of non-local mind are clearly experienced when people are meditating in a group. (Because of the interactions between the minds of pairs of meditators, the effects of non-local mind presumably increase with the square of the number of meditators.) The Transcendental Meditation (TM) organisation has conducted several demonstration projects to show the effects on the surrounding community of a large number of people meditating in a group.^[For example, see *Social Indicators Research* 47, 153–201, June 1999; also at [springerlink](http://www.springerlink.com/content/k2hg216724k21411). This project occurred in Washington, D.C. between June 7 and July 30, 1993 and involved up to four thousand people meditating in a group. An independent group of scientists approved the research protocol and analysed statistically the results. The report showed that homicides, rapes, and assaults decreased by 23% (significance p < 2 × 10<sup>-9</sup>) in D.C. during the period and reverted to norms afterwards.]
 
@@ -118,7 +122,7 @@ If consciousness were really a function of complexity, then an extremely complex
 
 In 1930, Austrian-American mathematician Kurt Gödel (1906–1978) showed that, in any finitely describable, logical system (one that can be described by a finite number of statements), that is self-consistent and that contains the rules of arithmetic, there are true statements that are not theorems of the logical system. His proof shows that these true statements can be seen to be true even though they are not theorems.
 
-<div style=margin-left:3rem>
+<div class=indented>
 Before we discuss this theorem, we first define what we mean by a logical system. Consider the statements
 
 <p style=margin-left:3rem>a > b and b > c</p>
@@ -185,7 +189,7 @@ Is the perception of separate objects an ability that the child learns from its 
 
 In his book *Visual Intelligence* (1998, pp. 12–16), Donald D. Hoffman describes the development in the child’s mind of the ability to make conceptual sense out of the confusion of retinal images presented to it:
 
-<div style=margin-left:3rem>
+<div class=indented>
 
 Among the most amazing facts about vision is that kids are accomplished geniuses at vision before they can walk. Before age one, they can construct a visual world in three dimensions, navigate through it quite purposefully on all fours, organise it into objects, and grasp, bite, and recognise those objects … By about the age of one month, kids blink if something moves toward their eyes on a collision course. By three months they use visual motion to construct boundaries of objects. By four months they use motion and stereovision to construct the 3D shapes of objects. By seven months they also use shading, perspective, interposition (in which one object partially occludes another) and prior familiarity with objects to construct depth and shape. By one year they are visual geniuses, and proceed to learn names for the objects, actions and relations they construct…
 
@@ -327,7 +331,9 @@ Thus, to pin our happiness on a chimera such as free will must doom us to a life
 
 In the meditation for December 6 in *A Net of Jewels* (1996), Ramesh Balsekar, a sage who lived in Mumbai, India and who will be quoted frequently in this course, says:
 
-<p style=margin-left:3rem>Freedom is what happens when the arrogant and silly notion that we live our own lives by our own will has fallen off.</p>
+<div class=indented>
+Freedom is what happens when the arrogant and silly notion that we live our own lives by our own will has fallen off.
+</div>
 
 In spite of the prevalent belief in free will, it is not possible to show that free will objectively exists within the split self, as the previous sections showed. Something other than a split self must be the source of true freedom. This something is pure consciousness, which is unified, non-dual, unsplit and totally free, as we shall see in [Part 2](/part-2-metaphysics-non-duality). True freedom is pure subjectivity and is an intrinsic property of pure consciousness. Freedom as pure subjectivity is not the same as freedom of choice. Freedom of choice is an illusion. Freedom as subjectivity exists even in the absence of any objective freedom of choice. In fact, we can say that true freedom is freedom from the burdens and responsibilities of an imagined free will.
 

@@ -41,6 +41,7 @@ module.exports = {
 				path: "/part-2-metaphysics-non-duality/",
 				children: [
 					"/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/",
+					"/chapter-8-transcendental-realms/",
 					"/chapter-9-perceiving-conceptualising/",
 					"/chapter-11-functioning-mind/",
 					"/chapter-12-space-time-causality-destiny/",

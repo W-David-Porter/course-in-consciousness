@@ -194,15 +194,92 @@ According to Goswami, this tangled hierarchy is necessary for sentience to appea
 
 </div>
 
+## 7.7. The second identification: The appearance of the ‘I’
 
+The classical part records in its memory every experience (every collapse) in response to a sensory stimulus. If the same or similar stimulus is again presented to the brain, the memory of the previous stimulus is triggered, and this memory acts as a re-stimulus to the quantum part. The combined quantum–classical wave-function is again collapsed and the new memory reïnforces the old one. Repeated similar stimuli inevitably lead ultimately to an almost totally conditioned response, one in which the probability of a new, creative response approaches zero. The brain then behaves almost like a classical deterministic system. This is depicted in Figure 5:
+
+<div class=centred>
+
+![brain](/images/brain.gif)
+
+*Figure 5. Model of the brain-sensory system*
+
+</div>
+
+The repeated re-stimulation of the quantum part by the classical part results in a chain of secondary collapses. These secondary collapses correspond to the classical states of evoked memories, habitual reactions, introspective experiences and conditioned motor responses. However, we can see evidence for the functioning of the quantum part even in introspection and memory because of the quantum characteristics of the mind that we discussed in [Section 7.4](#_7-4-the-quantum%E2%80%93classical-brain) above.
+
+The secondary processes and repeated running of the learned programs of the classical part conceal from us the essential role of non-local consciousness in collapsing the wave-function and creating an experience. The result is the persistent thought of an entity (the ‘I’-concept) that resides in the mind. Now, a second tangled hierarchy can occur, this time between non-local consciousness and the ‘I’-concept, resulting in *identification of non-local consciousness with the ‘I’-concept*. When this occurs, the illusion of what we call the *ego*, ‘me’, ‘I’-entity or ‘I’-doer is formed. **The ego, or false self, is an assumed separate entity with an assumed power of agency that is associated with the classical, conditioned, deterministic part, while the unconditioned self is an experience that is dominated by the full range of possibilities of the quantum part.** The appearance of the ego is shown graphically in Figure 6:
+
+<div class=centred>
+
+![second identification](/images/second-identification.gif)
+
+*Figure 6. Diagram of the second identification*
+
+</div>
+
+**To recapitulate, two distinct levels of identification (tangled hierarchy) occur, the first resulting in pure awareness, the second resulting in the false self, ego, ‘me’ or fictitious ‘I’-entity.**
+
+The ego does not exist as an entity. It is nothing but a presumption — the presumption that, if thinking, experiencing or doing occur, there must be an entity that thinks, experiences or does. It is the identification of non-local consciousness with the ‘I’-thought in the mind. As a result of this identification, the experience of freedom that is really a property of the unconditioned self becomes limited and is falsely attributed to the ego, resulting in the assumption that the ‘me’ has free will instead of being a completely conditioned product of repeated experiences.
+
+:::tip Exercise
+Look and see if you can find the ego. What did you find?
+:::
+
+If we believe that we are egos, we will believe that our consciousnesses are separate from other consciousnesses and that we have free will. However, at the same time, we will contradictorily perceive ourselves as being inside and subject to space–time and as the victim of our surroundings. The reality is that our *true identity* is the non-local, unitary, unlimited consciousness which transcends space–time, and the *experience* of our true identity is the infinitely free, unconditioned self.
+
+## 7.8. Further discussion of the unconditioned self, the ego and freedom
+
+In this discussion, we must make a clear distinction between the two types of experience that are related to the two types of processes occurring in the brain. The first process to occur in response to a sensory stimulus is the establishment of a response wave-function in the combined quantum–classical brain. This is a superposition of all possibilities of which the brain is capable in response to the stimulus. Non-local consciousness self-referentially collapses the wave-function. Remember that in this first tangled hierarchy, the contextual level of non-local consciousness and the level of the physical brain become inextricably mixed. This tangled hierarchy gives rise to awareness and perception, but *still without the concept of an entity which perceives or observes*. Goswami variously calls this primary awareness, pure awareness, the unconditioned self or the *Atman*. It is important to realise that the unconditioned self is not an entity, thing or object. Pure experience needs no entity. *In this state there is no experiencer and nothing experienced. There is only experiencing itself.* This is the state of the unconditioned infant, and of the enlightened sage (a redundant term).
+
+:::tip Question
+Have you ever experienced pure Awareness? What is the contradiction in that question?
+:::
+
+The other type of experience is related to the secondary processes in the brain. These are the processes in which the classical part re-stimulates the quantum part, and the combined quantum–classical wave-function again collapses into the same or similar classical brain state, which re-stimulates the quantum part, etc. After sufficient conditioning of the classical part, the quantum–classical brain tends to respond in a deterministic pattern of habitual states. Included in these states is the concept of a separate entity. In the second tangled hierarchy, non-local consciousness identifies with this concept, and the assumed ‘me’ or ego arises. When we are in this identified condition, we are normally unaware of both the tangled hierarchies and of the unconditioned self.
+
+Identification that leads to the illusory ‘me’ arises during early childhood when the child has been conditioned to think of itself as a separate person. This occurs after the child has been called repeatedly by its name; has been referred to as ‘you’ (implying that there is another); has been instructed, “Do this!”, “Don‘t do that!”; and generally has been treated as being an independent person separate from its mother. However, one should not think that this conditioning process is something that can be avoided, since it is a necessary part of child development (see [Section 5.8](/chapter-5-conscious-mind-free-will#_5-8-when-and-how-does-a-child-begin-to-perceive-objects)). The child is being conditioned for survival in the world.
+
+The ego is presumed to be the thinker, chooser and doer. However, it is absurd to think that a mere concept could actually be an agent with the power to think, choose or do. The ego is nothing but a figment of the imagination, does not exist as an entity and has no power whatsoever. In reality there is never a thinker, chooser or doer. There is nothing but identification of non-local consciousness (which is not an entity) with the conditioned quantum–classical brain.
+
+There is only one consciousness. Our consciousness is non-local consciousness. My consciousness is identical to your consciousness. Only the contents are different. The entities that we falsely think we are result from identification of this consciousness with a concept in the conditioned mind.
+
+Identification with the hard conditioning and rigid isolation of the fictitious ego is relaxed in so-called transpersonal, or peak, experiences, which lead to a creative expansion of the self-image.^[described by Abraham Maslow in *The Farther Reaches of Human Nature* (1971)] These experiences approach, but are not identical to, those of the unconditioned self, since identification with a self-image is still present although the self-image becomes expanded.
+
+The unconditioned self is experienced as pure awareness, pure presence and pure subjectivity in which there is no entity at all, and which arises when the unconditioned quantum wave-function is first collapsed (or later in life after disidentification from the self-image has occurred). Awareness is what we really are, and is equivalent to the *Atman* of Indian philosophy, or not-self in Buddhism. The goal of all spiritual practice is to disidentify from the fictitious ‘me’ and so to realise our true nature.
 
 ## 7.9. The disappearance of the ego. The experience of freedom from bondage
 
+We are now in a position to complete our discussion of freedom. Goswami uses the term ‘choice’ to mean the non-volitional action of non-local consciousness in selecting a particular possibility out of the range of possibilities defined by the wave-function. (Choice is non-volitional because there is no entity to exert volitional choice.) Without identification, choice is free. With identification, choice becomes limited. However, even when we think we are egos, we are aware and we know that we are aware. Therefore identification of awareness with the I-concept is never actually complete, and this allows the possibility of disidentification from the false self.
 
+We found in [Section 5.9](/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will), [Section 5.10](/chapter-5-conscious-mind-free-will#_5-10-brain-imaging-measurements-on-free-will), [Section 5.11](/chapter-5-conscious-mind-free-will#_5-11-free-will-as-the-possibility-of-alternative-action) and [Section 5.12](/chapter-5-conscious-mind-free-will#_5-12-the-origin-of-the-belief-in-free-will) that freedom of choice does not exist in a separate entity. Therefore, even if the ego were real it would still not have the freedom to choose. However, because the ego is nothing but a fictional self-image, it does not even exist as an entity. Therefore its freedom is doubly fictitious. All choice is the non-volitional choice of non-local consciousness, and complete freedom is the experience of unconditioned, disidentified awareness.
 
+We come now to the paradox of the paradoxical tangled hierarchy ([Section 7.5](#_7-5-paradoxes-and-tangled-hierarchies)). *The ego is the belief that it is free to choose, but it is not. The unconditioned self is freedom itself, but it is not a separate entity that can choose.* Remember from [Section 5.12](/chapter-5-conscious-mind-free-will#_5-12-the-origin-of-the-belief-in-free-will) that the belief in free will depends on a perceived separation or dualism between a controller and a controlled. Within the unconditioned self there is no separation or isolation — there is no entity — so there is no dualism. Hence, in the state of pure, or primary, awareness, there is no illusion of free will.
 
+The experience of true freedom comes from the unconditioned self, whereas what we think of as free will comes from the non-creative, conditioned, imaginary ego. Whenever we experience pure freedom, pure creativity or pure originality, it is a result of a momentary disidentification from the conditioned ego, permitting the experience of the freedom of the unconditioned self to be revealed. This is true freedom, creativity and originality, not the mechanical workings of the conditioned, deterministic brain. During these moments, there is no individual ‘I’. When reidentification occurs, the conditioned ‘I’ reappears and then takes credit for being free, creative and original!
 
+:::tip Questions
+What is the experience of being absent? 
 
+What is the experience of being present?
+:::
+
+The paradox of the paradoxical tangled hierarchy reveals itself in our experience of freedom even when we are bound by our belief that we have free will. The thought of free will, which is a thought of bondage, cannot conceal our true nature, which is pure freedom. However, the ego attributes the experience of freedom to free will instead of to pure consciousness even though *nothing* in the conditioned mind is free.
+
+How can we apply this knowledge to our personal lives? We have seen that our consciousness really is non-local universal consciousness and the goal of all spiritual practice is to know the freedom of unconditioned awareness. This can happen only when disidentification from the fictitious ego-entity has occurred. However, ‘you’ as the ego cannot disidentify from the ego because the ego, being only a concept, can do nothing. Disidentification can only happen spontaneously. But understanding the ego and the feeling of bondage it entails are helpful in disidentification. The practices of [Part 3](/part-3-end-suffering-discovery-true-nature/) show this. However, ‘you’ cannot do them. If they happen, they happen. If not, they don’t (see also Section [5.15](/chapter-5-conscious-mind-free-will#_5-15-if-there-is-no-free-will-how-do-things-happen)).
+
+## 7.10. Critique of Goswami’s model
+
+Goswami’s hypothesis of a quantum part of the brain is only a hypothesis, and it is presently not known whether a quantum part exists. This is not a fundamental problem because it is a hypothesis that eventually can be put to experimental test, and perhaps some day we shall know whether or not some kind of quantum part can be verified.
+
+[Technical note: Every cell has a cytoskeletal structure consisting of microtubules. Some scientists^[e.g., Roger Penrose, *Shadows of the Mind* (1994), Chapter 7] have speculated that these microtubules might support coherent quantum states, i.e., an entire microtubule might exist in a single quantum state instead of in the individual quantum states of its molecules. This coherence would be similar to that exhibited in the Bell–Aspect experiments (see [Section 4.3](/chapter-4-waves-interference#_4-3-bell%E2%80%99s-theorem-the-aspect%E2%80%93groblacher-experiments-and-the-non-locality-of-reality)). If so, the microtubules in the neurons of the brain might comprise the quantum part of the brain, whereas the classical part of the brain might consist of the classically functioning neural synapses. The quantum states of the microtubules would interact with the classical states of the neural synapses to form the coupling between the quantum and classical parts. The microtubules in other types of cells in the body might contribute to a lower level of cellular intelligence.]
+
+The reason Goswami hypothesised a transcendental realm was to explain how wave-function collapse could occur without violating Einsteinian locality. *Goswami’s model, however, contains a fundamental flaw. The transcendental realm is hypothesised to contain the wave-function, yet the wave-function as normally conceived is a function of time and space, which are absent in the transcendental realm and in fact do not appear ‘until’ wave-function collapse.* A more general way of stating the same flaw is that concepts in quantum theory are usually conceived within the context of time and space, so it is in principle impossible to use such quantum concepts in a realm in which space–time is absent. Thus, the concepts of wave-functions and wave-function collapse in the transcendental realm are meaningless.
+
+Goswami’s transcendental realm is only one of several that have been conjectured (see [Section 8.1](/chapter-8-transcendental-realms#_8-1-similarities-between-the-different-transcendental-realms)). Goswami’s model is useful in emphasising the importance of identification and seeing how we are limited by it. In fact, knowing the exact mechanism for identification is not necessary for the validity or understanding of Part 2 and [Part 3](/part-3-end-suffering-discovery-true-nature) of this course. What is necessary is to see that identification is an ongoing process that is never complete, so it is always escapable, and therefore we are not forever doomed to suffer. Disidentification is possible at any time for any person (but the person cannot ‘do’ it).
+
+Nevertheless, because the existence of a transcendental realm, like the existence of any other objective reality, can never be proved, conceiving one is tantamount to sweeping the whole problem of the origin of the world under the rug so that it is out of sight, or to invoking an unexplained and unexplainable god as creator, or to implicitly admitting the impossibility of an explanation. A much more elegant approach is to simply interpret the wave-function as a concept in the mind (see [Section 6.11](/chapter-6-what-does-quantum-theory-mean#_6-11-the-purely-subjective-interpretation)) rather than existing in either a transcendental realm or in space–time. As a pure concept, there is no collapse to try to explain.
 
 ---
+
 #### Footnotes

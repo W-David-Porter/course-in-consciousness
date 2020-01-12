@@ -28,13 +28,18 @@ Important: Because this course makes many statements, the reader might think tha
 
 ## Contents
 
- * [Foreword](./foreword) 
- * [Dialogue in Consciousness](./dialogue-consciousness)
- * [Part 1. Quantum Theory and Consciousness ](./part-1-quantum-theory-consciousness)
-    * [Chapter 1. The Three Major Metaphysical Philosophies](./chapter-1-three-major-metaphysical-philosophies)
-    * [Chapter 2. Classical Physics from Newton to Einstein](./chapter-2-classical-physics-newton-einstein)
-    * [Chapter 3. Quantum physics from Planck and Einstein to Bohr, Heisenberg, de Broglie and Schrödinger](./chapter-3-quantum-physics)
-
+ * [Dialogue in Consciousness](/dialogue-consciousness/)
+ * [Foreword](./foreword/) 
+ * [Part 1. Quantum Theory and Consciousness ](/part-1-quantum-theory-consciousness/)
+   * [Chapter 1. The Three Major Metaphysical Philosophies](/chapter-1-three-major-metaphysical-philosophies/)
+   * [Chapter 2. Classical Physics from Newton to Einstein](/chapter-2-classical-physics-newton-einstein/)
+   * [Chapter 3. Quantum physics from Planck and Einstein to Bohr, Heisenberg, de Broglie and Schrödinger](/chapter-3-quantum-physics)
+   * [Chapter 4. Waves and Interference, Schrödinger’s Cat Paradox and Bell’s Inequality](/chapter-4-waves-interference/)
+   * [Chapter 5. Conscious Mind and Free Will](/chapter-5-conscious-mind-free-will/)
+   * [Chapter 6. What Does Quantum Theory Mean?](/chapter-6-what-does-quantum-theory-mean/)
+ * [Part 2 The Metaphysics of Non-Duality ](/part-2-metaphysics-non-duality/)
+   * [Chapter 7. Summary and critique of Amit Goswami’s interpretation of quantum theory within monistic idealism](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/)
+   * [Chapter 8. Transcendental Realms](/chapter-8-transcendental-realms/)
 
 
 ### From the publisher:

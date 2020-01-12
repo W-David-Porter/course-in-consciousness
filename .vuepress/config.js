@@ -1,4 +1,5 @@
 module.exports = {
+
 	title: "A Course in Consciousness",
 	description: "This is a course in seeing, not in believing.",
 	markdown: {

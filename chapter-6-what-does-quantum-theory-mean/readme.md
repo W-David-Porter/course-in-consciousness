@@ -1,3 +1,7 @@
+---
+next: /part-2-metaphysics-non-duality/
+---
+
 # Chapter 6. What Does Quantum Theory Mean?
 
 [[toc]]
@@ -20,11 +24,13 @@ In a ‘hidden variables’ interpretation, Schrödinger’s equation is correct
 
 ### 6.1.2. Partly objective and partly subjective interpretations
 
-<ul style=list-style-type:lower-alpha>
-<li>In the Copenhagen interpretation, the wave-function exists objectively prior to an observation. At the moment of observation, the wave-function collapses to describe the results of the observation. In this interpretation, quantum theory is either incorrect or incomplete as it stands because it must be modified to describe the phenomenon of wave-function collapse. Because collapse is not understood, this is sometimes called the “shut up and calculate” school, a term attributed to American physicist David Mermin.^[*Physics Today*, May 2004, p. 10.] If conscious observation is assumed to be what collapses the wave-function, this interpretation is partly subjective. If some as yet uncertain, non-standard, objective mechanism collapses the wave-function, this interpretation is purely objective.</li>
-<li>In the ‘many-worlds’ interpretation, the wave-function is assumed to be primary and unchanged by observation. However, at the moment of observation, each possibility in the wave-function manifests in an observed world so there are as many observed worlds as there are possibilities. Because branching requires observation, this interpretation is partly subjective.</li>
-<li>In the interpretation of Christopher Fuchs, there is an objective system but there is no wave-function. However, everything we know about the system is in the form of subjective beliefs.</li>
-</ul>
+<div class="loweralphalist">
+
+1. In the Copenhagen interpretation, the wave-function exists objectively prior to an observation. At the moment of observation, the wave-function collapses to describe the results of the observation. In this interpretation, quantum theory is either incorrect or incomplete as it stands because it must be modified to describe the phenomenon of wave-function collapse. Because collapse is not understood, this is sometimes called the “shut up and calculate” school, a term attributed to American physicist David Mermin.^[*Physics Today*, May 2004, p. 10.] If conscious observation is assumed to be what collapses the wave-function, this interpretation is partly subjective. If some as yet uncertain, non-standard, objective mechanism collapses the wave-function, this interpretation is purely objective.
+2. In the ‘many-worlds’ interpretation, the wave-function is assumed to be primary and unchanged by observation. However, at the moment of observation, each possibility in the wave-function manifests in an observed world so there are as many observed worlds as there are possibilities. Because branching requires observation, this interpretation is partly subjective.
+3. In the interpretation of Christopher Fuchs, there is an objective system but there is no wave-function. However, everything we know about the system is in the form of subjective beliefs.
+
+</div>
 
 ### 6.1.3. Purely subjective interpretations
 

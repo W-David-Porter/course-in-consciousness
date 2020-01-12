@@ -8,13 +8,13 @@
 
 Mind is the conscious experience of the functioning of the brain and senses. This is to be distinguished from the functioning itself. Mind has three important aspects:
 
-<ol style="list-style-type: lower-alpha">
-<li>The <em>contents</em> of mind: Mental contents include thoughts, emotions, feelings, dreams and visions. Perceptual contents include those that are internal to the body as well as those that are external. Perceptual contents that are internal include sensations of pain, pressure, stretching, tension, movement, proprioception and interoception. Many of these involve emotional components as well, such as fear or pleasure. Analogues of these mental and perceptual contents are the shadows on the wall in Plato’s cave allegory (see <a href="/chapter-1-three-major-metaphysical-philosophies/#_1-4-idealism-pure-subjectivity-the-philosophy-that-consciousness-is-all-and-all-is-consciousness">Section 1.4</a>), or the images on the screen in a movie theatre.</li>
+<div class="loweralphalist">
 
-<li>A special case of the contents of mind is the field of mind. The field of mind varies from wide to narrow depending on the degree of focus, and can be directed towards any object. An analogue is the field of view of an optical system such as a telescope or camera.</li>
+1. The <em>contents</em> of mind: Mental contents include thoughts, emotions, feelings, dreams and visions. Perceptual contents include those that are internal to the body as well as those that are external. Perceptual contents that are internal include sensations of pain, pressure, stretching, tension, movement, proprioception and interoception. Many of these involve emotional components as well, such as fear or pleasure. Analogues of these mental and perceptual contents are the shadows on the wall in Plato’s cave allegory (see <a href="/chapter-1-three-major-metaphysical-philosophies/#_1-4-idealism-pure-subjectivity-the-philosophy-that-consciousness-is-all-and-all-is-consciousness">Section 1.4</a>), or the images on the screen in a movie theatre.
+2. A special case of the contents of mind is the field of mind. The field of mind varies from wide to narrow depending on the degree of focus, and can be directed towards any object. An analogue is the field of view of an optical system such as a telescope or camera.
+3. Another special case that is normally assumed to be among the contents of the mind is the subject of mind. (We shall see in <a href="/chapter-9-perceiving-conceptualising/">Chapters 9</a> and <a href="/chapter-11-functioning-mind/">11</a> that there really is no subject in the mind.) In both Plato’s allegory and the movie theatre metaphor, the subjects are the observers in the audience.
 
-<li>Another special case that is normally assumed to be among the contents of the mind is the subject of mind. (We shall see in <a href="/chapter-9-perceiving-conceptualising/">Chapters 9</a> and <a href="/chapter-11-functioning-mind/">11</a> that there really is no subject in the mind.) In both Plato’s allegory and the movie theatre metaphor, the subjects are the observers in the audience.</li>
-</ol>
+</div>
 
 There are several ordinary states of conscious experience, the most common being waking, dreamless sleep and dreaming. There are also altered states of consciousness that can be experienced in meditation or under the influence of mind-altering drugs. Other states are those that are experienced under hypnotic trance, sedation or anaesthesia. All of the contents of our minds are essentially private since our thoughts, feelings, emotions and sensations are entirely our own. For example, any sensation, such as ‘red’, is an experience that we know intimately, but it is impossible to convey that experience to anybody else. We assume that each person has had a similar experience, but we can never know this to be true. Conscious experience may include the state in which there are no objects except the subject and/or the field, and even the state in which there are no objects at all. Such states are achievable in deep meditation.
 
@@ -159,19 +159,24 @@ Art by [Jolyon](https://www.jolyon.co.uk)
 
 Forget for the moment that, without consciousness there may be no physical world ([Section 4.2](/chapter-4-waves-interference/#_4-2-schrodinger’s-cat-paradox)). Does consciousness affect the physical world? It does indeed seem to have an effect on the physical world, although one must be cautious about this:
 
-<ol style=list-style-type:lower-alpha>
-	<li>We are unaware of much of what the body does so consciousness seems to play no role in such functions.</li>
-	<li>Much of what we do consciously would not be different if we were not conscious (see <a href="/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will">Section 5.9</a> also). Does the fact that our perceptions and understanding are conscious actually make a difference? Would not cleverness without consciousness be as good as with consciousness?</li>
-	<li>If animals are unconscious, then those aspects of human behaviour that are like animal behaviour are apparently unaffected by consciousness.</li>
-</ol>
+<div class="loweralphalist">
+
+1. We are unaware of much of what the body does so consciousness seems to play no role in such functions.
+2. Much of what we do consciously would not be different if we were not conscious (see <a href="/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will">Section 5.9</a> also). Does the fact that our perceptions and understanding are conscious actually make a difference? Would not cleverness without consciousness be as good as with consciousness?
+3. If animals are unconscious, then those aspects of human behaviour that are like animal behaviour are apparently unaffected by consciousness.
+
+</div>
 
 However, there are ways in which the physical world seems to be directly affected by consciousness, e.g., books are written about it, we talk about it, courses are given about it, consciousness of suffering stimulates many people to understand suffering in order to end it, and gaining this understanding requires our becoming even more conscious.
 
 :::tip Questions
-Suppose there is no physical world and there is only a subjective world, i.e., the only world that exists is in the mind. Answer the following questions:<ol style=list-style-type:lower-alpha>
-<li>Would it be possible to be unaware of some functions of the body?</li>
-<li>Could we do anything unconsciously?</li>
-<li>Could anything be unconscious?</li></ol>
+Suppose there is no physical world and there is only a subjective world, i.e., the only world that exists is in the mind. Answer the following questions:<div class="loweralphalist">
+
+1. Would it be possible to be unaware of some functions of the body?
+2. Could we do anything unconsciously?
+3. Could anything be unconscious?
+
+</div>
 :::
 
 ## 5.8. When and how does a child begin to perceive objects?
@@ -255,9 +260,12 @@ In order to clarify this definition, we divide the universe into two parts, the 
 
 We now compare the reactions of human agents, in their circumstances, with the reactions of inanimate thermostats, in their circumstances. If we first consider the reactions of identical humans and identical thermostats, the agents can decide differently only as follows:
 
-<ol style=list-style-type:lower-alpha>
-<li>A decision is free if, in different circumstances, two identical agents can make different decisions. This cannot be the meaning of free will since it would also be true if the two agents were thermostats.</li>
-<li>A decision is free if, in identical circumstances, two identical agents can make different decisions. This cannot be the meaning of free will because this implies randomness, not free will, and would be true of any non-deterministic, inanimate agents, such as those that function randomly or quantum mechanically.</li></ol>
+<div class="loweralphalist">
+
+1. A decision is free if, in different circumstances, two identical agents can make different decisions. This cannot be the meaning of free will since it would also be true if the two agents were thermostats.
+2. A decision is free if, in identical circumstances, two identical agents can make different decisions. This cannot be the meaning of free will because this implies randomness, not free will, and would be true of any non-deterministic, inanimate agents, such as those that function randomly or quantum mechanically.
+
+</div>
 
 The following table summarises the alternatives:
 
@@ -354,11 +362,13 @@ A computer acts on an input and generates an output, while a brain acts on a sti
 
 Most computers are programmed in specialised programming operations by humans or other computers (in artificial intelligence applications, computers may also be programmed by their input–output operations). In comparison, *the brain is conditioned continuously through all of its stimulus–response interactions, including not only local interactions with the environment, but also through non-local interactions* (see [Section 5.2](#_5-2-extraordinary-abilities-of-the-mind)). (Actually, this conditioning resides not only in the brain and nervous system but also in every organ of the body that possesses memory, however rudimentary, such as the musculature.) Thus, the enormous differences between a computer and a brain rest on 
 
-<ol style=list-style-type:lower-alpha>
-<li>the differences between the primitiveness of a computer’s design and the complexity of the brain’s structure,</li>
-<li>the differences between the limitations of the purely deterministic functioning in computers and the open-endedness of the probabilistic functioning in the brain, and</li> 
-<li>the differences between the restrictions of the specialised, local interactions of a computer and the vastness of the continuous local and non-local interactions of a brain.</li>
-</ol>
+<div class="loweralphalist">
+
+1. the differences between the primitiveness of a computer’s design and the complexity of the brain’s structure,
+2. the differences between the limitations of the purely deterministic functioning in computers and the open-endedness of the probabilistic functioning in the brain, and
+3. the differences between the restrictions of the specialised, local interactions of a computer and the vastness of the continuous local and non-local interactions of a brain.
+
+</div>
 
 :::tip Exercises
 1. (Easy) Watch as you are walking and see whether you are doing the walking or whether it is happening all by itself. 

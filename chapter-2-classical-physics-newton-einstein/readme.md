@@ -96,21 +96,25 @@ Example #4: Now put two identical balls into a box with two compartments. The nu
 
 Example #5: Now put two identical balls into a box with three compartments. The number of ways you can do this can be counted in the following way:
 
-<ol style="list-style-type: lower-alpha; ; margin-left: 3em">
-<li>The first ball in compartment #1, the second in either of the other two. This adds up to two.</li>
-<li>The first ball in compartment #2, the second in either #1 or #3. But the first arrangement is identical to the first arrangement of (a), so we don’t count it. The second arrangement is new, so we count it. If now the first ball is now put into #3, the second can be put into either #1 or #2, but these are not new, so we don’t count them.</li>
-</ol>
+<div class="loweralphalist">
+
+1. The first ball in compartment #1, the second in either of the other two. This adds up to two.</li>
+2. The first ball in compartment #2, the second in either #1 or #3. But the first arrangement is identical to the first arrangement of (a), so we don’t count it. The second arrangement is new, so we count it. If now the first ball is now put into #3, the second can be put into either #1 or #2, but these are not new, so we don’t count them.
+
+</div>
 
 Thus, the total number of distinguishable arrangements for two identical balls in three compartments is three (the number of combinations of three objects taken two at a time).
 
 Example #6: Now put two identical balls into a box with four compartments. We count the number of possible ways as follows:
 
-<ol style="list-style-type: lower-alpha; margin-left: 3em">
-<li>The first ball in #1, the second in #2, #3, or #4. This adds up to three.</li> 
-<li>The first ball in #2, the second in #1, #3, or #4. The first is the same as the first arrangement of (a), so there are two new distinguishable arrangements.</li> 
-<li>The first ball in #3, the second in #1, #2, or #4. Only the last arrangement is new, so there is one additional distinguishable arrangement.</li>
-<li>The first ball in #4, the second in #1, #2, or #3. Each of these arrangements is identical to (a), (b) or (c), so these are not new.</li>
-</ol>
+<div class="loweralphalist">
+
+1. The first ball in #1, the second in #2, #3, or #4. This adds up to three.
+2. The first ball in #2, the second in #1, #3, or #4. The first is the same as the first arrangement of (a), so there are two new distinguishable arrangements.
+3. The first ball in #3, the second in #1, #2, or #4. Only the last arrangement is new, so there is one additional distinguishable arrangement.
+4.The first ball in #4, the second in #1, #2, or #3. Each of these arrangements is identical to (a), (b) or (c), so these are not new.
+
+</div>
 
 Thus, the total number of distinguishable arrangements for two identical balls in four compartments is six (the number of combinations of four objects taken two at a time).
 

@@ -33,8 +33,7 @@ module.exports = {
 					"/chapter-3-quantum-physics/",
 					"/chapter-4-waves-interference/",
 					"/chapter-5-conscious-mind-free-will/",
-					"/chapter-6-what-does-quantum-theory-mean/",
-					"/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/"
+					"/chapter-6-what-does-quantum-theory-mean/"
 				]
 			},
 			{

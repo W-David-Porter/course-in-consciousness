@@ -9,38 +9,31 @@ Let us review the concept of the probability wave. The quantum wave does not car
 Suppose we do an experiment in which machine gun bullets are fired at a wall with two holes in it (see the top panel in Figure 1). The probability P<sub>12</sub> of finding a bullet from either hole at the backstop to the right of the wall is equal to the probability P<sub>1</sub> of finding a bullet from hole #1 plus the probability P<sub>2</sub> of finding a bullet from hole #2. The probability distributions are simply additive.
 
 <span id=figure1>&nbsp;</span>
-
 ![interference](/images/interference.gif)
-
-Figure 1
+<div style=text-align:center><em>Figure 1</em></div>
 
 When we are dealing with waves, we have a different rule. The superposition principle is one that is obeyed by all waves in material media provided their amplitudes are not too great, and is rigorously obeyed by all electro-magnetic waves and quantum waves. It says that **the net wave amplitude or height at any point in space is equal to the algebraic sum of the heights of all of the contributing waves**. In the case of water waves, we can have separate waves due to the wake of a boat, the splashing of a swimmer and the force of the wind. At any point on the surface of the water, the heights of the waves add, but it is important to include the sign of the height, which can be negative as well as positive. The height of the trough of a water wave is negative while the height of a crest is positive. When a crest is added to a crest, the heights add to give a higher crest, as is shown below. When a trough is added to a crest, the heights tend to cancel. They cancel exactly if the heights of the crest and the trough are exactly equal but opposite in sign. When a trough is added to a trough, a deeper trough is created. When a crest is not lined up with either a crest or a trough, an intermediate wave is created.
 
 ![wave 1](/images/wave1.gif)
-
-Crest added to a crest gives a higher crest.
+<div style=text-align:center><em>Crest added to a crest gives a higher crest.</em></div>
 
 ![wave 2](/images/wave2.gif)
-
-Crest added to a trough gives cancellation.
+<div style=text-align:center><em>Crest added to a trough gives cancellation.</em></div>
 
 ![wave 3](/images/wave3.gif)
+<div style=text-align:center><em>Two waves added out of phase give an intermediate wave.</em></div>
 
-Two waves added out of phase give an intermediate wave.
-
-[Computer animation of the superposition of two waves](http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=35).
+See a [computer animation of the superposition of two waves](http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=35).
 
 The superposition principle leads to the phenomenon of interference. The superposition, or sum, of two waves with the same wavelength at a point in space where both waves have either positive or negative heights results in a summed wave with positive or negative height greater than that of either one, as is shown below. This is called constructive interference. If the individual heights have opposite signs, the interference is destructive, and the height of the summed wave is smaller than the largest height of the two.
 
 ![water wave](/images/water-wave.jpg)
-
-Looking down on a water wave. The bright lines are crests, the dark ones are troughs.
+<div style=text-align:center><em>Looking down on a water wave. The bright lines are crests, the dark ones are troughs.</em></div>
 
 ![water wave interference](/images/water-wave-interference.jpg)
+<div style=text-align:center><em>Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.</em></div>
 
-Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.
-
-[Computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](http://www.walter-fendt.de/ph14e/doubleslit.htm) and [also](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Atomic Lab→Classic Two-Slit Experiment).
+See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](http://www.walter-fendt.de/ph14e/doubleslit.htm) and [also](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Atomic Lab→Classic Two-Slit Experiment).
 
 An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the *square* of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I<sub>12</sub> at the absorber is plotted. Notice the radical difference between the graph of I<sub>>12</sub> for the water waves and the graph of P<sub>>12</sub> for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](http://www.upscale.utoronto.ca/PVB/Harrison/DoubleSlit/Flash/DoubleSlit.html).
 
@@ -53,20 +46,17 @@ Let *ψ1* and *ψ2* be the amplitudes, or heights, of two probability waves repr
 This equation has a simple interpretation. The first term on the right is simply the probability that the first particle would appear if there were no interference from the second particle, and vice versa for the last term. Thus these two terms by themselves could represent the probabilities for classical particles like bullets, even though we do not ordinarily represent them by waves. If the middle term did not exist, this expression would then just represent the sum of two such classical probabilities. In the top panel of [Figure 1](#figure1), it would represent the probability that a bullet came through either the first hole or the second hole and appeared at a particular point on the screen. Figure 2 below shows the actual bullet impacts.
 
 <span id=figure2>&nbsp;</span>
-
 ![two slit pattern for bullets](/images/two-slit-pattern-for-bullets.gif)
-
-Figure 2
+<div style=text-align:center><em>Figure 2</em></div>
 
 The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P<sub>12</sub> in the bottom panel of [Figure 1](#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
 
 ![two slit pattern with electrons](/images/two-slit-pattern-with-electrons.gif)
-
-Figure 3
+<div style=text-align:center><em>Figure 3</em></div>
 
 We can now state an important conclusion from this discussion. Whenever we observe interference, it suggests the existence of real, external, objective waves rather than merely fictitious waves that are only tools for calculating probabilities of outcomes. Consequently, in this chapter we shall assume that quantum waves are real waves and we therefore assume that the wave-function is part of external, objective reality. However, in [Chapter 6](/chapter-6-what-does-quantum-theory-mean) and later, we shall reëxamine this assumption and will suggest an interpretation without an objective reality.
 
-Remember that when we detect quantum waves, we detect particles. Since we are detecting particles, it may seem that the particle must come from one hole or the other, but that is incorrect. The particles that we detect do not come from the holes, they appear at the time of detection. Prior to detection, we have only probability waves. [Computer animation of a two-slit interference pattern (Young’s experiment) that detects particles, whether photons or electrons](http://www.quantum-physics.polytechnique.fr) (topic 1.1).
+Remember that when we detect quantum waves, we detect particles. Since we are detecting particles, it may seem that the particle must come from one hole or the other, but that is incorrect. The particles that we detect do not come from the holes, they appear at the time of detection. Prior to detection, we have only probability waves. See a [computer animation of a two-slit interference pattern (Young’s experiment) that detects particles, whether photons or electrons](http://www.quantum-physics.polytechnique.fr) (topic 1.1).
 
 What happens if we try to see whether we actually have electrons to the left of the detection screen, perhaps by shining a bright light on them between the holes and the detection screen, and looking for reflected light from these electrons? If the light is intense enough to see every electron this way before it is detected at the screen, the interference pattern is obliterated, and we see only the classical particle distribution shown in the top figure. Any measurement which actually manifests electrons to the left of the screen, such as viewing them under bright light, eliminates the probability wave which originally produced the interference pattern. After that we see only particle probability wave distributions.
 

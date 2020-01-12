@@ -27,7 +27,6 @@ module.exports = {
 				title: "Part 1 Quantum Theory and Consciousness",
 				path: "/part-1-quantum-theory-consciousness/",
 				children: [
-					"/part-1-quantum-theory-consciousness/",
 					"/chapter-1-three-major-metaphysical-philosophies/",
 					"/chapter-2-classical-physics-newton-einstein/",
 					"/chapter-3-quantum-physics/",
@@ -41,7 +40,6 @@ module.exports = {
 				title: "Part 2 The Metaphysics of Non-Duality",
 				path: "/part-2-metaphysics-non-duality/",
 				children: [
-					"/part-2-metaphysics-non-duality/",
 					"/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/",
 					"/chapter-9-perceiving-conceptualising/",
 					"/chapter-11-functioning-mind/",

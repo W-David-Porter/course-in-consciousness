@@ -2,7 +2,7 @@
 
 [[toc]]
 
-## 6.1 The interpretation problem
+## 6.1. The interpretation problem
 
 [Technical note: The fundamental equation that must be solved in quantum physics is the Schrödinger equation:
 
@@ -14,11 +14,11 @@ In contrast with classical physics, in which the results of an observation are i
 
 <div style=margin-left:3rem>
 
-### 6.1.1 Purely objective interpretations
+### 6.1.1. Purely objective interpretations
 
 In a ‘hidden variables’ interpretation, Schrödinger’s equation is correct but incomplete as it stands. In this interpretation, quantum theory must be supplemented by the addition of classical particles, which are always present. These particles are assumed to have definite positions and velocities but they are unknown so are called hidden variables. The wave-function is not interpreted as a probability function, but as the source of a quantum force (also a hidden variable) which acts on the particles in addition to the classical forces of electro-magnetism and gravity. In its pure objectivity, this interpretation is the most like classical physics.
 
-### 6.1.2 Partly objective and partly subjective interpretations
+### 6.1.2. Partly objective and partly subjective interpretations
 
 <ul style=list-style-type:lower-alpha>
 <li>In the Copenhagen interpretation, the wave-function exists objectively prior to an observation. At the moment of observation, the wave-function collapses to describe the results of the observation. In this interpretation, quantum theory is either incorrect or incomplete as it stands because it must be modified to describe the phenomenon of wave-function collapse. Because collapse is not understood, this is sometimes called the “shut up and calculate” school, a term attributed to American physicist David Mermin.^[*Physics Today*, May 2004, p. 10.] If conscious observation is assumed to be what collapses the wave-function, this interpretation is partly subjective. If some as yet uncertain, non-standard, objective mechanism collapses the wave-function, this interpretation is purely objective.</li>
@@ -26,13 +26,13 @@ In a ‘hidden variables’ interpretation, Schrödinger’s equation is correct
 <li>In the interpretation of Christopher Fuchs, there is an objective system but there is no wave-function. However, everything we know about the system is in the form of subjective beliefs.</li>
 </ul>
 
-### 6.1.3 Purely subjective interpretations
+### 6.1.3. Purely subjective interpretations
 
 Some physicists think that, if there is an objective reality, it is not described by quantum theory. They think the theory can be used only to calculate the probabilities for the different possible outcomes of a given observation. To them, this is the only interpretation that quantum theory has. This can be called a *subjective interpretation* because the wave-function reflects only our knowledge of a situation rather than describing an objective reality.
 
 </div>
 
-## 6.2 The hidden-variables interpretation: A purely objective interpretation
+## 6.2. The hidden-variables interpretation: A purely objective interpretation
 
 One reason we abandoned classical particles was because we showed they could not go through two slits at once and produce interference, whereas waves could (see [Section 4.1](/chapter-4-waves-interference#_4-1-waves-and-interference
 )). But interference is possible with classical particles if there is also a wave present. A theory that includes both is the hidden variable theory developed by David Bohm (1917–1992)^[brilliant, unconventional American-Brazilian physicist who left the U.S. never to return after being blacklisted in 1949 by Senator Joe McCarthy during the anti-communist hysteria, was arrested and charged with contempt of Congress after pleading the Fifth Amendment and refusing to recant his Marxism, was fired by Princeton University, was later acquitted by the court but lost his American citizenship]. This is the best developed and best known of the hidden variable models. This model is fully deterministic and assumes that the particles are classical and are subject to classical forces (which are all local). However, they are also subject to a quantum force that is derived from a wave-function.^[To be more accurate, there is a quantum potential that is derived from the wave-function, and the quantum force is derived from the quantum potential.] The wave-function is now not a probability wave. Since the particles are assumed to be classical, their positions and velocities are always definite, even before an observation. Contrary to the Copenhagen interpretation, the wave-function in the hidden-variables interpretation is not a complete description of the system because the particle positions are also required. In the initial state, the wave-function specifies the actual distribution of particles in space, not just a probability. The time development of the wave-function is then described by Schrödinger’s equation, as in ordinary quantum theory.
@@ -48,13 +48,13 @@ If the hidden variables interpretation were correct, how would your life be affe
 
 The Bohm theory is not the only possible hidden-variables theory. However, we have already seen that the Aspect experiments excluded all local hidden-variables theories, while the Gröblacher experiments excluded most hidden variables theories whether they are local or not ([Section 4.3](chapter-4-waves-interference#_4-3-bell’s-theorem-the-aspect–groblacher-experiments-and-the-non-locality-of-reality)). Because of these experiments, we shall conclude that it is not likely that hidden-variables theories describe reality.
 
-## 6.3 The Copenhagen interpretation: A partly objective and partly subjective interpretation
+## 6.3. The Copenhagen interpretation: A partly objective and partly subjective interpretation
 
 In this interpretation, before an observation there are no particles, only a wave-function that is a complete description of the system. No other information about the system is possible. At the moment of observation, the wave-function must change from a probability wave that includes all of the possibilities that existed before the observation to one that describes only the possibility that is observed. This is called reduction, or collapse, which is not explained by the theory. In this interpretation, the wave-function is the only external, objective reality that exists prior to an observation.
 
 The Copenhagen interpretation is so named because it was formulated at Niels Bohr’s Copenhagen institute in the 1920s. That the wave-function is the only objective reality is summed up in Bohr’s statement, “There is no quantum world. There is only an abstract quantum description”,^[quoted in Nick Herbert’s book, *Quantum Reality* (1985) p. 17] and in the statement of John Archibald Wheeler (1911–2008, brilliant American theoretical physicist and cosmologist who coined the term ‘black holes’): “No elementary phenomenon is a real phenomenon until it is an observed phenomenon”.^[*ibid.*, p. 18]
 
-## 6.4 What can make an observation in the Copenhagen interpretation?
+## 6.4. What can make an observation in the Copenhagen interpretation?
 
 (In this and the following two sections, we draw heavily on Chapter 11 of the 1990 book by Euan Squires, *Conscious Mind in the Physical World*.) We will first show that any system that is completely described by quantum theory cannot exhibit wave-function reduction.
 
@@ -82,7 +82,7 @@ This leads to a very important conclusion. **Any object in the system that can b
 
 Reduction, or collapse, of the wave-function requires going from a pure state consisting of a superposition to a final state consisting of only one term because the reduced wave-function must describe the detector being in either one state or the other, but not both. **Therefore, no object that can be described by the Schrödinger equation can reduce the wave-function, i.e., make an observation.**
 
-## 6.5 Wave-function reduction in the Copenhagen interpretation; the forward direction of time
+## 6.5. Wave-function reduction in the Copenhagen interpretation; the forward direction of time
 
 Now suppose that I look at the detector and that I also can be described by the Schrödinger equation. Two components are needed to describe me, which we will call me<sup>+</sup> and me<sup>−</sup>, with the obvious connotations. The final wave-function will be the pure state,
 
@@ -96,7 +96,7 @@ Because most physicists are materialists and believe that consciousness is at mo
 
 In the Copenhagen interpretation, *wave-function reduction defines the forward direction of time* because the reduced state is irreversible. This is true for both microscopic and macroscopic systems. Recall from [Section 2.3](/chapter-2-classical-physics-newton-einstein#_2-3-thermodynamics-and-statistical-mechanics-entropy-and-the-direction-of-time) that, in classical physics, the second law of thermodynamics determined the forward direction of time because macroscopic natural processes are statistically irreversible. In classical physics, irreversibility is a property of a system whether or not it is observed, while in the Copenhagen interpretation, irreversibility is a result of observation itself.
 
-## 6.6 Non-locality in the Copenhagen interpretation
+## 6.6. Non-locality in the Copenhagen interpretation
 
 In this section, we shall assume the Copenhagen interpretation. We also assume that the incoming wave-function represents a single electron. We now suppose that we have a Stern–Gerlach experiment with two detectors instead of one, as shown in the figure below. One detector is set up to record the |+,up> part of the electron wave-function, and the other is set up to record the |−,down> part. The detectors may be arbitrarily far apart. At the instant of wave-function collapse, what prevents both detectors from simultaneously recording the electron? This example shows that no local process can collapse the wave-function because such processes cannot prevent simultaneous or near-simultaneous coincidences between the detectors. Hence, we must conclude that **wave-function collapse cannot be produced by any known physical process (which are all local)**. (This result also can be inferred from the Bell–Aspect experiments, see [Section 4.3](chapter-4-waves-interference#_4-3-bell’s-theorem-the-aspect–groblacher-experiments-and-the-non-locality-of-reality).) Since the wave-function collapses over all parts of space simultaneously or nearly simultaneously, it is an intrinsically non-local phenomenon. Thus, any interpretation of quantum theory requiring wave-function collapse is not consistent with a local theory of reality, or with a philosophy such as materialism or scientism (see [Section 1.2](/chapter-1-three-major-metaphysical-philosophies#_1-2-materialism-pure-objectivity-the-philosophy-that-all-is-matter-or-at-least-all-is-governed-by-physical-law
 )).
@@ -129,7 +129,7 @@ Assume there is no objective reality. You see a red object and I see a blue obje
 Is there any way the Copenhagen interpretation can be true?
 :::
 
-## 6.7 The many-worlds interpretation: A partly objective and partly subjective interpretation
+## 6.7. The many-worlds interpretation: A partly objective and partly subjective interpretation
 
 This interpretation was invented by Hugh Everett (1930–1982) in 1957 as a theory that would not require wave-function collapse.^[Biographical note: Hugh Everett published his many-worlds theory as his Ph.D. thesis at Princeton University under John Wheeler. In 1959, his theory was scorned by Neils Bohr (who was wedded to the Copenhagen interpretation) but by this time Everett had already left physics to join the Pentagon to work on mathematical weapons policy research. He later co-founded several companies, which continued to do weapons studies for the military. He promoted the use of game theory in weapons policy, and helped to create the policy of Mutual Assured Destruction to prevent the U.S. from launching pre-emptive nuclear war against the U.S.S.R. and China, which he had calculated would lead to unacceptable loss of life.]
 
@@ -214,7 +214,7 @@ The three general classes of interpretations of quantum theory are the following
 How would your life be different if each of the three different interpretations were true?
 :::
 
-## 6.12 Physics is the study of the mind!
+## 6.12. Physics is the study of the mind!
 
 As we discussed in [Section 1.1](/chapter-1-three-major-metaphysical-philosophies#_1-1-the-assumption-of-objective-reality-a-necessity-for-survival-and-for-science), because all of our experience is subjective, it is clear that the existence of an external reality can never be verified by observation and thus it can only be a metaphysical assumption. Furthermore, if objective reality cannot be observed, it cannot affect any observation because an effect on an observation is an observation. Thus, the concept of an external reality is both unsupportable and unwarranted. However, even though an external reality can itself have no effects, the concept of one certainly can. In fact, in [Chapter 9](/chapter-9-perceiving-conceptualising/) we shall see that it is this concept that causes all of the suffering there is.
 

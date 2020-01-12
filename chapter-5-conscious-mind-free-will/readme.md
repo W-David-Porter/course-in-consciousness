@@ -161,7 +161,7 @@ Forget for the moment that, without consciousness there may be no physical world
 
 <ol style=list-style-type:lower-alpha>
 	<li>We are unaware of much of what the body does so consciousness seems to play no role in such functions.</li>
-	<li>Much of what we do consciously would not be different if we were not conscious (see <a href="5.9. The experiments of Libet, et al., and their implications for free will">Section 5.9</a> also). Does the fact that our perceptions and understanding are conscious actually make a difference? Would not cleverness without consciousness be as good as with consciousness?</li>
+	<li>Much of what we do consciously would not be different if we were not conscious (see <a href="/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will">Section 5.9</a> also). Does the fact that our perceptions and understanding are conscious actually make a difference? Would not cleverness without consciousness be as good as with consciousness?</li>
 	<li>If animals are unconscious, then those aspects of human behaviour that are like animal behaviour are apparently unaffected by consciousness.</li>
 </ol>
 

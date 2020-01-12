@@ -1,5 +1,7 @@
 # Chapter 3. Quantum physics from Planck and Einstein to Bohr, Heisenberg, de Broglie and Schrödinger
 
+[[toc]]
+
 ## 3.1. The beginning of quantum physics by Planck and Einstein
 
 Physicists measure the spectrum (the intensity of light as a function of wavelength, or colour) of a light source in a spectrometer. The figure below shows a schematic drawing of a simple prism spectrometer. White light comes in from the left and the prism disperses the light into its colour spectrum.
@@ -38,7 +40,7 @@ In addition to measuring the spectra of blackbody radiation in the nineteenth ce
 
 ![line spectra](/images/line-spectra.gif)
 
-Line spectra are another example of phenomena that could not be explained by classical physics. Indeed, the explanation could not come until developments in the understanding of the structure of atoms had been made by New Zealander physicist Ernest Rutherford (1871–1937) and co-workers in 1911. By scattering alpha particles (i.e., helium nucleï, which consist of two protons and two neutrons bound together) from thin gold foils, they discovered that the gold atom consisted of a tiny (10<sup>-15</sup> metres) very dense, positively charged nucleus surrounded by a much larger (10<sup>-10</sup> metres) cloud of negatively charged electrons, see figure below. (Quantum mechanically, this picture is not correct, but for now it is adequate.)
+Line spectra are another example of phenomena that could not be explained by classical physics. Indeed, the explanation could not come until developments in the understanding of the structure of atoms had been made by New Zealander physicist Ernest Rutherford (1871–1937) and co-workers in 1911. By scattering alpha particles (i.e., helium nucleï, which consist of two protons and two neutrons bound together) from thin gold foils, they discovered that the gold atom consisted of a tiny (10^-15^ metres) very dense, positively charged nucleus surrounded by a much larger (10^-10^ metres) cloud of negatively charged electrons, see figure below. (Quantum mechanically, this picture is not correct, but for now it is adequate.)
 
 ![rutherford model](/images/rutherford-model.gif)
 

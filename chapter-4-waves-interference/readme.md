@@ -6,7 +6,7 @@
 
 Let us review the concept of the probability wave. The quantum wave does not carry energy, momentum or force. Its sole interpretation is that from it we can calculate the probability that a measurement will yield a particular result, e.g., that photographic film will measure a specific position of an electron in an electron beam, or that a Geiger counter will yield a specific number of gamma rays from a radioactive source. It is only during a measurement that a particle appears. Prior to the measurement, what exists is not something that can be determined by either quantum theory or by experiment, so it is a metaphysical question, not a question of physics. However, that does not mean that the metaphysical answer does not have considerable impact in both the scientific world and one’s personal world. We will say a good deal about such implications later.
 
-Suppose we do an experiment in which machine gun bullets are fired at a wall with two holes in it (see the top panel in Figure 1). The probability P<sub>12</sub> of finding a bullet from either hole at the backstop to the right of the wall is equal to the probability P<sub>1</sub> of finding a bullet from hole #1 plus the probability P<sub>2</sub> of finding a bullet from hole #2. The probability distributions are simply additive.
+Suppose we do an experiment in which machine gun bullets are fired at a wall with two holes in it (see the top panel in Figure 1). The probability P~12~ of finding a bullet from either hole at the backstop to the right of the wall is equal to the probability P~1~ of finding a bullet from hole #1 plus the probability P~2~ of finding a bullet from hole #2. The probability distributions are simply additive.
 
 <span id=figure1>&nbsp;</span>
 ![interference](/images/interference.gif)
@@ -35,7 +35,7 @@ The superposition principle leads to the phenomenon of interference. The superpo
 
 See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](http://www.walter-fendt.de/ph14e/doubleslit.htm) and [also](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Atomic Lab→Classic Two-Slit Experiment).
 
-An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the *square* of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I<sub>12</sub> at the absorber is plotted. Notice the radical difference between the graph of I<sub>>12</sub> for the water waves and the graph of P<sub>>12</sub> for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](http://www.upscale.utoronto.ca/PVB/Harrison/DoubleSlit/Flash/DoubleSlit.html).
+An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the *square* of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I~12~ at the absorber is plotted. Notice the radical difference between the graph of I~>12~ for the water waves and the graph of P~>12~ for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](http://www.upscale.utoronto.ca/PVB/Harrison/DoubleSlit/Flash/DoubleSlit.html).
 
 For quantum waves, we already know that the property that is proportional to the square of the wave amplitude is probability. We now need to find out what interference implies for the measurement of probabilities.
 
@@ -49,7 +49,7 @@ This equation has a simple interpretation. The first term on the right is simply
 ![two slit pattern for bullets](/images/two-slit-pattern-for-bullets.gif)
 <div style=text-align:center><em>Figure 2</em></div>
 
-The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P<sub>12</sub> in the bottom panel of [Figure 1](#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
+The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P~12~ in the bottom panel of [Figure 1](#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
 
 ![two slit pattern with electrons](/images/two-slit-pattern-with-electrons.gif)
 <div style=text-align:center><em>Figure 3</em></div>
@@ -72,28 +72,28 @@ Imagine a closed box containing a single radioactive nucleus and a particle dete
 
 Since the wave-function of the nucleus is a solution to the Schrödinger equation and must describe all possibilities, after one minute it consists of a wave with two terms of equal amplitude, one corresponding to a nucleus with one emitted particle, and one corresponding to a nucleus with no emitted particle, both measured at the same point in space:
 
-<p style=text-align:center>ψ = ψ<sub>1</sub> (particle) + ψ<sub>2</sub> (no particle)</p>
+<p style=text-align:center>ψ = ψ~1~ (particle) + ψ~2~ (no particle)</p>
 
-where, for simplicity, we again assume the wave-functions are real rather than complex. Now, ψ<sub>1</sub><sup>2</sup> is the probability that a measurement would show that a particle was emitted, and ψ<sub>2</sub><sup>2</sup> is the probability that it would show that no particle was emitted. (We shall see below that the interference term 2ψ<sub>1</sub>ψ<sub>2</sub> in ψ<sup>2</sup> does not contribute to the final observed result.)
+where, for simplicity, we again assume the wave-functions are real rather than complex. Now, ψ~1~^2^ is the probability that a measurement would show that a particle was emitted, and ψ~2~^2^ is the probability that it would show that no particle was emitted. (We shall see below that the interference term 2ψ~1~ψ~2~ in ψ^2^ does not contribute to the final observed result.)
 
 The remaining items in the box are all macroscopic, but because they are nothing more than collections of microscopic particles (atoms and molecules) that obey quantum theory, we assume they also obey quantum theory.
 
 [Technical note: If macroscopic objects do not obey quantum theory, we have no other theory to explain them. For example, classical physics cannot explain the following semi-macroscopic and macroscopic phenomena: 
 
-1. Interference fringes (Section 4.1) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms.^[[C<sub>60</sub>F<sub>48</sub>](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
+1. Interference fringes (Section 4.1) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms.^[[C~60~F~48~](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
 2. A superconducting quantum interference device (SQUID) containing millions of electrons was made to occupy Schrödinger’s cat states.^[[Physicists Unveil Schrödinger’s SQUID](http://www.sciencemag.org/cgi/content/full/287/5462/2395a)]
 3. Ferromagnetism, superconductivity and superfluidity all are quantum phenomena which occur in macroscopic systems.
 4. The period of inflation in the early history of the universe is thought to be quantum mechanical in origin.^[[See these excellent lectures in cosmology](http://abyss.uoregon.edu/~js/cosmo/lectures)]
 
 Hence, we assume the Geiger counter can also be described by a wave-function that is a solution to the Schrödinger equation. The combined system of nucleus and detector then must be described by a wave-function that contains two terms, one describing a nucleus and a detector that has detected a particle, and one describing a nucleus and a detector that has not detected a particle:
 
-<p style=text-align:center>ψ = ψ<sub>1</sub> (detected particle) + ψ<sub>2</sub> (no detected particle)</p>
+<p style=text-align:center>ψ = ψ~1~ (detected particle) + ψ~2~ (no detected particle)</p>
 
-Both of these terms must necessarily be present, and the resulting state ψ is a superposition of these two states. Again, ψ<sub>1</sub><sup>2</sup> and ψ<sub>2</sub><sup>2</sup> are the probabilities that a measurement would show either of the two states.
+Both of these terms must necessarily be present, and the resulting state ψ is a superposition of these two states. Again, ψ~1~^2^ and ψ~2~^2^ are the probabilities that a measurement would show either of the two states.
 
 Put into the box a vial of poison gas and connect it to the detector so that the gas is automatically released if the detector counts a particle. Now put into the box a live cat. We assume that the poison gas and cat can also be described by the Schrödinger equation. The final wave-function contains two terms, one describing a detected particle, plus released gas and a dead cat; and one describing no detected particle, no released gas, and a live cat. Both terms must be present if quantum theory can be applied to the box’s contents. The wave-function must describe both a dead cat and a live cat:
 
-<p style=text-align:center>ψ = ψ<sub>1</sub> (detected particle, dead cat) + ψ<sub>2</sub> (no detected particle, live cat)</p>
+<p style=text-align:center>ψ = ψ~1~ (detected particle, dead cat) + ψ~2~ (no detected particle, live cat)</p>
 
 After exactly one minute, you look into the box and see either a live cat or a dead one, but certainly not both! What is the explanation?
 
@@ -101,15 +101,15 @@ Schrödinger considered the possibility that until there is an observation, ther
 
 Now we must ask why the observer himself is not included in the system described by the Schrödinger equation, so we put it in the following equation:
 
-<p style=text-align:center>ψ = ψ<sub>1</sub> (detected particle, observer sees dead cat) + ψ<sub>2</sub> (no detected particle, observer sees live cat)</p>
+<p style=text-align:center>ψ = ψ~1~ (detected particle, observer sees dead cat) + ψ~2~ (no detected particle, observer sees live cat)</p>
 
 If we square this expression, as in Eq. 1, we obtain
 
-<p style=text-align:center>ψ<sup>2</sup> = (ψ<sub>1</sub> + ψ<sub>2</sub>)<sup>2</sup> = ψ<sub>1</sub><sup>2</sup> + 2ψ<sub>1</sub>ψ<sub>2</sub> + ψ<sub>2</sub><sup>2</sup></p>
+<p style=text-align:center>ψ^2^ = (ψ~1~ + ψ~2~)^2^ = ψ~1~^2^ + 2ψ~1~ψ~2~ + ψ~2~^2^</p>
 
-We know that the observer observes only a live or a dead cat, not a superposition. That means that the interference term 2ψ<sub>1</sub>ψ<sub>2</sub> does not contribute to the observation. Why doesn’t it? Schrödinger did not have the benefit of extensive theoretical research done in the last few decades. This has shown that, because in practice it is impossible to isolate any macroscopic object from its environment, we must include its effects in this equation. Environmental effects include all of the interactions between the rest of the universe and everything in the experiment including the detector, the poison gas bottle, the cat, the box and the observer. When such effects are included and averaged over, the interference term gets averaged out, leaving only 
+We know that the observer observes only a live or a dead cat, not a superposition. That means that the interference term 2ψ~1~ψ~2~ does not contribute to the observation. Why doesn’t it? Schrödinger did not have the benefit of extensive theoretical research done in the last few decades. This has shown that, because in practice it is impossible to isolate any macroscopic object from its environment, we must include its effects in this equation. Environmental effects include all of the interactions between the rest of the universe and everything in the experiment including the detector, the poison gas bottle, the cat, the box and the observer. When such effects are included and averaged over, the interference term gets averaged out, leaving only 
 
-<p style=text-align:center>ψ<sup>2</sup> = (ψ<sub>1</sub> + ψ<sub>2</sub>)<sup>2</sup> = ψ<sub>1</sub><sup>2</sup> + ψ<sub>2</sub><sup>2</sup>&emsp;(Equation 2)</p>
+<p style=text-align:center>ψ^2^ = (ψ~1~ + ψ~2~)^2^ = ψ~1~^2^ + ψ~2~^2^&emsp;(Equation 2)</p>
 
 Without the interference term, Equation 2 no longer describes the superposition of a dead cat and a live cat. Superficially, it is similar to the description of classical objects like bullets as was discussed above [Figure 2](#figure2). In the classical case, before an observation the cat is real but either alive or dead. The probabilities represent only our ignorance of the actual case. However, in the quantum case, before an observation there is no cat, live or dead. There is only a wave-function that represents the possibilities that will be manifested when an observation is made.
 
@@ -137,7 +137,7 @@ The two sides of the experiment were 12 metres apart (see the diagram below). Ea
 
 **Conclusion: The system in the first Aspect experiments was either indefinite or non-local but could not have been both definite and local. This result was independent of whether or not quantum theory was valid.**
 
-These experiments could not distinguish between a reality that is not strongly objective but is local; one that is non-local but is strongly objective; and one that is neither strongly objective nor local. Furthermore, the measured value of the function S was always in agreement with the predictions of quantum theory (S<sub>QM</sub> = 2.70 ± 0.05), which assumes that the photons are described by wave-functions.
+These experiments could not distinguish between a reality that is not strongly objective but is local; one that is non-local but is strongly objective; and one that is neither strongly objective nor local. Furthermore, the measured value of the function S was always in agreement with the predictions of quantum theory (S~QM~ = 2.70 ± 0.05), which assumes that the photons are described by wave-functions.
 
 ![bell](/images/bell.gif)
 

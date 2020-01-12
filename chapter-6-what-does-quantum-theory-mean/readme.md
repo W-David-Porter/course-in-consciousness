@@ -70,7 +70,7 @@ We start with an experiment in which an incoming electron is in a superposition 
 
 <div style=text-align:center>|ψ> = α| +> + β |−></div>
 
-All this equation says is that the electron is a wave-function consisting of a superposition of a spin-up component and a spin-down component. Here, |α|<sup>2</sup> is the probability that an observation would see a spin-up particle, and |β|<sup>2</sup> is the probability that it would see a spin-down particle. (These are written with absolute value signs because α and β are in general complex quantities. However, this detail need not concern us here.)
+All this equation says is that the electron is a wave-function consisting of a superposition of a spin-up component and a spin-down component. Here, |α|^2^ is the probability that an observation would see a spin-up particle, and |β|^2^ is the probability that it would see a spin-down particle. (These are written with absolute value signs because α and β are in general complex quantities. However, this detail need not concern us here.)
 
 We now send this electron into a ‘Stern–Gerlach’ apparatus. This contains a non-uniform magnetic field which causes the |+> component of the wave-function to go upward and the |−> component to go downward. Therefore, after the electron passes through the apparatus, the Schrödinger equation tells us that it is described by the pure state wave-function,
 
@@ -90,9 +90,9 @@ Reduction, or collapse, of the wave-function requires going from a pure state co
 
 ## 6.5. Wave-function reduction in the Copenhagen interpretation; the forward direction of time
 
-Now suppose that I look at the detector and that I also can be described by the Schrödinger equation. Two components are needed to describe me, which we will call me<sup>+</sup> and me<sup>−</sup>, with the obvious connotations. The final wave-function will be the pure state,
+Now suppose that I look at the detector and that I also can be described by the Schrödinger equation. Two components are needed to describe me, which we will call me^+^ and me^−^, with the obvious connotations. The final wave-function will be the pure state,
 
-<div style=text-align:center>ψ> = α |+,up,on,me<sup>+</sup>> + β |−,down,off,me<sup>−</sup>></div>
+<div style=text-align:center>ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^></div>
 
 However, if I am aware of the final state of the detector, this wave-function cannot describe the combined system since I know that the detector is either in the ‘on’ state or the ‘off’ state. Something has effectively collapsed the wave-function so that only one term remains.
 
@@ -143,11 +143,11 @@ Many-worlds theory was later adopted by cosmologists to describe the early unive
 
 Let us now look at the Stern-Gerlach experiment in the light of the many-worlds interpretation. We return to the wave-function that describes my observation of the detector:
 
-<div style=text-align:center>ψ> = α |+,up,on,me<sup>+</sup>> + β |−,down,off,me<sup>−</sup>></div>
+<div style=text-align:center>ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^></div>
 
 There can be no reduction of the wave-function now. Both terms must describe reality. The many-worlds interpretation says that at the moment of an observation, the world splits, or branches, and that both branches continue after the observation. There is a me in both branches. This interpretation maintains that in each branch, the me in that branch is aware of only the observation that it made. Since in my world, I am aware of only one result, I exist only in my branch. In the other branch, the other me is aware of the other result. The two branches do not communicate with each other, so the two mes are unaware of each other.
 
-[Technical note: Assuming all of this to be true, what then is the interpretation of α and β? The probabilistic interpretation of quantum theory says that |α|<sup>2</sup> and |β|<sup>2</sup> are the statistical probabilities of each outcome. These probabilities can be measured only by making many observations on identical systems. What can they mean here when we have only one system (the universe)? Bryce S. de Witt in 1970 proposed the following interpretation. In the first trial of such an experiment, both branches result from the observation. If I now make many observations with my apparatus in my branch, I will measure probabilities that agree with |α|<sup>2</sup> and |β|<sup>2</sup>. At each observation, there will be another branching, which will result in this me being in my branch, and another me being in another branch. If each of these other mes continues the observations, he will also measure probabilities which agree with |α|<sup>2</sup> and |β|<sup>2</sup>.]
+[Technical note: Assuming all of this to be true, what then is the interpretation of α and β? The probabilistic interpretation of quantum theory says that |α|^2^ and |β|^2^ are the statistical probabilities of each outcome. These probabilities can be measured only by making many observations on identical systems. What can they mean here when we have only one system (the universe)? Bryce S. de Witt in 1970 proposed the following interpretation. In the first trial of such an experiment, both branches result from the observation. If I now make many observations with my apparatus in my branch, I will measure probabilities that agree with |α|^2^ and |β|^2^. At each observation, there will be another branching, which will result in this me being in my branch, and another me being in another branch. If each of these other mes continues the observations, he will also measure probabilities which agree with |α|^2^ and |β|^2^.]
 
 Quantum theorists^[see, e.g., [Maximilian Schlosshauer, Kristian Camilleri, *The quantum-to-classical transition: Bohr’s doctrine of classical concepts,emergent classicality, and decoherence*](http://arxiv.org/PS_cache/arxiv/pdf/0804/0804.1609v1.pdf)] have realised that Eq. 1 is not a realistic description of the situation because it omits entanglements between the two terms on the right and terms describing the environment, including air molecules, physical apparatus, photons and the rest of the universe. When such interactions are included, the system decoheres and interference between the two terms disappears. Without interference, the terms describing the macroscopic objects (the detector and me) become similar to a classical representation of macroscopic objects except that the terms still refer to wave-functions instead of positions, velocities and orientations. Also, because there has been no collapse, all of the terms remain present and all of them contain interactions with the rest of the universe. Thus, each term represents an entire universe that is very subtly different from the universe represented by the other term. In this sense, the theory is indeed a many-worlds theory.
 

@@ -59,9 +59,13 @@ If you cannot, why would you believe it?
 
 While we may call it reality, external objective reality is not reality at all. An assumption that by its very nature cannot be verified is not a physical assumption, but is called a metaphysical assumption. (Such an assumption can also be called an axiom.) Thus, the bedrock of all science is not science at all but is metaphysics! Not only the nature of science, but also our experience of living, would be fundamentally changed if this assumption were not made. Later in this course, we shall discuss a teaching in which this assumption is not made and which gives us a radically different picture of ourselves and of the world.
 
+<div class="centred">
+
 ![subject–object chasm](/images/subject-object-chasm.gif)
 
 To leap or not to leap? [Art by Jolyon](https://www.jolyon.co.uk)
+
+</div>
 
 ## 1.2. Materialism (pure objectivity): The philosophy that all is matter, or at least, all is governed by physical law
 
@@ -137,8 +141,12 @@ Plato (Greek philosopher, c. 428–c. 348 B.C.) is often considered the first id
 
 Idealism was first expounded by Plato in his cave allegory in *The Republic* (c. 360 B.C.).^[see, e.g., Julia Annas, *An Introduction to Plato’s Republic*, 1981, p. 252] The cave is a metaphor for the mind. Prisoners are in an underground cave with a fire behind them, bound so they can see only the shadows on the wall in front of them, cast by puppets manipulated behind them. They think that this is all there is to see; if released from their bonds and forced to turn around to the fire and the puppets, they become bewildered and are happier left in their original state. They are even angry with anyone who tries to tell them how pitiful their position is. Only a few can bear to realise that the shadows are only shadows cast by the puppets; and they begin the journey of liberation that leads past the fire and right out of the cave into the real world. At first they are dazzled there, and can bear to see real objects only in reflection and indirectly, but then they can look at them directly in the light of the sun, and can even look at the sun itself.
 
+<div class=centred>
+
 ![plato’s cave](/images/platoscave.gif)
- 
+
+</div>
+
 This allegory is related to idealism in the following way. The cave is the mind. The shadows of the puppets that the prisoners are watching represent their taking over, in unreflective fashion, the second-hand opinions and beliefs that are given to them by parents, society and religion. The puppets themselves represent the mechanical, unreasoning minds of the prisoners. The light of the fire within the cave provides only partial, distorted illumination from the imprisoned intellects. Liberation begins when the few who turn around get up and go out of the cave. Outside of the cave, the real objects (the Forms) are those in the transcendental realm. In order to see them, the light of the sun, which represents pure reason, is necessary. A similar allegory using today’s symbols would replace the cave with a movie theatre, the shadows with the pictures on the screen, the puppets with the film, and the fire with the projector light. The sun is outside, and we must leave the theatre to see its light (we must leave the mind).
 
 The next major idealist philosopher was Plotinus (204/5–270 A.D.), who is generally regarded as the founder of Neoplatonism. He was one of the most influential philosophers in antiquity after Plato and Aristotle (who was primarily a philosopher of politics, ethics and nature). The term ‘Neoplatonism’ is an invention of early nineteenth century philosophers and was intended to indicate that Plotinus initiated a new phase in the development of the Platonic tradition. The (greatly simplified) basic principles of Neoplatonism are: 

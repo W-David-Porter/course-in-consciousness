@@ -8,30 +8,51 @@ Let us review the concept of the probability wave. The quantum wave does not car
 
 Suppose we do an experiment in which machine gun bullets are fired at a wall with two holes in it (see the top panel in Figure 1). The probability P~12~ of finding a bullet from either hole at the backstop to the right of the wall is equal to the probability P~1~ of finding a bullet from hole #1 plus the probability P~2~ of finding a bullet from hole #2. The probability distributions are simply additive.
 
-<span id=figure1>&nbsp;</span>
+<div class=centred id=figure1>
+
 ![interference](/images/interference.gif)
-<div style=text-align:center><em>Figure 1</em></div>
+
+<em>Figure 1</em>
+
+</div>
 
 When we are dealing with waves, we have a different rule. The superposition principle is one that is obeyed by all waves in material media provided their amplitudes are not too great, and is rigorously obeyed by all electro-magnetic waves and quantum waves. It says that **the net wave amplitude or height at any point in space is equal to the algebraic sum of the heights of all of the contributing waves**. In the case of water waves, we can have separate waves due to the wake of a boat, the splashing of a swimmer and the force of the wind. At any point on the surface of the water, the heights of the waves add, but it is important to include the sign of the height, which can be negative as well as positive. The height of the trough of a water wave is negative while the height of a crest is positive. When a crest is added to a crest, the heights add to give a higher crest, as is shown below. When a trough is added to a crest, the heights tend to cancel. They cancel exactly if the heights of the crest and the trough are exactly equal but opposite in sign. When a trough is added to a trough, a deeper trough is created. When a crest is not lined up with either a crest or a trough, an intermediate wave is created.
 
+<div class=centred>
+
 ![wave 1](/images/wave1.gif)
-<div style=text-align:center><em>Crest added to a crest gives a higher crest.</em></div>
+
+<em>Crest added to a crest gives a higher crest.</em>
 
 ![wave 2](/images/wave2.gif)
-<div style=text-align:center><em>Crest added to a trough gives cancellation.</em></div>
+
+<em>Crest added to a trough gives cancellation.</em>
 
 ![wave 3](/images/wave3.gif)
-<div style=text-align:center><em>Two waves added out of phase give an intermediate wave.</em></div>
+
+<em>Two waves added out of phase give an intermediate wave.</em>
+
+</div>
 
 See a [computer animation of the superposition of two waves](http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=35).
 
 The superposition principle leads to the phenomenon of interference. The superposition, or sum, of two waves with the same wavelength at a point in space where both waves have either positive or negative heights results in a summed wave with positive or negative height greater than that of either one, as is shown below. This is called constructive interference. If the individual heights have opposite signs, the interference is destructive, and the height of the summed wave is smaller than the largest height of the two.
 
+<div class=centred>
+
 ![water wave](/images/water-wave.jpg)
-<div style=text-align:center><em>Looking down on a water wave. The bright lines are crests, the dark ones are troughs.</em></div>
+
+<em>Looking down on a water wave. The bright lines are crests, the dark ones are troughs.</em>
+
+</div>
+
+<div class=centred>
 
 ![water wave interference](/images/water-wave-interference.jpg)
-<div style=text-align:center><em>Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.</em></div>
+
+<em>Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.</em>
+
+</div>
 
 See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](http://www.walter-fendt.de/ph14e/doubleslit.htm) and [also](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Atomic Lab→Classic Two-Slit Experiment).
 
@@ -45,14 +66,23 @@ Let *ψ1* and *ψ2* be the amplitudes, or heights, of two probability waves repr
 
 This equation has a simple interpretation. The first term on the right is simply the probability that the first particle would appear if there were no interference from the second particle, and vice versa for the last term. Thus these two terms by themselves could represent the probabilities for classical particles like bullets, even though we do not ordinarily represent them by waves. If the middle term did not exist, this expression would then just represent the sum of two such classical probabilities. In the top panel of [Figure 1](#figure1), it would represent the probability that a bullet came through either the first hole or the second hole and appeared at a particular point on the screen. Figure 2 below shows the actual bullet impacts.
 
-<span id=figure2>&nbsp;</span>
+<div class=centred id=figure2>
+
 ![two slit pattern for bullets](/images/two-slit-pattern-for-bullets.gif)
-<div style=text-align:center><em>Figure 2</em></div>
+
+<em>Figure 2</em>
+
+</div>
 
 The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P~12~ in the bottom panel of [Figure 1](#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
 
+<div class=centred>
+
 ![two slit pattern with electrons](/images/two-slit-pattern-with-electrons.gif)
-<div style=text-align:center><em>Figure 3</em></div>
+
+<em>Figure 3</em>
+
+</div>
 
 We can now state an important conclusion from this discussion. Whenever we observe interference, it suggests the existence of real, external, objective waves rather than merely fictitious waves that are only tools for calculating probabilities of outcomes. Consequently, in this chapter we shall assume that quantum waves are real waves and we therefore assume that the wave-function is part of external, objective reality. However, in [Chapter 6](/chapter-6-what-does-quantum-theory-mean) and later, we shall reëxamine this assumption and will suggest an interpretation without an objective reality.
 
@@ -64,9 +94,13 @@ What happens if we try to see whether we actually have electrons to the left of 
 
 This thought experiment was originally created by Schrödinger in an attempt to show the possible absurdities if quantum theory were not confined to microscopic objects alone. (Since then, nobody has succeeded in showing that quantum theory actually is absurd.)
 
+<div class=centred>
+
 ![the cat](/images/the-cat.jpg)
 
 ![cat](/images/cat.gif)
+
+</div>
 
 Imagine a closed box containing a single radioactive nucleus and a particle detector such as a Geiger counter (see drawing above). We assume this detector is designed to detect with certainty any particle that is emitted by the nucleus. The radioactive nucleus is microscopic and therefore can be described by quantum theory. Suppose the probability that the source will emit a particle in one minute is ½ = 50%. The period of one minute is called the half-life of the source. [Animation of the radioactive decay of ‘Balonium’](http://www.upscale.utoronto.ca/PVB/Harrison/Flash/Nuclear/Decay/NuclearDecay.html.)
 
@@ -139,7 +173,11 @@ The two sides of the experiment were 12 metres apart (see the diagram below). Ea
 
 These experiments could not distinguish between a reality that is not strongly objective but is local; one that is non-local but is strongly objective; and one that is neither strongly objective nor local. Furthermore, the measured value of the function S was always in agreement with the predictions of quantum theory (S~QM~ = 2.70 ± 0.05), which assumes that the photons are described by wave-functions.
 
+<div class=centred>
+
 ![bell](/images/bell.gif)
+
+</div>
 
 Bell's function *F* is a measure of the correlations between the polarisations (vibration directions) measured at the two sides *A* and *B*. The existence of correlations does not itself prove that reality is indefinite or non-local. In fact, correlations can exist between measurements at the two sides whether the photons are local and definite (‘real’ photons) or whether they are non-local and indefinite. If they are local and definite, correlations will exist if the two ‘real’ photons emitted by the source are individual particles that are polarised parallel (or perpendicular) to each other. If they are non-local and indefinite, correlations can exist if the system is described by a wave-function that is a coherent superposition of the waves of the two photons (an ‘entangled pair’). Because such a wave-function represents a coherent whole rather than individual particles, it permits correlations that are greater than can exist with local, definite photons. That is why *S* is greater for entangled photons than for local, definite photons, and why the measured violation of Bell’s inequality is consistent with photons described by quantum theory.
 
@@ -157,7 +195,11 @@ In a non-local system, a measurement made at one end of the system is correlated
 
 There can be strong correlations between two random sets that cannot be discovered by looking at one set alone. This is illustrated by the example of random stereograms (see [Magic Eye diagrams](www.magiceye.com) and below) which, when first viewed, look like near-random patterns of coloured dots (see below). However, there are actually two separate near-random patterns present, and they are displaced from each other by a distance roughly equal to the spacing between a person’s eyes. Thus, by looking at the pattern with the direction of the eyes non-convergent as if looking some distance away, the two eyes see different patterns. The correlations between the patterns are discerned by the brain, and a three-dimensional image is seen.
 
+<div class=centred>
+
 ![magic eye](/images/magic-eye.gif)
+
+</div>
 
 Magic Eye images may be easier to see if viewed on paper rather than a computer screen. If possible, print this image and follow the instructions below. (You don’t need to print in colour.)
 

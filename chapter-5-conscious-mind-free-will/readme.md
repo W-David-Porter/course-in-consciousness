@@ -137,9 +137,13 @@ This is a theorem that must be true if the axioms are true. This is an example o
 
 Gödel’s theorem shows that no logical system can produce all of the true statements that are possible. In other words, there are some true statements that cannot be proved within *any* logical system. A conclusion one might draw from this theorem is that consciousness can learn truths that a computer following the rules of logic can never discover. This might mean that a deterministic computer can never model consciousness, or no deterministic computer can be conscious no matter how complex it is. Furthermore, it might mean that no scientific theory (which is a logical system) can explain everything, possibly including consciousness. That would mean that it might never be possible to conceive a true Theory of Everything. (A Theory of Everything is the holy grail of physics. It is a theory that would determine all physical laws and physical constants without inputting any numerical values.)
 
+<div class=centred>
+
 ![godel school work](/images/godel-school-work.gif)
 
-Gödel‘s school work, age 6–7 (J. W. Dawson, Jr., *Logical Dilemmas* (1997))
+<em>Gödel‘s school work, age 6–7 (J. W. Dawson, Jr., Logical Dilemmas (1997))</em>
+
+</div>
 
 In 1982, the American theoretical physicist Richard Feynman (1918–1988) showed that a classical computer (that is, a deterministic one) can never simulate non-locality.^[R.P. Feynman, *Simulating physics with computers*, International Journal of Theoretical Physics, 21, (1982) 467–488] Thus, if non-local mind really exists, a classical computer could never simulate a human mind.
 
@@ -155,9 +159,13 @@ Humans seem to have a sense of inner connection with other humans that could not
 Have you ever experienced a sense of inner connection with a machine?
 :::
 
+<div class=centred>
+
 ![conscious robot](/images/conscious-robot.gif)
 
 Art by [Jolyon](https://www.jolyon.co.uk) 
+
+</div>
 
 ## 5.7. What seem to be the effects of consciousness?
 
@@ -207,7 +215,11 @@ An important special example of the infant seeing separate objects is its percep
 
 We conclude from these studies that our ability to perceive separate objects and individuals is a product of our innate tendencies. Yet, as we shall soon see, the perception of ourselves as separate, autonomous entities is the basis of all of our suffering. Thus, it seems that we are all born with a tendency to suffer. Fortunately, this depressing thought is not the whole truth. We are told by the sages that our perceptions are mistaken and that this mistake can be corrected. But before it can be corrected, it must be understood. Gaining this understanding is the objective of much of the remainder of this course.
 
+<div class=centred>
+
 ![infant perception](/images/infant-perception.gif)
+
+</div>
 
 A six–seven month old infant can see that this object is impossible.^[[http://www.education.umn.edu/ICD/YonasLab/past_studies.html](http://www.education.umn.edu/ICD/YonasLab/past_studies.html)]
 
@@ -219,7 +231,11 @@ Does the experiment of the above figure necessarily imply that the infant sees t
 
 In a ground-breaking series of experiments first reported in 1973, Benjamin Libet (noted American physiology researcher, 1916–2007) showed that the earliest experiential awareness of a sensory stimulus occurs about five hundred milliseconds (0.5 sec) after the stimulus itself (see diagram below).  These experiments involved applying small electrical pulses to the skin of the hands of patients who were undergoing brain surgery, and then measuring the resulting electrical signals from electrodes implanted in the sensory cortex. The initial negative pulse is the primary evoked potential resulting from the nerve impulse travelling from the hand to the brain — it appears 10–30 milliseconds after the skin stimulus. The subsequent wave (average evoked response AER) is the brain’s response to the stimulus.
 
+<div class=centred>
+
 ![retroactive referral](/images/libet3.gif)
+
+</div>
 
 The experiments showed that none of our experiences of perception are in objective time but in fact are delayed by about half a second after the objective events. (Objective time is time as observed on a clock or other measuring instrument.) This delay is the time required for the AER to rise to the level necessary for experiential awareness (neuronal adequacy). (Other experiments showed the necessity of neuronal adequacy for subjective experience to occur.) This means that it is impossible to respond volitionally in less than five hundred milliseconds to any external stimulus since our experience is always delayed by that much. [Libet et. al. also showed that meaningful but unconscious, reflexive behavioural responses can occur in as little as one hundred milliseconds after a stimulus, showing that meaningful behaviour need not be conscious behaviour (e.g., a sprinter exploding from the blocks after the starter’s gun fires).]
 
@@ -227,11 +243,19 @@ The experiments showed that none of our experiences of perception are in objecti
 
 In 1983, Libet et. al.^[*Unconscious cerebral initiative and the role of conscious will in voluntary action*, The Behavioural and Brain Sciences (1985) 529–566] reported an even more profound set of experiments in which a different set of subjects, these without implanted electrodes, were ‘volitionally’ initiating muscular acts rather than responding to sensory stimuli. Electromyogram signals from a designated trigger finger were used to initiate computer storage of the EEG responses (the readiness potential, RP) that had already appeared on the scalp prior to the triggers.^[see diagram subsequent from Alexander Riegler, *Whose Anticipations?* in Butz, M., Sigaud, O., and Gerard, P. (eds), Anticipatory Behaviour in Adaptive Learning Systems: Foundations, Theories, and Systems. Lecture Notes in Artificial Intelligence, Springer–Verlag (2003) 11–22]
 
+<div class=centred>
+
 ![readiness potential](/images/libet2.gif)
+
+</div>
 
 A simplified diagram of these results is shown below:
 
+<div class=centred>
+
 ![readiness potential onset](/images/libet2.gif)
+
+</div>
 
 The results showed that the onset of the readiness potential RP preceded the finger action A by 550–1050 milliseconds, but the experiential awareness of the urge to perform the action preceded the finger action by only about two hundred milliseconds. (This awareness could not be signalled by finger motion because that would require another decision for muscular action. It was measured by having the subject associate his reading of an electronic clock with the onset of his awareness of the decision.) Thus, **the brain prepares to perform a muscle act prior to the subject’s awareness of any urge to act**. Libet speculated that it may be possible to consciously veto the act if it is done within the last 100–200 milliseconds before the it is to occur. However, because there is no muscle action to trigger the recording of a veto event, experimental verification of conscious veto decisions is not possible. Regardless of that, the possibility of volitional veto decisions is overruled by the considerations in the following paragraph, and by those in [Sections 5.10](#_5-10-brain-imaging-measurements-on-free-will) and [5.12](_5-12-the-origin-of-the-belief-in-free-will).
 
@@ -247,7 +271,11 @@ Art by [Jolyon](https://www.jolyon.co.uk)
 
 Even more remarkable than the Libet et al. experiments, were the 2008 experiments of C. S. Soon, M. Brass, H.-J. Heinze, and J.-D. Haynes,^[[Unconscious determinants of free decisions in the human brain](http://www.nature.com/neuro/journal/v11/n5/full/nn.2112.html,%20doi:10.1038/nn.2112)] who made functional magnetic resonance images of the brain activity of a subject prior to the subject’s ‘free’ decision of whether to push a button with the right index finger or the left. In comparison to the brain preparation time of three hundred milliseconds in the Libet, et al. experiments, these experiments showed that the brain prepared the timing of the action up to five seconds before the subject’s awareness of the decision. More remarkable yet, the brain prepared the handedness of the decision even before it prepared the timing, i.e., the spatial pattern of the brain images indicated which button would be pushed up to seven seconds before the awareness of which button would be pushed. (After allowing for the two thousand milliseconds response time of the imaging equipment, left–right predictions were possible for up to ten seconds before the awareness of the decision.) In the diagram below, the dark blue brain image voxels predict a left-button push, while the yellow brain image voxels predict a right-button push.^[Instead of watching a clock as in the Libet, et al. experiments, the subject observed a screen that flashed a consonant letter every five hundred milliseconds in random order. The subject then remembered the letter that was present at the subjective time of decision. The randomness of the letters ensured that the subject could not anticipate the next letter and therefore bias the timing of the awareness of the decision towards earlier times.]
 
+<div class=centred>
+
 ![brain image](/images/brain-image.jpg)
+
+</div>
 
 :::tip Question
 Suppose somebody tells you that he will raise his right arm in ten seconds and then proceeds to count off the seconds after which he raises his right arm. Is that an example of free will?<br>

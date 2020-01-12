@@ -78,7 +78,11 @@ We now send this electron into a ‘Stern–Gerlach’ apparatus. This contains 
 
 where it is obvious that |+,up> goes up and |-,down> goes down. This wave-function is not arbitrary — given the initial state wave-function and the characteristics of the Stern–Gerlach apparatus, the Schrödinger equation dictates this form. We now send the electron into a detector, which records ‘on’ if the |+> component is detected and ‘off’ if the |-> component is detected. (The labels ‘on’ and ‘off’ are purely arbitrary. They could also be called, e.g., ‘1’ and ‘0’.) To make this clear, a diagram is shown below.
 
+<div class=centred>
+
 ![stern gerlach 1](/images/stern-gerlach1.gif)
+
+</div>
 
 We assume that the detector, like the rest of the system, is described by the Schrödinger equation. We must then include the state of the detector in the wave-function, and the pure state becomes
 
@@ -107,11 +111,19 @@ In the Copenhagen interpretation, *wave-function reduction defines the forward d
 In this section, we shall assume the Copenhagen interpretation. We also assume that the incoming wave-function represents a single electron. We now suppose that we have a Stern–Gerlach experiment with two detectors instead of one, as shown in the figure below. One detector is set up to record the |+,up> part of the electron wave-function, and the other is set up to record the |−,down> part. The detectors may be arbitrarily far apart. At the instant of wave-function collapse, what prevents both detectors from simultaneously recording the electron? This example shows that no local process can collapse the wave-function because such processes cannot prevent simultaneous or near-simultaneous coincidences between the detectors. Hence, we must conclude that **wave-function collapse cannot be produced by any known physical process (which are all local)**. (This result also can be inferred from the Bell–Aspect experiments, see [Section 4.3](chapter-4-waves-interference#_4-3-bell’s-theorem-the-aspect–groblacher-experiments-and-the-non-locality-of-reality).) Since the wave-function collapses over all parts of space simultaneously or nearly simultaneously, it is an intrinsically non-local phenomenon. Thus, any interpretation of quantum theory requiring wave-function collapse is not consistent with a local theory of reality, or with a philosophy such as materialism or scientism (see [Section 1.2](/chapter-1-three-major-metaphysical-philosophies#_1-2-materialism-pure-objectivity-the-philosophy-that-all-is-matter-or-at-least-all-is-governed-by-physical-law
 )).
 
+<div class=centred>
+
 ![stern gerlach 2](/images/stern-gerlach2.gif)
+
+</div>
 
 Now suppose there are two observers, you and I (see figure below), so that you observe the |−,down> state while I simultaneously observe the |+,up> state. Then when I observe my detector to record ‘on’, you must observe your detector to record ‘off’ because there is only one electron. Thus, if consciousness collapses the wave-function, it must be the same consciousness that collapses it at both detectors. **Therefore, there can be only one consciousness and it must be non-local.**
 
+<div class=centred>
+
 ![stern gerlach 3](/images/stern-gerlach3.gif)
+
+</div>
 
 This conclusion can be illustrated in a much simpler example than the experiment described above. We still assume that an object is represented by a wave-function prior to an observation. Now suppose two observers make simultaneous observations of the same object whose colour is unknown before the observation. In this case all possible colours must be represented in the wave-function of the object before it is observed. Then why do both observers observe the same colour rather than one observer observing, for example, a red object and the other observing a blue object? If consciousness collapses the wave-function, the answer must be that the consciousness of both observers is the same consciousness. **Thus, the consciousness of all sentient observers is the same non-local universal consciousness.**
 
@@ -159,7 +171,11 @@ While the many-worlds interpretation is very economical in terms of the number o
 Is there any way the many-worlds interpretation could be true?
 :::
 
+<div class=centred>
+
 ![parallel universe](/images/parallel-universe.gif)
+
+</div>
 
 ## 6.8. The similarity between the Copenhagen and many-worlds interpretations
 

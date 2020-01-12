@@ -186,7 +186,12 @@ Now we ask, what is the electro-magnetic field, anyway? Is it a physical object?
 
 In the 1800s, it was known that light had a wave-like nature, and classical physics assumed that it was indeed a wave. Waves are travelling oscillations. Examples are water waves, which are travelling surface oscillations of water; and waves on a tightly stretched rope, which are travelling oscillations of the rope. Waves are characterised by three parameters: wavelength (λ), oscillation frequency (f) and velocity (v).
 
+<div class=centred>
+
 ![wave](/images/wave.gif)
+
+</div>
+
 
 These parameters are related by the following equation:
 
@@ -194,8 +199,9 @@ These parameters are related by the following equation:
 
 The electro-magnetic spectrum (see previous section) contains electro-magnetic waves of all frequencies and wavelengths:
 
+<div class=centred>
 ![electro-magnetic spectrum](/images/electromagneticspectrum.gif)
-
+</div>
 
 Waves are demonstrated at [www.surendranath.org/Applets.html](http://www.surendranath.org/Applets.html) (→Waves→Transverse Waves) and [www.colorado.edu/physics/2000/index.pl](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Science Trek→Catch the Wave).
 
@@ -288,7 +294,11 @@ From your own experience alone, answer the question, “What is space, anyway?�
 
 In classical physics, objects interact with each other through their force fields, which are also objects in external, objective reality. For example, the atoms and molecules in a solid, liquid or gas are held together by the electro-magnetic force. Charged particles also interact through the electro-magnetic force. It turns out that all physical objects, which are nothing but concepts, interact with each other through their force fields, which are also nothing but concepts (see [Section 2.4](#_2-4-electromagnetism)).
 
+<div class=centred>
+
 ![dilbert on gravity](/images/dilbertongravity.gif)
+
+</div>
 
 As revolutionary as Einstein’s general theory of relativity was, it did nothing to change the belief that we as observers still live within the context of space–time even though space–time is no longer thought to be absolute and unchanging. This means, for example, that we as objects are still subject to the experience of separation and isolation from other objects, and to the experience of ageing and the ultimate death of the body. It took an even more revolutionary theory, the quantum theory, to begin to shake these imprisoning beliefs.
 

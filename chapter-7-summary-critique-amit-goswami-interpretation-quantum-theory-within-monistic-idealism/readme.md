@@ -63,12 +63,17 @@ What is the evidence for the constant and simultaneous creation of space–time,
 
 Non-local consciousness collapses the wave-function. Space–time, perceived objects and perceiving objects simultaneously appear. The external, perceived objects, many of which are also perceiving objects, form the external, objective, empirical reality. These objects are macroscopic and classical; therefore they have essentially no uncertainties in position and velocity. They appear to be stable because, while their wave-functions change ‘between’ observations, in perceived time this happens slowly. Perceiving objects derive their self-consciousness and awareness from the non-local, universal consciousness that materialises them. We will see later how this happens.
 
-<span id=figure1></span>
+<div class=centred id=figure1>
+
 ![goswami realms](/images/goswami-realms.gif)
-<div style="text-align:center"><em>Figure 1. Manifestation of sentience by wave-function collapse.</em></div>
+
+<em>Figure 1. Manifestation of sentience by wave-function collapse.</em>
 
 ![self aware universe](/images/self-aware-universe.gif)
-<div style="text-align:center"><em>The universe creates itself by observing itself (J.A. Wheeler, 1975)</em></div>
+
+<em>The universe creates itself by observing itself (J.A. Wheeler, 1975)</em>
+
+</div>
 
 ## 7.4. The quantum–classical brain
 
@@ -95,13 +100,23 @@ In Goswami’s model, the brain, consisting of coupled quantum and classical par
 
 The presence of the quantum part of the brain provides a large, possibly infinite, number of possibilities available to the classical part. (In our simple analogies, the only available possibilities were the spin-up and spin-down states in the Stern–Gerlach experiment, and the decay and no-decay states of the radioactive nucleus in the Schrödinger cat example.) All of the creativity and originality that the brain has comes from the quantum part, see Figure 2.
 
+<div class=centred>
+
 ![brain parts](/images/brain-parts.gif)
-<div style=text-align:center><em>Figure 2. Quantum-classical model of the brain</em></div>
+
+<em>Figure 2. Quantum-classical model of the brain</em>
+
+</div>
 
 Just as in our analogies, the presence of the classical part is necessary for collapse to occur and to provide the experienced final states. In our analogies, these final states were the observed states of detector-on or detector-off, and live-cat or dead-cat. Only the states of the classical part can be experienced by consciousness, exactly as in these analogies. These classical states must be distinct and non-overlapping to correspond to our experience of only one distinct event at a time. They must also be memory states, which are states that are irreversible in time (resulting in the experience of time moving forward), with wave-functions that change only slowly so that persistent records of the collapsed events are made, leading to a sense of continuity in our experiences. The classical part functions completely deterministically just like any classical machine. The quantum states of the two parts of the brain are depicted in Figure 3.
 
+<div class=centred>
+
 ![brain wave function](/images/brain-wave-function.gif)
-<div style=text-align:center><em>Figure 3. Quantum-classical states of the brain</em></div>
+
+Figure 3. Quantum-classical states of the brain</em>
+
+</div>
 
 Unitary, non-local consciousness chooses (see [Section 7.9](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism#_7-9-the-disappearance-of-the-ego-the-experience-of-freedom-from-bondage)) the state to be experienced, but because the classical part is localised and isolated, the experience of the final brain states is local and individual. Although we are aware of the experience of an event, we are unaware of the choosing process that collapses the wave-function that results in the event, i.e., the choice is made unconsciously. This is clearly so when we are passively observing passing events so that the time sequence appears to proceed on its own without our intervention. However, it is even true when we think we are making decisions (see [Section 5.9](/chapter-5-conscious-mind-free-will#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will)).
 
@@ -171,8 +186,14 @@ In experiential terms, what is the evidence for the identification of non-local 
 
 According to Goswami, this tangled hierarchy is necessary for sentience to appear and for the life processes of the physical mechanism to occur. It also produces the experience of awareness: Non-local consciousness thereby becomes aware. We may call this state the *unconditioned* self. This is shown graphically in Figure 4:
 
+<div class=centred>
+
 ![first identification](/images/first-identification.gif)
-<div class=indented><em>Figure 4. Diagram of the first identification</div>
+
+*Figure 4. Diagram of the first identification*
+
+</div>
+
 
 
 ## 7.9. The disappearance of the ego. The experience of freedom from bondage

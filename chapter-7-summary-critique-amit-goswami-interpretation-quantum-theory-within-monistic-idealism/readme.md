@@ -1,7 +1,3 @@
----
-prev: /part-2-metaphysics-non-duality/
----
-
 # Chapter 7. Summary and critique of Amit Goswami’s interpretation of quantum theory within monistic idealism
 
 [[toc]]

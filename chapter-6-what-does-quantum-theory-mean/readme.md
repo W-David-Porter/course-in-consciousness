@@ -1,7 +1,3 @@
----
-next: /part-2-metaphysics-non-duality/
----
-
 # Chapter 6. What Does Quantum Theory Mean?
 
 [[toc]]

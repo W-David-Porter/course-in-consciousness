@@ -1,8 +1,3 @@
----
-next: /part-1-quantum-theory-consciousness/
----
-
-
 # Foreword
 
 From 1992 through 1995, I taught several seminars on reality and consciousness according to quantum theory for humanities undergraduates at the University of Virginia. These seminars attempted to outline in an understandable way to the non-scientist the reasons why consciousness is a necessary part of the most widely accepted interpretations of quantum theory. For these seminars, I wrote concise but complete notes which I handed out to my students, and which summarised the salient points in order to make as clear as possible the scientific basis for the seminar. A revised and refined version of these notes comprises [Part 1](/part-1-quantum-theory-consciousness/) of this work. 

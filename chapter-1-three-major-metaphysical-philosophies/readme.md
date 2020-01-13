@@ -1,6 +1,3 @@
----
-prev: /part-1-quantum-theory-consciousness/
----
 # Chapter 1. The Three Major Metaphysical Philosophies 
 
 [[toc]]

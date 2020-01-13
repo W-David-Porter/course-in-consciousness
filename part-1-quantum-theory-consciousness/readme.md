@@ -1,8 +1,3 @@
----
-prev: /foreword/
-next: /chapter-1-three-major-metaphysical-philosophies/
----
-
 # Part 1 Quantum Theory and Consciousness
 
 ## Preface

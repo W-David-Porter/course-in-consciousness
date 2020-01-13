@@ -1,7 +1,3 @@
----
-prev: /chapter-6-what-does-quantum-theory-mean/
-next: /chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/
----
 # Part 2 The Metaphysics of Non-Duality
 
 ## Preface 

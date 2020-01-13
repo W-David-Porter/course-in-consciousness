@@ -35,13 +35,16 @@ module.exports = {
 			"/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/",
 			"/chapter-8-transcendental-realms/",
 			"/chapter-9-perceiving-conceptualising/",
+			"/chapter-10-teaching-non-duality/",
 			"/chapter-11-functioning-mind/",
 			"/chapter-12-space-time-causality-destiny/",
+			"/chapter-13-some-useful-metaphors/",
 			"/chapter-14-religion-belief-non-duality/",
 			"/chapter-16-love-seeking-itself/",
 			"/part-3-end-suffering-discovery-true-nature/",
-			"chapter-23-disidentification-through-inquiry/",
-			"chapter-24-disidentification-through-meditation/"
+			"/chapter-21-resistance-clinging-acceptance/",
+			"/chapter-23-disidentification-through-inquiry/",
+			"/chapter-24-disidentification-through-meditation/"
 		]
 	},
 	evergreen: true,

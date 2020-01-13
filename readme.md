@@ -40,7 +40,12 @@ Important: Because this course makes many statements, the reader might think tha
  * [Part 2 The Metaphysics of Non-Duality ](/part-2-metaphysics-non-duality/)
    * [Chapter 7. Summary and critique of Amit Goswami’s interpretation of quantum theory within monistic idealism](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/)
    * [Chapter 8. Transcendental Realms](/chapter-8-transcendental-realms/)
-
+   * [Chapter 9. Perceiving and Conceptualising](/chapter-9-perceiving-conceptualising/)
+   * [Chapter 10. The Teaching of Non-Duality](/chapter-10-teaching-non-duality/)
+   * [Chapter 11. The Functioning of the Mind](/chapter-11-functioning-mind/)
+   * [Chapter 12. Space, Time, Causality and Destiny](/chapter-12-space-time-causality-destiny/)
+   * [Chapter 13. Some Useful Metaphors](/chapter-13-some-useful-metaphors/)
+   * [Chapter 14. Religion, Belief and Non-Duality](/chapter-14-religion-belief-non-duality/)
 
 ### From the publisher:
 

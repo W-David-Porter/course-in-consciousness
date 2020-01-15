@@ -1,4 +1,4 @@
-# Chapter 23. Disidentification through inquiry
+# Chapter 23. Disidentification Through Inquiry
 
 [[toc]]
 

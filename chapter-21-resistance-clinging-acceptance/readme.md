@@ -1,4 +1,4 @@
-# Chapter 21. Resistance, Clinging, and Acceptance
+# Chapter 21. Resistance, Clinging and Acceptance
 
 [[toc]]
 

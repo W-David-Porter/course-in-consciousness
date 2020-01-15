@@ -37,7 +37,7 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 4. Waves and Interference, Schrödinger’s Cat Paradox and Bell’s Inequality](/chapter-4-waves-interference/)
    * [Chapter 5. Conscious Mind and Free Will](/chapter-5-conscious-mind-free-will/)
    * [Chapter 6. What Does Quantum Theory Mean?](/chapter-6-what-does-quantum-theory-mean/)
- * [Part 2 The Metaphysics of Non-Duality ](/part-2-metaphysics-non-duality/)
+ * [Part 2. The Metaphysics of Non-Duality](/part-2-metaphysics-non-duality/)
    * [Chapter 7. Summary and critique of Amit Goswami’s interpretation of quantum theory within monistic idealism](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/)
    * [Chapter 8. Transcendental Realms](/chapter-8-transcendental-realms/)
    * [Chapter 9. Perceiving and Conceptualising](/chapter-9-perceiving-conceptualising/)
@@ -46,6 +46,13 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 12. Space, Time, Causality and Destiny](/chapter-12-space-time-causality-destiny/)
    * [Chapter 13. Some Useful Metaphors](/chapter-13-some-useful-metaphors/)
    * [Chapter 14. Religion, Belief and Non-Duality](/chapter-14-religion-belief-non-duality/)
+   * [Chapter 16. Love Seeking Itself](/chapter-16-love-seeking-itself/)
+ * [Part 3. The End of Suffering and the Discovery of Our True Nature](/part-3-end-suffering-discovery-true-nature/)
+   * [Chapter 19. Surrender, Mantra and Trust](/chapter-19-surrender-mantra-trust/)
+   * [Chapter 20. Understanding by Direct Seeing](/chapter-20-understanding-direct-seeing/)
+   * [Chapter 21. Resistance, Clinging and Acceptance](/chapter-21-resistance-clinging-acceptance/)
+   * [Chapter 23. Disidentification Through Inquiry](/chapter-23-disidentification-through-inquiry/)
+   * [Chapter 24. Disidentification Through Meditation](/chapter-24-disidentification-through-meditation/)
 
 ### From the publisher:
 

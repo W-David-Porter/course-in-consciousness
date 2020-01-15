@@ -1,4 +1,4 @@
-# Chapter 24. Disidentification through meditation
+# Chapter 24. Disidentification Through Meditation
 
 [[toc]]
 

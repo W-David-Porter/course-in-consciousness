@@ -9,6 +9,9 @@
 
 ## 12.2. Speculations on the concepts of nonlocality in time and space
 
-
+## 12.3. The concept of causality
 
 ## 12.5. The concepts of destiny and God’s will
+
+
+## 12.7. Maya, the divine hypnosis

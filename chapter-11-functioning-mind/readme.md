@@ -4,7 +4,7 @@
 
 ## 11.1 The nature of duality
 
-
+## 11.2. The appearance of sentience within Consciousness
 
 ## 11.3. Manifestation: The first level of identification
 

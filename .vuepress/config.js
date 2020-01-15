@@ -42,6 +42,8 @@ module.exports = {
 			"/chapter-14-religion-belief-non-duality/",
 			"/chapter-16-love-seeking-itself/",
 			"/part-3-end-suffering-discovery-true-nature/",
+			"/chapter-19-surrender-mantra-trust/",
+			"/chapter-20-understanding-direct-seeing/",
 			"/chapter-21-resistance-clinging-acceptance/",
 			"/chapter-23-disidentification-through-inquiry/",
 			"/chapter-24-disidentification-through-meditation/"

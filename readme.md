@@ -3,13 +3,13 @@ home: true
 heroImage: ./images/stanley.jpg
 heroText: A Course in Consciousness
 tagline: by Stanley Sobottka
-actionText: Awaken →
+actionText: Start →
 actionLink: /dialogue-consciousness/
 features:
 - title: Part 1
   details: Quantum theory and consciousness
 - title: Part 2
-  details: The metaphysics of nonduality
+  details: The metaphysics of non-duality
 - title: Part 3
   details: The end of suffering and the discovery of our true nature 
 footer: by Stanley Sobottka, https://courseinconsciousness.org/. Permission is granted by the authoer to copy and distribute freely. Changes in content are not permitted.

@@ -8,4 +8,6 @@
 
 ## 13.4. The shadow
 
+## 13.6. The thorns
+
 ## 13.9. The dust in a light beam

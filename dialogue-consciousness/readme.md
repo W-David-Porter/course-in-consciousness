@@ -102,11 +102,11 @@
 	<li>What is the personal sense of doërship?
 		<ol class=alpha>
 			<li>Along with illusory ‘I’-object, arises also the sense of personal doërship.</li>
-			<li>However, since there is no ‘I’-object, there is no doer, no thinker, no chooser and no observer.</li>
+			<li>However, since there is no ‘I’-object, there is no doër, no thinker, no chooser and no observer.</li>
 			<li>Therefore, ‘we’ have no control. Thus, whatever happens, happens. Whatever doesn’t happen, doesn’t happen.</li>
 		</ol>
 	</li>
-	<li>If there is no doer, how do things happen?
+	<li>If there is no doër, how do things happen?
 		<ol class=alpha>
 			<li>Everything that happens is only an arising in Awareness/Presence.</li>
 			<li>Only one arising is present at any moment. No other arisings are ever present to affect the arising that is present.</li>
@@ -133,15 +133,15 @@
 	</li>
 	<li>What can we do to awaken?
 		<ol class=alpha>
-			<li>Since direct seeing shows that there is no doer, there is nothing that the ‘individual’ can do to awaken.</li>
+			<li>Since direct seeing shows that there is no doër, there is nothing that the ‘individual’ can do to awaken.</li>
 			<li>Since awakening transcends time, no practice that occurs in time can bring about awakening. Thus most practices do not bring about awakening.</li>
 			<li>However, direct seeing can bring about awakening because direct seeing is timeless seeing.</li>
 		</ol>
 	</li>
 	<li>Does this mean that there is no hope for the sufferer?
 		<ol class=alpha>
-			<li>Definitely not. There are many practices that will lead to less suffering. However, like all other actions, they are never done by a doer since there is no doer. Therefore, ‘we’ cannot do them. If they happen, they happen. If not, they don’t.</li>
-			<li>Example: To see that there is no ‘I’, look inward for it and see that there is none. See also that everything that happens, including all thoughts and feelings, happens spontaneously so there can be no doer.</li>
+			<li>Definitely not. There are many practices that will lead to less suffering. However, like all other actions, they are never done by a doër since there is no doër. Therefore, ‘we’ cannot do them. If they happen, they happen. If not, they don’t.</li>
+			<li>Example: To see that there is no ‘I’, look inward for it and see that there is none. See also that everything that happens, including all thoughts and feelings, happens spontaneously so there can be no doër.</li>
 			<li>Example: To see that no object exists, look and see that all objects are nothing but arisings in Awareness/Presence. Then, look and see that no object could ever bring ‘you’ peace. Finally, see that nothing can affect You who are Awareness/Presence Itself.</li>
 		</ol>
 	</li>

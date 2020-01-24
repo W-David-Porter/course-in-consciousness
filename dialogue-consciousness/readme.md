@@ -99,9 +99,9 @@
 			<li>Awareness/Presence welcomes/loves all apparent objects that appear in It.</li>
 		</ol>
 	</li>
-	<li>What is the personal sense of doership?
+	<li>What is the personal sense of doërship?
 		<ol class=alpha>
-			<li>Along with illusory ‘I’-object, arises also the sense of personal doership.</li>
+			<li>Along with illusory ‘I’-object, arises also the sense of personal doërship.</li>
 			<li>However, since there is no ‘I’-object, there is no doer, no thinker, no chooser and no observer.</li>
 			<li>Therefore, ‘we’ have no control. Thus, whatever happens, happens. Whatever doesn’t happen, doesn’t happen.</li>
 		</ol>

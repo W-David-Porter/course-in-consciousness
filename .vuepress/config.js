@@ -47,7 +47,8 @@ module.exports = {
 			"/chapter-21-resistance-clinging-acceptance/",
 			"/chapter-22-disidentification-from-attachment-aversion/",
 			"/chapter-23-disidentification-through-inquiry/",
-			"/chapter-24-disidentification-through-meditation/"
+			"/chapter-24-disidentification-through-meditation/",
+			"/appendix/"
 		]
 	},
 	evergreen: true,

@@ -384,9 +384,11 @@ Suffering is a consequence of identification as a separate ‘I’. This does no
 
 The following diagram illustrates the concepts discussed in this chapter. Disidentification is the process of understanding, becoming aware, inquiring into Reality, and direct seeing. These will be discussed more fully in [Part 3](/part-3-end-suffering-discovery-true-nature/).
 
+<div class=centred>
+
 ![disidentification](/images/disidentification.gif)
 
-
+<div>
 
 
 ---

@@ -110,10 +110,8 @@ When an object is said to exist, what do we mean? It means that Awareness has id
 
 :::tip Exercise
 Do the following exercise with your eyes closed while looking past your thoughts directly at the sensations themselves. What is your immediate non-conceptual experience of the following:
-
  1. There are sounds, but is there something making the sounds? 
  2. There are sensations of touch and pressure, but is there something causing the sensations?
-
 :::
 
 Note: Sometimes we might carelessly say that Consciousness exists, but as we have already seen, Consciousness includes all existence and non-existence, and transcends both existence and non-existence (see [Section 10.1](/chapter-10-teaching-non-duality#_10-1-the-metaphysics-of-non-duality)). Another type of confusion results when the word existence is used to refer to the pure sense of Presence that always accompanies pure Awareness whenever manifestation is present. This might be called pure Existence, but we shall avoid using this terminology.
@@ -150,13 +148,64 @@ It is the appearance of the conceptual, dualistic individual that is the source 
 
 When the ‘me’ seems to appear, a boundary seems to arise between itself and everything else. This is represented in [Figure 1 of Chapter 10](/chapter-10-teaching-non-duality#figure1) by the boxes in the upper right labelled ‘me’ and not-‘me’. The boundary line between the ‘me’ and the not-‘me’ becomes a potential battle line, with the ‘me’ warring with the not-‘me’. The only way this battle line can be eliminated is for the ‘me’ to vanish completely, i.e., for the recognition to occur that there never has been a ‘me’. This is the perception of the sage.
 
-
-
-
-
-
-
-
 ## 11.5. Ownership: The third level of identification
+
+We have seen that the first level of identification is the manifestation itself, when Consciousness becomes aware of Itself, while the second level is identification of Awareness with the concept of the separate ‘I’ and its doership, resulting in the fictitious ‘me’. The primary self-image of this illusory entity is that of observer, doer, thinker, decider and experiencer. But conditioning and identification produce not only this false self, but also various kinds of thoughts, opinions and images about the false self. Some examples of these are its competence, incompetence, beauty, ugliness, goodness and evilness.
+
+With the appearance of these concepts arises also the possibility that Awareness will identify with them. This results in a **third level of identification, the level of ownership, or ‘mine’,** consisting of many forms of embellishment on the basic ‘me’. Without this third level of identification, the ‘me’ is bare, consisting only in the sense of doership (which includes observership, thinkership and decidership). With it, the ‘me’ becomes clothed not only in thoughts and images, but also in feelings and emotions. Feelings and emotions do not cause suffering unless there is ownership of them. Then many different kinds of suffering occur. The third level of identification is the one that causes all the trouble (some might say all the fun) but it depends entirely on the assumed existence of the doer. This fully identified (clothed) ‘me’ seems to suffer unlimited agonies over whether it is good enough, beautiful enough, smart enough, competent enough, healthy enough, strong enough, loving enough, caring enough and many other ‘enoughs’. It feels guilty about ‘its’ actions in the past, and worries about how ‘it’ will perform in the future. It sometimes sees itself as a bag of shit, and at other times, as a god or goddess. However, sooner or later it will see itself as a victim, i.e., as an entity that suffers at the hands of something else (see [Section 11.7](/chapter-11-functioning-mind#_11-7-the-victim-victimiser-polar-pair)).
+
+::tip Question
+Do you feel as though it is *your* fear, desire, anger, boredom, or guilt?
+:::
+
+## 11.6. Polar pairs, separation and suffering
+
+It is apparent from the preceding paragraph that we are beginning to be immersed in dualistic language when we speak of the doing and functioning of the ‘me’ or ego. For the purpose of efficient communication in the remainder of this chapter, we shall often use this dualistic mode of speaking. However, it should always remain clear that the ego, being nothing but a concept, is powerless to do anything. Everything that happens is still entirely the impersonal functioning of Consciousness. Nobody ever does anything because there is nobody to do it.
+
+In chapter 34 of *I Am That* (1984), Nisargadatta Maharaj says:
+
+>What is birth and death but the beginning and the ending of a stream of events in consciousness? Because of the idea of separation and limitation they are painful. Momentary relief from pain we call pleasure — and we build castles in the air hoping for endless pleasure which we call happiness. It is all misunderstanding and misuse. Wakeup, go beyond, live really.
+
+And in chapter 82, he says,
+
+Our life is full of contradictions. Yet we cling to it. This clinging is at the root of everything. Still, it is entirely superficial. We hold on to something or somebody with all our might and next moment we forget it; like a child that shapes its mud-pies and abandons them light-heartedly. Touch them — it will scream with anger, divert the child and he forgets them. For our life is now, and the love of it is now. We love variety, the play of pain and pleasure, we are fascinated by contrasts. For this we need the opposites and their apparent separation. We enjoy them for a time and then get tired and crave for the peace and silence of pure being.
+
+In the meditation for July 28 in *A Net of Jewels* (1996), Ramesh says:
+
+>The intellect divides everything between what it considers pleasant (acceptable) and unpleasant (unacceptable) and then opposes anything it deems unacceptable as a ‘problem’ that needs solving! Thus any problem can only be solved at its source, which is the intellect that conceived the problem as a problem in the first place.
+
+In each present moment, we can see that we are doing nothing (see [Section 10.2](/chapter-10-teaching-non-duality#_10-2-the-practices), [Section 23.2](/chapter-23-disidentification-through-inquiry#_23-2-inquiry-into-the-self-self-inquiry)), thus there can be no doer in the present moment. The ego is the identification with the thought that ‘I’ have done something in the past, or ‘I’ can do something in the future. Thus, it is inseparable from the concepts of past and future (see [Section 12.1](/chapter-12-space-time-causality-destiny#_12-1-the-concepts-of-space-and-time)). That is why its desires and fears are always tied to the past or future.
+
+Identification as the ego gives me the perception that ‘I’ am separate from my body–mind, which makes the body–mind a threat to my survival, and separate from you, which sometimes makes you appear to be a threat to my survival. The threats seem real only because hidden in the ego is the knowledge that it itself is only a concept, and is therefore vulnerable to myriad forces outside itself. Intrinsic to ego identification is the fear of ego death even though death is a concept that is not understood by the ego (the mind cannot conceive of its own absence). Since fear of death is intrinsic to the ego, the body, which is the sentient object that is the basis of the ego, appears to be the ego’s enemy because it is vulnerable to many outside forces as well as to its imagined defects. The ego knows that the body must die so it lives in constant fear of this happening. At the same time, the ego glorifies the death of the body when it can imagine that somehow death will glorify itself. To some egos, nothing is more glorious than to die in battle.
+
+:::tip Question
+Are you afraid to think that you have no control?
+:::
+
+:::tip Question
+Are you afraid of any of your feelings?
+:::
+
+Since the ego is nothing but a concept, other concepts can appear to be threats to it, including concepts about the ego itself. Some of these concepts conflict with the ego’s self-esteem, such as the concepts of being wrong, ignorant, weak, defective, unattractive or guilty. When it sees itself as being deficient, such as when it compares itself with other egos or when another ego insults it or offends it, it attacks itself through self-hatred and self-punishment. When it sees others as guilty, enemies or victimisers, it attacks them. The ego always sees itself as victim, never as victimiser, and thus is able to justify virtually any action in defence of itself. The ego finds it very easy to ally itself with other concepts because it finds strength in concepts. This is particularly true of ideological concepts, many of which are adopted by numerous other egos, thus allowing the ego to see numbers as strength.
+
+:::tip Question
+What are some examples of the ego thinking of itself as victim, and attacking?
+:::
+
+The concept of ‘I’ necessarily requires the concept of its polar opposite, the not-‘I’, or other, i.e., everything but the ‘I’. Since ‘I’ and not-‘I’ are a polar pair, the ‘I’ sees everything as being divided into polar pairs. The concept of right necessarily requires the concept of wrong, good requires evil, God requires Satan, guilt requires innocence, light requires darkness, health requires illness, rich requires poor, knowledge requires ignorance, etc. All of these are merely concepts that are formed by drawing conceptual boundaries between the opposites in an inseparable pair of concepts. These boundaries are purely arbitrary, and can be moved as the occasion demands. For example, what appears to be right at one time and place will appear to be wrong at another, or what appears to be wealth in one place will appear to be poverty in another.
+
+:::tip Question
+What are some examples of good here being evil elsewhere, and vice versa?
+:::
+
+Note: Many passages in the Bible can be interpreted as metaphors for non-dual teachings. For example, Genesis 2:17 graphically describes the fatal consequences of dividing Consciousness into polar pairs:
+
+>…but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die.
+
+
+
+
+
+## 11.7. The victim/victimiser polar pair
 
 ## 11.9. The thinking mind and the working mind

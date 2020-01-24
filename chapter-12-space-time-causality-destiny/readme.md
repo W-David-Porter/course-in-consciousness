@@ -171,11 +171,19 @@ The unstated question behind the question, “Why is there not a god or entity w
 
 The whole purpose of introducing concepts (thorns, see [Section 13.6](/chapter-13-some-useful-metaphors/#_13-6-the-thorns)) such as spontaneous (causeless) happening, destiny, or God’s will, is to help make clear that there is no such thing as a doër (the original thorn). To show directly that there is no doër, we shall use the disidentification practices discussed in [Chapter 20](/chapter-20-understanding-direct-seeing/), [Chapter 22](/chapter-22-disidentification-from-attachment-aversion/), [Chapter 23](/chapter-23-disidentification-through-inquiry/), [Chapter 24](/chapter-24-disidentification-through-meditation/).
 
+## 12.6. We are already here now
+
+In the state of spiritual ignorance, which is the state of apparent boundaries and separation, the conceptual present is simply the boundary between the conceptual past and future, and cannot be perceived as such. Perception can only see change and nothing but change. This is the temporal aspect of phenomenality. However, pure Awareness, which is What-we-are, is timeless, i.e., absent of time. This intemporality is sometimes called the eternal present moment. After awakening, it is seen directly that temporality (change) is only conceptual, not real.
+
+Even in spiritual ignorance, it is easy to see that change can be perceived only because time occurs within timelessness. The motion of a uniformly flowing stream can only be seen from its banks because an object flowing with the stream sees no motion (change) of the water next to it. We can see change because we perceive it from a background of changelessness. This is direct evidence that our awareness is pure Awareness. We are non-local universal Consciousness, not individual mind.
+
+Similarly, we can perceive space because we are spacelessness. We can see objects because we perceive them from a background of objectlessness. This applies to any object, even to thoughts, feelings, emotions and sensations. For example, we can feel pain because we are painlessness, and we can perceive a thought because we are the absence of thought.
+
+## 12.7. *Maya*, the divine hypnosis
+
+*Maya* is a Hindu concept that attempts to explain why we believe that the waking dream (see [Section 13.1](/chapter-13-some-useful-metaphors/#_13-1-the-dream)) is real. *Maya* originally denoted the power of wizardry with which a god can make human beings believe in what turns out to be an illusion. By extension it later came to mean the powerful force that creates the cosmic illusion that the phenomenal world is real. (Ramesh uses the term ‘divine hypnosis’ to mean the same thing.) Of course, *Maya* is just a concept that purports to explain the apparent reality of other concepts. As we saw in [Section 9.4](/chapter-9-perceiving-conceptualising/#_9-4-many-minds-one-awareness), objective reality is a result of the process of objectification, which is conceptualisation (see [Section 9.2](/chapter-9-perceiving-conceptualising/#_9-2-what-is-the-perceived)) plus identification (see [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification)). This means that no objects, entities or physical laws have any reality in themselves. Their seeming reality stems from the reality of Consciousness. The subtlety of *Maya* becomes evident when we examine why we believe the world is real. We believe objects are real because we do not see the underlying Awareness from which they arise and of which they consist (see [Section 23.3](/chapter-23-disidentification-through-inquiry/#_23-3-inquiry-into-the-self-self-inquiry)). Then, we believe the law of causality and other physical laws because we believe that we are separate entities and we want the power to satisfy our desires.
 
 
+---
 
-
-
-
-
-## 12.7. Maya, the divine hypnosis
+#### Footnotes

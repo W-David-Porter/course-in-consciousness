@@ -51,6 +51,7 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 19. Surrender, Mantra and Trust](/chapter-19-surrender-mantra-trust/)
    * [Chapter 20. Understanding by Direct Seeing](/chapter-20-understanding-direct-seeing/)
    * [Chapter 21. Resistance, Clinging and Acceptance](/chapter-21-resistance-clinging-acceptance/)
+   * [Chapter 22. Disidentification from Attachment and Aversion](/chapter-22-disidentification-from-attachment-aversion/)
    * [Chapter 23. Disidentification Through Inquiry](/chapter-23-disidentification-through-inquiry/)
    * [Chapter 24. Disidentification Through Meditation](/chapter-24-disidentification-through-meditation/)
 

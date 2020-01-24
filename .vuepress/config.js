@@ -45,6 +45,7 @@ module.exports = {
 			"/chapter-19-surrender-mantra-trust/",
 			"/chapter-20-understanding-direct-seeing/",
 			"/chapter-21-resistance-clinging-acceptance/",
+			"/chapter-22-disidentification-from-attachment-aversion/",
 			"/chapter-23-disidentification-through-inquiry/",
 			"/chapter-24-disidentification-through-meditation/"
 		]

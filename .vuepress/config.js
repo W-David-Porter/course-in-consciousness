@@ -48,6 +48,7 @@ module.exports = {
 			"/chapter-22-disidentification-from-attachment-aversion/",
 			"/chapter-23-disidentification-through-inquiry/",
 			"/chapter-24-disidentification-through-meditation/",
+			"/chapter-25-love-finding-itself/",
 			"/appendix/"
 		]
 	},

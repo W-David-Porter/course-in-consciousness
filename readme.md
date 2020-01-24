@@ -54,6 +54,7 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 22. Disidentification from Attachment and Aversion](/chapter-22-disidentification-from-attachment-aversion/)
    * [Chapter 23. Disidentification Through Inquiry](/chapter-23-disidentification-through-inquiry/)
    * [Chapter 24. Disidentification Through Meditation](/chapter-24-disidentification-through-meditation/)
+   * [Chapter 25. Love Finding Itself](/chapter-25-love-finding-itself/)
  * [Appendix](/appendix/)
 
 ### From the publisher:

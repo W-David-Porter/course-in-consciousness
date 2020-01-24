@@ -266,9 +266,13 @@ Libet’s experiments point to a general concept that a little thought shows mus
 
 The consequences of this insight are extraordinary, revolutionary, and far-ranging. Every thought, feeling, sensation or action always occurs objectively before we become aware of it subjectively and hence there is no possibility that we can avoid it. This includes any choices or decisions that are made. **We inescapably live in the objective past so that the objective present and future are completely beyond our awareness and control.**	
 
+<div class=centred>
+
 ![libet experiment](/images/libet-experiment.gif)
 
 Art by [Jolyon](https://www.jolyon.co.uk)
+
+</div>
 
 ## 5.10. Brain imaging measurements on free will
 

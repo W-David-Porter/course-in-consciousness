@@ -202,7 +202,9 @@ These parameters are related by the following equation:
 The electro-magnetic spectrum (see previous section) contains electro-magnetic waves of all frequencies and wavelengths:
 
 <div class=centred>
+
 ![electro-magnetic spectrum](/images/electromagneticspectrum.gif)
+
 </div>
 
 Waves are demonstrated at [www.surendranath.org/Applets.html](http://www.surendranath.org/Applets.html) (→Waves→Transverse Waves) and [www.colorado.edu/physics/2000/index.pl](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Science Trek→Catch the Wave).

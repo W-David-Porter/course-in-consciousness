@@ -44,10 +44,6 @@ The superposition principle leads to the phenomenon of interference. The superpo
 
 <em>Looking down on a water wave. The bright lines are crests, the dark ones are troughs.</em>
 
-</div>
-
-<div class=centred>
-
 ![water wave interference](/images/water-wave-interference.jpg)
 
 <em>Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.</em>

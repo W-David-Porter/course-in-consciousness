@@ -19,7 +19,7 @@ In [Chapter 7](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-t
 
 ## 9.2 What is the perceived?
 
-The Buddha taught that Life and movement are the same thing. On p. 26 of *What the Buddha Taught* (1959), Walpola Rahula says:
+The Buddha taught that Life and movement are the same thing. On page 26 of *What the Buddha Taught* (1959), Walpola Rahula says:
 
 <div class=indented>
 There is no unmoving mover behind the movement. It is only movement. It is not correct to say that life is moving, but life is movement itself. Life and movement are not two different things. In other words, there is no thinker behind the thought. Thought itself is the thinker. If you remove the thought, there is no thinker to be found.
@@ -199,7 +199,7 @@ On page 71 of *The Wisdom of Sri Nisargadatta* (1992) by Robert Powell, Nisargad
 
 Because most scientists of all types are mentally wedded to a belief in an external reality, they are unable to see an alternative picture. In particular, they are unable to see that Consciousness, rather than external reality, is the fundamental Reality. Thus, they persist in attempting (and in failing) to create an objective theory of Consciousness. When the contents of Awareness try to objectify Awareness, it is like a puppet trying to ‘puppetise’ the puppet master (see [Section 13.3](/chapter-13-some-useful-metaphors#_13-3-the-puppet-and-the-robot)), a picture on a movie screen trying to ‘picturise’ the actors (see [Section 13.2](/chapter-13-some-useful-metaphors#_13-2-the-movie)), a shadow striving to ‘shadowise’ the object that is casting it (see [Section 13.4](/chapter-13-some-useful-metaphors#_13-4-the-shadow)) or humans trying to ‘humanise’ God.
 
-The problem of trying to create an objective theory of subjective experience has been labelled the ‘hard problem’ of consciousness by David Chalmers.^[see *Scientific American*, Dec. 1995, p. 80; and [Facing Up to the Problem of Consciousness](http://www.consc.net/papers/facing.html)] (The so-called ‘easy problem’ is to explain the functioning of the brain in terms of objective concepts.) In fact, there is no hard problem for those who are aware that they are aware.
+The problem of trying to create an objective theory of subjective experience has been labelled the ‘hard problem’ of consciousness by David Chalmers.^[see *Scientific American*, Dec. 1995, page 80; and [Facing Up to the Problem of Consciousness](http://www.consc.net/papers/facing.html)] (The so-called ‘easy problem’ is to explain the functioning of the brain in terms of objective concepts.) In fact, there is no hard problem for those who are aware that they are aware.
 
 <div class=centred>
 

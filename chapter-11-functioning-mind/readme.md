@@ -16,7 +16,7 @@ In the meditation for October 29, he says:
 
 >The entire manifestation is purely conceptual. Nothing has actually ever been created, and nothing has ever been destroyed.
 
-On p. 42 of *The Elements of Buddhism* (1990), John Snelling says:
+On page 42 of *The Elements of Buddhism* (1990), John Snelling says:
 
 <div class=indented>
 A primary cause of suffering is delusion: our inability, because of subtly willful blindness, to see things the way they truly are but instead in a distorted way. The world is in fact a seamless and dynamic unity, a single living organism that is constantly undergoing change. Our minds, however, chop it up into separate, static bits and pieces, which we then try mentally and physically to manipulate. One of the mind’s most dear creations is the idea of the person and, closest to home, of a very special person which each one of us calls ‘I’: a separate, enduring ego or self. There is ‘I’ — and there is all the rest. That means conflict — and pain, for ‘I’ cannot control that fathomless vastness against which it is set. It will try, of course, as a flea might pit itself against an elephant, but it is a vain enterprise.
@@ -50,11 +50,11 @@ Sentience is the mechanism by which Consciousness becomes aware of Itself. (Obje
 
 In [Chapter 9](/chapter-9-perceiving-conceptualising/), we used the term individual mind, although we found that Awareness of all minds is universal, not individual. In simplest conceptual terms, all experience can be divided into thoughts, feelings (which are more subtle than emotions), emotions, sensations and perceptions. All of these are nothing but concepts dividing Consciousness, so none is more real than another. However, we tend to equate intensity and persistence with reality, so the last items in the list can seem to be more real than the first items. For example, emotions, sensations and perceptions can seem to be more real than feelings and thoughts because they can be more intense and persistent. However, sensations and perceptions are not inherently more real than feelings and thoughts are. On the contrary, the more attention-grabbing an object is, the more unreal it is likely to be, and the more subtle it is, the more real it is likely to be. For example, subtle feelings and thoughts (see [Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality), [Chapter 16](/chapter-16-love-seeking-itself/)) are more likely to point to Reality than intense ones are, and very subtle perception (called apperception) is more likely to reveal the underlying Reality of the object (see [Section 23.3](/chapter-23-disidentification-through-inquiry/#_23-3-inquiry-into-the-self-self-inquiry) and [Chapter 24](/chapter-24-disidentification-through-meditation/)) than superficial perception is.
 
-On p. 95 of *I Am That* (1984), Nisargadatta Maharaj says:
+In chapter 25 of *I Am That* (1984), Nisargadatta Maharaj says:
 
 >What is beautiful? Whatever is perceived blissfully is beautiful. Bliss is the essence of beauty.
 
-On p. 48–49 of his book *Eternity Now* (1996, see Appendix), the sage, Francis Lucille, says that Truth, Love and Beauty transcend all concepts, and come directly from the Unmanifest and are pointers to the Unmanifest. On p. 70, he says that positive feelings like love, happiness, gratitude, awe, respect and sense of beauty come from beyond the mind, and they generate release, relief and relaxation at the somatic level. These are to be contrasted with negative emotions, like anger, hatred and fear, which come from the mind, and which generate stress, heaviness, pressure, constriction and tension at the somatic level.
+On pages 48–49 of his book *Eternity Now* (1996, see Appendix), the sage, Francis Lucille, says that Truth, Love and Beauty transcend all concepts, and come directly from the Unmanifest and are pointers to the Unmanifest. On page 70, he says that positive feelings like love, happiness, gratitude, awe, respect and sense of beauty come from beyond the mind, and they generate release, relief and relaxation at the somatic level. These are to be contrasted with negative emotions, like anger, hatred and fear, which come from the mind, and which generate stress, heaviness, pressure, constriction and tension at the somatic level.
 
 :::tip Exercise
 Close your eyes and feel the following feelings:  
@@ -118,17 +118,17 @@ Note: Sometimes we might carelessly say that Consciousness exists, but as we hav
 
 Everyone can say the following: “I am not an individual, and I am not limited”. As pure Awareness, I am unlimited Reality. Reality is the same whether the eyes are open or closed. When the eyes are closed and all thoughts and images are absent, I am the only Reality. When the eyes are open, and objects seem to be present, I am still the only Reality. Reality underlies and pervades all the objects that I perceive. That is why I am everything and everything is Me.
 
-On p. 43 of *The Elements of Buddhism* (1990), John Snelling says:
+On page 43 of *The Elements of Buddhism* (1990), John Snelling says:
 
 <div class=indented>
 Central to the Buddha’s teaching is the doctrine of *anatman*: ‘not-self’. This does not deny that the notion of an ‘I’ works in the everyday world. In fact, we need a solid, stable ego to function in society. However, ‘I’ is not real in an ultimate sense. It is a ‘name’: a fictional construct that bears no correspondence to what is really the case. Because of this disjunction all kinds of problems ensue. Once our minds have constructed the notion of ‘I’, it becomes our central reference point. We attach to it and identify with it totally. We attempt to advance what appears to be its interests, to defend it against real or apparent threats and menaces. And we look for ego-affirmation at every turn: confirmation that we exist and are valued. The Gordian Knot of preoccupations arising from all this absorbs us exclusively, at times to the point of obsession. This is, however, a narrow and constricted way of being. Though we cannot see it when caught in the convolutions of ego, there is something in us that is larger and deeper: a wholly other way of being.
 </div>
 
-On p.64 of *Nuggets of Wisdom* (2005) by Ramesh Balsekar, he says:
+On page 64 of *Nuggets of Wisdom* (2005) by Ramesh Balsekar, he says:
 
 >The total acceptance of non-doërship means the end of the load of guilt and shame for one’s own actions and the load of hatred and malice towards the other for his actions. The removal of the load means the automatic presence of peace and harmony — equanimity.
 
-On p.65, he says:
+On page 65, he says:
 
 >There is a distinct difference between the anger, grief or fear of the sage and that of an ordinary person. The sage’s emotion is not based on any selfish motivation; and the sage’s emotion is always in the present moment, and therefore very short-lived. No residual impression remains in the mind that could lead to involvement in horizontal time.
 
@@ -222,7 +222,7 @@ Have you ever felt victimised by a parent? By a teacher? By a lover? By yourself
 
 All conflict and suffering are a result of the conceptual victim drawing conceptual boundaries and seeing the resulting split pairs as desirable/fearful, friend/foe, lovable/hateful, acceptable/unacceptable etc. Suffering must continue as long as wholeness appears to be split into opposing pairs. The *only* cure for suffering is to see that there is no separation. The world will always be seen as a fearful/desirable place until this occurs.
 
-As long as there is a sense of separation, the world will sing its siren song, and will lure the identified ones to certain suffering. On p.73 of *The Wisdom of Nisargadatta* (1992) by Robert Powell, Nisargadatta Maharaj says:
+As long as there is a sense of separation, the world will sing its siren song, and will lure the identified ones to certain suffering. On page 73 of *The Wisdom of Nisargadatta* (1992) by Robert Powell, Nisargadatta Maharaj says:
 
 >Everybody sees the world through the idea he has of himself… If you imagine yourself as separate from the world, the world will appear as separate from you and you will experience desire and fear. I do not see the world as separate from me, and so there is nothing for me to desire, or fear.
 
@@ -366,7 +366,7 @@ Hypocritical action can result when the selfishness of the thinking mind interfe
 What is your own experience of pure working mind? What is the contradiction in that question?
 :::
 
-On p. 121–122 of *Advaita, the Buddha, and the Unbroken Whole* (2000), Ramesh responds to a questioner:
+On page 121–122 of *Advaita, the Buddha, and the Unbroken Whole* (2000), Ramesh responds to a questioner:
 
 >Swamiji: With somebody who hasn’t reached the state of Enlightenment, new conditioning is taking place, whereas somebody who has reached the state of Enlightenment or non-doërship, no new conditioning is occurring, but they still have previous conditioning which means they respond in a certain way to certain external stimuli.
 

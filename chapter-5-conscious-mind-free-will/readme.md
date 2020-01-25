@@ -198,7 +198,7 @@ Suppose there is no physical world and there is only a subjective world, i.e., t
 
 Is the perception of separate objects an ability that the child learns from its parents, or is it an innate function of the developing physical brain? There has been much research on the development in the infant of the ability to perceive separate objects and to conceive of them as existing independently of the infant’s perception of them.
 
-In his book *Visual Intelligence* (1998, pp. 12–16), Donald D. Hoffman describes the development in the child’s mind of the ability to make conceptual sense out of the confusion of retinal images presented to it:
+In his book *Visual Intelligence* (1998, pages 12–16), Donald D. Hoffman describes the development in the child’s mind of the ability to make conceptual sense out of the confusion of retinal images presented to it:
 
 <div class=indented>
 
@@ -214,7 +214,7 @@ Among the most amazing facts about vision is that kids are accomplished geniuses
 
 Hoffman concludes that all children are born with the same rules by which they construct their visual worlds, and which allow each of them to see much the same world as any other child. Thus, the principal prerequisite for perceiving objects turns out to be an inherited predisposition to do so. Hoffman argues that the universal rules of vision parallel the universal rules of language^[see Noam Chomsky, *Reflections on Language*, 1975] by which a child‘s ability to learn a language is also part of its heredity.
 
-An important special example of the infant seeing separate objects is its perception of its mother as an object beginning at about four months.^[see, e.g., *Child Development and Early Education*, by Pauline H. Turner, 1994, pp. 58–59] After about eight months, the child begins to perceive itself as an object separate from its mother, this process becoming complete at about fifteen months. It seems likely that these developments must also be a result of the child’s inherited abilities.
+An important special example of the infant seeing separate objects is its perception of its mother as an object beginning at about four months.^[see, e.g., *Child Development and Early Education*, by Pauline H. Turner, 1994, pages 58–59] After about eight months, the child begins to perceive itself as an object separate from its mother, this process becoming complete at about fifteen months. It seems likely that these developments must also be a result of the child’s inherited abilities.
 
 We conclude from these studies that our ability to perceive separate objects and individuals is a product of our innate tendencies. Yet, as we shall soon see, the perception of ourselves as separate, autonomous entities is the basis of all of our suffering. Thus, it seems that we are all born with a tendency to suffer. Fortunately, this depressing thought is not the whole truth. We are told by the sages that our perceptions are mistaken and that this mistake can be corrected. But before it can be corrected, it must be understood. Gaining this understanding is the objective of much of the remainder of this course.
 

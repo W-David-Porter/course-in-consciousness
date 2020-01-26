@@ -46,8 +46,11 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 12. Space, Time, Causality and Destiny](/chapter-12-space-time-causality-destiny/)
    * [Chapter 13. Some Useful Metaphors](/chapter-13-some-useful-metaphors/)
    * [Chapter 14. Religion, Belief and Non-Duality](/chapter-14-religion-belief-non-duality/)
+   * [Chapter 15. Free Will and Responsibility](/chapter-15-free-will-responsibility/)
    * [Chapter 16. Love Seeking Itself](/chapter-16-love-seeking-itself/)
  * [Part 3. The End of Suffering and the Discovery of Our True Nature](/part-3-end-suffering-discovery-true-nature/)
+   * [Chapter 17. How to Live One’s Life](/chapter-17-how-live-ones-life/)
+   * [Chapter 18. Practices and Teachers](/chapter-18-practices-teachers)
    * [Chapter 19. Surrender, Mantra and Trust](/chapter-19-surrender-mantra-trust/)
    * [Chapter 20. Understanding by Direct Seeing](/chapter-20-understanding-direct-seeing/)
    * [Chapter 21. Resistance, Clinging and Acceptance](/chapter-21-resistance-clinging-acceptance/)
@@ -59,5 +62,5 @@ Important: Because this course makes many statements, the reader might think tha
 
 ### From the publisher:
 
-I have taken the liberty of adjusting some of the typographical conventions. Content hasn’t changed, but there’s been some slight reördering. I’ve also updated some of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
+I have taken the liberty of adjusting some of the typographical conventions. Content hasn’t changed, but there’s been some slight reördering. I’ve also updated most of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
 —David Porter

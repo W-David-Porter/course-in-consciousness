@@ -93,7 +93,7 @@ The deeper the intuitive understanding, the clearer it is that the individual is
 What would it be like to feel no envy, jealousy, regret, guilt, shame, blame or hatred?
 :::
 
-Ramana Maharshi (1879–1950), considered by many to be the greatest Indian saint of the twentieth century, taught that inquiry and surrender (see [Section 19.1](/chapter-19-surrender-mantra-trust#_19-1-surrender-and-mantra-practice)) are the only practices that lead to awakening.  Nisargadatta Maharaj (1897–1981), Ramesh Balsekar (1917–2009) and Wei Wu Wei (1895–1986) all stress understanding (see [Chapter 20](/chapter-20-understanding-direct-seeing/)), which is really a form of inquiry (see [Chapter 23](/chapter-23-disidentification-through-inquiry/)). All other practices must eventually reduce to these at some time or other if understanding is to deepen further.
+Ramana Maharshi (1879–1950), considered by many to be the greatest Indian saint of the twentieth century, taught that inquiry and surrender (see [Section 19.1](/chapter-19-surrender-mantra-trust#_19-1-surrender-and-mantra-practice)) are the only practices that lead to awakening.^[see, e.g., *The Teachings of Ramana Maharshi*, edited by Arthur Osborne, 1962] Nisargadatta Maharaj (1897–1981), Ramesh Balsekar (1917–2009) and Wei Wu Wei (1895–1986) all stress understanding (see [Chapter 20](/chapter-20-understanding-direct-seeing/)), which is really a form of inquiry (see [Chapter 23](/chapter-23-disidentification-through-inquiry/)). All other practices must eventually reduce to these at some time or other if understanding is to deepen further.
 
 ## 10.3. The paths
 
@@ -178,7 +178,7 @@ Many Buddhist teachers claim that the Buddha taught that, after death, the indiv
 >—What is it, Venerable Sir, that will be reborn?  
 >—A psycho–physical combination, O King, is the answer.  
 >—But how, Venerable Sir? Is it the same psycho–physical combination as this present one?  
->—No, O King. But the present psycho–physical combination produces karmically wholesome and unwholesome volitional  activities, and through such Karma a new psycho–physical combination will be reborn.^[*Milinda Panha* 46] 
+>—No, O King. But the present psycho–physical combination produces karmically wholesome and unwholesome volitional activities, and through such Karma a new psycho–physical combination will be reborn.^[*Milinda Panha* 46] 
 
 After-death states, such as those described in the *Tibetan Book of the Dead*, by necessity are intuited or cognised by a living person, so the reliability and motives of that person must be considered. Any intense personal experience, such as a near-death experience, cannot be proof because such experiences by definition and necessity are not death experiences. The appearance of discarnate entities, such as spiritual guides, deceased relatives or religious figures, are also not proof because they always appear in living body–mind organisms and therefore could merely be mental phenomena.
 

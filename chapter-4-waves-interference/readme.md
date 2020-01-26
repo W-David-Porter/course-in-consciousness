@@ -34,7 +34,7 @@ When we are dealing with waves, we have a different rule. The superposition prin
 
 </div>
 
-See a [computer animation of the superposition of two waves](http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=35).
+See a [computer animation of the superposition of two waves](https://www.acs.psu.edu/drussell/Demos/superposition/superposition.html).
 
 The superposition principle leads to the phenomenon of interference. The superposition, or sum, of two waves with the same wavelength at a point in space where both waves have either positive or negative heights results in a summed wave with positive or negative height greater than that of either one, as is shown below. This is called constructive interference. If the individual heights have opposite signs, the interference is destructive, and the height of the summed wave is smaller than the largest height of the two.
 
@@ -50,9 +50,9 @@ The superposition principle leads to the phenomenon of interference. The superpo
 
 </div>
 
-See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](http://www.walter-fendt.de/ph14e/doubleslit.htm) and [also](http://www.colorado.edu/physics/2000/index.pl) (Table of Contents→Atomic Lab→Classic Two-Slit Experiment).
+See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](https://www.walter-fendt.de/html5/phen/doubleslit_en.htm) and [also](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html).
 
-An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the *square* of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I~12~ at the absorber is plotted. Notice the radical difference between the graph of I~>12~ for the water waves and the graph of P~>12~ for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](http://www.upscale.utoronto.ca/PVB/Harrison/DoubleSlit/Flash/DoubleSlit.html).
+An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the *square* of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I~12~ at the absorber is plotted. Notice the radical difference between the graph of I~>12~ for the water waves and the graph of P~>12~ for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](https://perg.phys.ksu.edu/vqmorig/tutorials/online/wave_part/).
 
 For quantum waves, we already know that the property that is proportional to the square of the wave amplitude is probability. We now need to find out what interference implies for the measurement of probabilities.
 
@@ -82,7 +82,7 @@ The middle term on the right of Equation 1 is called the interference term. This
 
 We can now state an important conclusion from this discussion. Whenever we observe interference, it suggests the existence of real, external, objective waves rather than merely fictitious waves that are only tools for calculating probabilities of outcomes. Consequently, in this chapter we shall assume that quantum waves are real waves and we therefore assume that the wave-function is part of external, objective reality. However, in [Chapter 6](/chapter-6-what-does-quantum-theory-mean/) and later, we shall reëxamine this assumption and will suggest an interpretation without an objective reality.
 
-Remember that when we detect quantum waves, we detect particles. Since we are detecting particles, it may seem that the particle must come from one hole or the other, but that is incorrect. The particles that we detect do not come from the holes, they appear at the time of detection. Prior to detection, we have only probability waves. See a [computer animation of a two-slit interference pattern (Young’s experiment) that detects particles, whether photons or electrons](http://www.quantum-physics.polytechnique.fr) (topic 1.1).
+Remember that when we detect quantum waves, we detect particles. Since we are detecting particles, it may seem that the particle must come from one hole or the other, but that is incorrect. The particles that we detect do not come from the holes, they appear at the time of detection. Prior to detection, we have only probability waves. See a [computer animation of a two-slit interference pattern (Young’s experiment) that detects particles, whether photons or electrons](http://www.quantum-physics.polytechnique.fr/young.php?lang=1) (topic 1.1).
 
 What happens if we try to see whether we actually have electrons to the left of the detection screen, perhaps by shining a bright light on them between the holes and the detection screen, and looking for reflected light from these electrons? If the light is intense enough to see every electron this way before it is detected at the screen, the interference pattern is obliterated, and we see only the classical particle distribution shown in the top figure. Any measurement which actually manifests electrons to the left of the screen, such as viewing them under bright light, eliminates the probability wave which originally produced the interference pattern. After that we see only particle probability wave distributions.
 
@@ -98,7 +98,7 @@ This thought experiment was originally created by Schrödinger in an attempt to 
 
 </div>
 
-Imagine a closed box containing a single radioactive nucleus and a particle detector such as a Geiger counter (see drawing above). We assume this detector is designed to detect with certainty any particle that is emitted by the nucleus. The radioactive nucleus is microscopic and therefore can be described by quantum theory. Suppose the probability that the source will emit a particle in one minute is ½ = 50%. The period of one minute is called the half-life of the source. [Animation of the radioactive decay of ‘Balonium’](http://www.upscale.utoronto.ca/PVB/Harrison/Flash/Nuclear/Decay/NuclearDecay.html.)
+Imagine a closed box containing a single radioactive nucleus and a particle detector such as a Geiger counter (see drawing above). We assume this detector is designed to detect with certainty any particle that is emitted by the nucleus. The radioactive nucleus is microscopic and therefore can be described by quantum theory. Suppose the probability that the source will emit a particle in one minute is ½ = 50%. The period of one minute is called the half-life of the source. [Animation of the radioactive decay of ‘Balonium’](https://phet.colorado.edu/en/simulation/alpha-decay).
 
 Since the wave-function of the nucleus is a solution to the Schrödinger equation and must describe all possibilities, after one minute it consists of a wave with two terms of equal amplitude, one corresponding to a nucleus with one emitted particle, and one corresponding to a nucleus with no emitted particle, both measured at the same point in space:
 
@@ -110,7 +110,7 @@ The remaining items in the box are all macroscopic, but because they are nothing
 
 Technical note: If macroscopic objects do not obey quantum theory, we have no other theory to explain them. For example, classical physics cannot explain the following semi-macroscopic and macroscopic phenomena: 
 
- 1. Interference fringes ([Section 4.1](/chapter-4-waves-interference/#_4-1-waves-and-interference)) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms.^[[C~60~F~48~](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
+ 1. Interference fringes ([Section 4.1](/chapter-4-waves-interference/#_4-1-waves-and-interference)) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms.^[The wave nature of biomolecules and fluorofullerenes [C~60~F~48~](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
  2. A superconducting quantum interference device (SQUID) containing millions of electrons was made to occupy Schrödinger’s cat states.^[[Physicists Unveil Schrödinger’s SQUID](http://www.sciencemag.org/cgi/content/full/287/5462/2395a)]
  3. Ferromagnetism, superconductivity and superfluidity all are quantum phenomena which occur in macroscopic systems.
  4. The period of inflation in the early history of the universe is thought to be quantum mechanical in origin.^[[See these excellent lectures in cosmology](http://abyss.uoregon.edu/~js/cosmo/lectures)
@@ -191,7 +191,7 @@ In a non-local system, a measurement made at one end of the system is correlated
 
 Technical note: Theoretical calculations indicate that the human eye might be sensitive enough to detect the correlations from entangled pairs of photons without the aid of electronic devices.^[*Possible entanglement detection with the naked eye*, Brunner, Branciard, Gisin, Phys. Rev. A 78 (2008) 052110]
 
-There can be strong correlations between two random sets that cannot be discovered by looking at one set alone. This is illustrated by the example of random stereograms (see [Magic Eye diagrams](www.magiceye.com) and below) which, when first viewed, look like near-random patterns of coloured dots (see below). However, there are actually two separate near-random patterns present, and they are displaced from each other by a distance roughly equal to the spacing between a person’s eyes. Thus, by looking at the pattern with the direction of the eyes non-convergent as if looking some distance away, the two eyes see different patterns. The correlations between the patterns are discerned by the brain, and a three-dimensional image is seen.
+There can be strong correlations between two random sets that cannot be discovered by looking at one set alone. This is illustrated by the example of random stereograms (see [Magic Eye diagrams](https://www.magiceye.com) and below) which, when first viewed, look like near-random patterns of coloured dots (see below). However, there are actually two separate near-random patterns present, and they are displaced from each other by a distance roughly equal to the spacing between a person’s eyes. Thus, by looking at the pattern with the direction of the eyes non-convergent as if looking some distance away, the two eyes see different patterns. The correlations between the patterns are discerned by the brain, and a three-dimensional image is seen.
 
 <div class=centred>
 

@@ -2,6 +2,8 @@
 
 [[TOC]]
 
+## 16.1. Non-dualistic vs. dualistic Love
+
 In this chapter, we shall discover that our true nature includes not only pure Awareness but also Love, both of which are aspects of the same Reality.
 
 Christianity teaches that God is Love:
@@ -192,3 +194,105 @@ On page 155 of *The Dalai Lama: A Policy of Kindness* (1990), the Dalai Lama say
 Love, whether dualistic or non-dualistic, always includes acceptance. Acceptance of Totality as it is in every moment is one of the characteristics of whole mind, (see [Chapter 19](/chapter-19-surrender-mantra-trust/)). Even in split mind, the more acceptance there is, the less separation and the more love (see [Chapter 22](/chapter-22-disidentification-from-attachment-aversion/)).
 
 Ardent non-dualistic Love can be present even while the perception of separation still exists. An example is the all-encompassing yearning for Reality (or God) by the seeker (see [Section 17.3](/chapter-17-how-live-ones-life/#_17-3-meaning-and-purpose-in-life)). This is Love seeking Itself. (For a discussion of Love finding Itself, see [Chapter 25](/chapter-25-love-finding-itself/)).
+
+## 16.2. Self-hatred and self-love
+
+Writes Buddhist meditation teacher Sharon Salzberg on self-hatred:
+
+<div class=indented>
+
+“What do you think about self-hatred?”, I asked when it was my turn to bring up an issue for discussion. I was eager to get directly to the suffering I had seen so often in my students, a suffering I was familiar with myself. The room went quiet as all of us awaited the answer of the *Dalai Lama*, revered leader of Tibetan Buddhism. Looking startled, he turned to his translator and asked pointedly in Tibetan again and again for an explanation. Finally, turning back to me, the *Dalai Lama* tilted his head, his eyes narrowed in confusion. “Self-hatred?”, he repeated in English. “What is that?”.
+
+All of us gathered at that 1990 conference in Dharmsala, India — philosophers, psychologists, scientists and meditators — were from Western countries, and self-hatred was something we immediately understood. That this man, whom we all recognised as having a profound psychological and spiritual grasp of the human mind, found the concept of self-hatred incomprehensible made us aware of how many of us found it all but unavoidable. During the remainder of the session, the Dalai Lama repeatedly attempted to explore the contours of self-hatred with us. At the end he said, “I thought I had a very good acquaintance with the mind, but now I feel quite ignorant. I find this very, very strange”.
+
+The fact that self-hatred was not part of his worldview pointed to the essence of my own aspirations. The need to resolve the ache of my self-hatred had sparked the fundamental spiritual questions in my life. In 1970, when I was 18, I went to India to learn meditation, wanting to weave the brokenness I felt inside into a cohesive whole, yearning to know what loving myself could possibly mean. My childhood, chaotic and painful, had not provided a matrix for learning how to do that nor really how to love others.
+
+My father left when I was 4. My mother died when I was 9. My father returned briefly when I was 11, until a suicide attempt spun him away into the mental health system, from which he was never again free. Savage, uprooting turns and incomprehensible losses as I moved from household to household left me feeling abandoned over and over again — abandoned by life itself. Though caring people raised me, no one was able to speak openly about all that had happened. With very little stable love coming toward me, I developed the feeling that I didn’t deserve much in life. I held my immense grief, anger and confusion inside, fortifying my isolation and my innermost conviction that I was unworthy of love.
+
+Just as I hid my suffering, I tried as hard as I could to hide my feelings of worthlessness. On many a day I’d watch the threads of my alliance with the world fray, and would silently note the disintegration of meaning in the world around me and in my actions. Yet under the bleakness, I wanted with all my heart to find a sense of belonging, to nestle deep into the comfort of a steady source of love and connection.
+
+At 16, I entered the State University of New York at Buffalo. One of the courses I chose in my second year was Asian philosophy. I heard about Buddhism, a philosophy of life that said suffering was neither shameful nor the sign of something wrong with us. It pointed out that we are all linked to one another in our vulnerability to pain, all fragile in our exposure to the continual and unpredictable changes of life.
+
+And I heard this quotation from the Buddha: “You could search the whole world over and never find anyone as deserving of your love as yourself”. Not only did the Buddha say that love for oneself is possible; he described this capacity as something we must nurture, since it’s the foundation for being able to truly love and care for others. Despite my uncertainty, the possibility of a move from self-hatred to self-love drew me like a magnet.
+
+The emphasis on caring for ourselves is certainly not limited to Buddhism; it is found in any true spiritual understanding. It is the foundation of our ability to connect with ourselves and with others from a basis of love and respect rather than from fear and aggression. Spiritual life gives us methods to make self-love real rather than abstract.
+
+When I went to India, I wasn't interested in dogma or in rejecting one religious identity to assume another. I also felt that merely studying a religion as opposed to practicing it was like studying someone else’s experience — and I was compelled to transform my own. So when I found an introductory meditation course in Bodh Gaya that sounded right for me, I was happy to begin the process.
+
+I was less happy to discover that meditation wasn’t as exotic as I had expected. I had anticipated a wondrous, esoteric set of instructions, delivered in a darkened chamber with a supernatural atmosphere. Instead, my first meditation instructor, in the full light of day, launched my practice with the words, “Sit comfortably, and feel your breath”. Feel my breath!, I thought in protest, I could have stayed in Buffalo to feel my breath. But I soon found out just how life changing it is to learn to be simple, to fully connect to my experience in a loving way, to sit comfortably and feel my breath.
+
+In a similar vein, I have found that the daily benefits of meditation are less dramatic than I had imagined. Yes, I have undergone profound and subtle changes in how I think and how I see myself in the world. I’ve learned that I don’t have to be limited to who I thought I was as a child or what I thought I was capable of yesterday, or even an hour ago. My meditation practice has freed me from the old, conditioned definition of myself as someone unworthy of love. But in contrast to my initial fantasies, I haven’t acquired a steady state of glorious bliss. Meditation hasn’t made me happy, loving and peaceful every single moment of the day. I still have good times and bad, joy and sorrow. But I can roll with the punches more, with less sense of disappointment and personal failure, because I have seen how everything changes all the time.
+
+Meditation has taken me under the disguises we wear in the world to touch an essential truth — we are all alike in wanting to be happy, and alike in our vulnerability to change and suffering. Once I learned how to look deep within, I found the vein of goodness that exists in everyone, the goodness that may be hidden but is never entirely destroyed by the conditions of our lives. Glimpsing this goodness, I’ve come to feel, to the bottom of my heart, that I deserve to be happy, as does everyone else. Now when I meet a stranger, I feel less afraid, knowing how much we share. And when I meet myself in meditation, I find I am no longer a stranger.^[[Sit — Sharon Salzberg](https://www.sharonsalzberg.com/sit/)]
+
+</div>
+
+Dissatisfaction with oneself is endemic in Western society because of the emphasis on the individual, free-will and sin (see [Section 11.8](/chapter-11-functioning-mind/#_11-8-sin-guilt-and-shame-%E2%80%94-monstrosities-of-mind)). Western culture promotes regret, guilt and self-condemnation and calls it ‘taking responsibility’. It gives rise to the feverish need to achieve, as well as to perfectionism, harshness, judgement, rejection and exclusion. It is a result of the conceptual split between the ‘I’ and the body–mind so that the ‘I’ thinks it is separate from the body–mind (see [Section 5.12](/chapter-5-conscious-mind-free-will/#_5-12-the-origin-of-the-belief-in-free-will)) and feels encumbered by it. Consequently, the ‘I’ hates the body–mind for not doing its bidding, and for having sensations and emotions that the ‘I’ views as painful or sinful (see [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification), [Section 11.5](/chapter-11-functioning-mind/#_11-5-ownership-the-third-level-of-identification), [Section 11.6](/chapter-11-functioning-mind/#_11-6-polar-pairs-separation-and-suffering), [Section 11.7](/chapter-11-functioning-mind/#_11-7-the-victim-victimiser-polar-pair), [Section 11.8](/chapter-11-functioning-mind/#_11-8-sin-guilt-and-shame-%E2%80%94-monstrosities-of-mind)). Because of this split, true self-love is rare for most Westerners.
+
+However, love of another without fear, guilt or possessiveness is impossible without loving oneself. In fact, because love is our true nature, love is something we discover, not something we do. But, how do we discover what self-love is? Tara Brach, a psychotherapist and teacher of mindfulness meditation, says in her 2003 book, *Radical Acceptance: Embracing Your Life with the Heart of a Buddha*, that self-love begins with the awareness of the body sensations in which the emotions are rooted. All conditioning, including self-hate, is stored in the body as well as in the mind (see [Section 7.10](/chapter-7-summary-critique-amit-goswami-interpretation-quantum-theory-within-monistic-idealism/#_7-10-critique-of-goswami%E2%80%99s-model) for a possible mechanism) and is not fully accessible to us without our becoming aware of our body sensations. *Vipassana* meditation (see [Section 14.6](/chapter-14-religion-belief-non-duality/#_14-6-vipassana-meditation), [Section 24.2](/chapter-24-disidentification-through-meditation/#_24-2-buddhist-meditation)) is a practice of becoming aware of these sensations and their associated emotions. Self-love is the acceptance of all of them with kindness (see [Chapter 22](/chapter-22-disidentification-from-attachment-aversion/)). These include the ‘negative’ emotions, such as anger, hatred, guilt, fear and desire; as well as the ‘positive’ emotions, such as generosity, kindness, forgiveness, happiness and joy.
+
+The ego’s way is to make war, not love. If we wish to be at peace, we need to see that Love, not the ego, is what we are. Love is a sense of openness and connectedness that can be cultivated through many different kinds of practices (see the remaining sections of this chapter, plus [Chapter 22](/chapter-22-disidentification-from-attachment-aversion/), [Chapter 23](/chapter-23-disidentification-through-inquiry/), and [Section 24.2](/chapter-24-disidentification-through-meditation/#_24-2-buddhist-meditation)). Love is not created in these practices — rather, we become aware that it is already present.
+
+## 16.3. Affirmation as self-love practice
+
+Our conditioning of self-hatred can be deep and tenacious. Even if it temporarily disappears from consciousness in a moment, hour or day of peace and contentedness, it can reäppear unexpectedly at any time. Our self-image of victimhood is easily resurrected when we remember or return to any relationship in which anger, hatred or confusion was present, such as with a former teacher, spouse, lover, boss or political figure (see [Section 11.7](/chapter-11-functioning-mind/#_11-7-the-victim-victimiser-polar-pair), [Section 11.8](/chapter-11-functioning-mind/#_11-8-sin-guilt-and-shame-%E2%80%94-monstrosities-of-mind)).
+
+:::tip Exercise
+Close your eyes and feel hatred for yourself. Where in your body do you feel it? What is the sensation?  
+Now feel love for yourself. Where in your body do you feel it? What is the sensation?
+:::
+
+Because self-hatred is conditioned, it can be corrected by deconstruction and reconditioning. Deconstruction is the process of seeing the fallacy of our beliefs about ourselves. This may require the long-term help of a therapist or teacher because self-hatred usually results from years of conditioning and reïnforcement. Reconditioning may likewise require years of spiritual practice, spending time with a spiritual teacher, and patience. One form of reconditioning is affirmation practice. Since each person’s conditioning is specific to his body–mind, each person must find the affirmation practice that is most effective for himself. I have found the following affirmation to be especially restorative for me:
+
+<div class=indented>
+
+I am infinite strength, infinite power, perfect health.  
+I am light, love, peace and joy.
+
+</div>
+
+The first line replaces the belief that we are constricted and bounded with the possibility that we are limitless. The second line replaces our attachment to sadness, aversion, unkindness and despair with the possibility that our true nature is lightness, generosity and kindness.
+
+:::tip Exercise
+After introspecting your identifications with limits, construct an affirmation that expands your identity to limitlessness. Use it mindfully! How does it make you feel?
+:::
+
+Our conditioning is constantly being updated by every new experience but all new conditioning tends to be simply layered on top of existing conditioning. Hence, although our intention in affirmation practice is to replace old conditioning with new conditioning, there is the danger that the practice will merely add to our existing conditioning rather than replacing it. Hence, affirmation practice is best used primarily to get us functioning again when we are overwhelmed with feelings of victimhood, depression, anger, hatred, bitterness or resentment. The real spiritual work comes later when we are feeling more capable (see [Section 16.4](/chapter-16-love-seeking-itself/#_16-4-flooding-ourselves-and-others-with-light), [Section 16.5](/chapter-16-love-seeking-itself/#_16-5-tonglen-practice).
+
+Any self-love practice may be accompanied by feelings of resistance (see [Chapter 21](/chapter-21-resistance-clinging-acceptance/)) because we have been conditioned from early on that self-love, and even self-acceptance, is sinful (e.g., how can we possibly love ourselves when we are so dumb, so nerdy, so ditzy, so disorganised, so lazy, so meek, so impulsive, so careless, so aggressive, so angry and so many other ‘sos’). But love, happiness and forgiveness are our true nature so to think otherwise is Self-betrayal.
+
+If they are to be effective, all self-love practices must be used mindfully, not mechanically. In addition to resistance, a self-love practice may result in profound feelings of relief, lightness and acceptance. Unconditional self-love is possible because our true nature is unconditional love. With the emergence of self-love arises freedom and childlike playfulness. We all felt these as young children before they were conditioned out of us (see [Section 11.8](/chapter-11-functioning-mind/#_11-8-sin-guilt-and-shame-%E2%80%94-monstrosities-of-mind)) but they can be recovered and recognised. Indeed, the way we begin to learn that we are unconditional love is by realising unconditional self-love.
+
+As we become aware of our true nature, we begin to trust in our innate goodness. This trust helps us to connect with others and to relate harmoniously to them, thereby reïnforcing both our trust in ourselves and the harmony in our relationships.
+
+## 16.4. Flooding ourselves and others with light
+
+Flooding ourselves with light can lead to kindness for the self and others and thereby reduce our suffering. Identification with the separate self and its anger, resentment, fear and anxiety is the source of all suffering (see [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification), [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-%E2%80%94-religion-or-not)). We can dissolve the sense of separation and darkness by flooding everything with light. It is intuitive so it is Reality based; it is imaginative but not imaginary; and it is extra-sensory so it can be done no matter what the senses are sensing.
+
+When we flood ourselves with light, we are not trying to get rid of any thoughts, feelings, emotions, sensations or perceptions: we are lighting them up. For example, this Light does not suppress anger, it lights it up. In doing so, it uses the energy of anger to transmute it into Light. Light dissolves the separation between ‘me’ and the emotions by lighting them up.
+
+In non-dual teaching, the ‘negative’ emotions are just as much God as are the ‘positive’ emotions. Light and darkness are both God. When Light lights up the darkness, it is God lighting up God. When we flood others with the Light from our own heart, we become aware of our own Light and the Light of others, and the artificial boundaries between ‘me’ and ‘not-me’ become less clear. Practicing this during meditation (see [Section 24.2](/chapter-24-disidentification-through-meditation/#_24-2-buddhist-meditation)) makes it easier to practice it in daily activity.
+
+:::tip Exercises
+With your eyes closed, think “Love” and imagine yourself being flooded with light. How does it make you feel? Now do it with your eyes open. How does it make you feel?  
+
+Now, with your eyes first closed, then open, think “Love” and flood yourself and a friend with light. (If the friend seems so distant from you that he cannot be flooded simultaneously with you, bring the friend mentally closer.) Follow this with a neutral person (somebody you have neither positive nor negative feelings about), a disliked person and a hated person (if there is one).
+:::
+
+## 16.5. *Tonglen* practice
+
+Connectedness is a condition of life. To deny it is to suffer. Whereas connectedness means that we feel both the pain and the joy of all living beings (the second and third sublime states in Buddhism, see [Section 16.1](/chapter-16-love-seeking-itself/#_16-1-non-dualistic-vs-dualistic-love)), compassion is the willingness to feel the pain and to aspire for it to end. Compassion can be cultivated by using the *Tonglen* (taking and sending) practice of Tibetan Buddhism.^[see, e.g., p. 124–126 of *Genuine Happiness: Meditation as the Path to Fulfillment* (2005), by B. Alan Wallace] *Tonglen* is similar to the practice of flooding with light discussed in the previous section except that in *Tonglen*, we willingly take in our own suffering and the suffering of others, and we send out lightness and ease. The effectiveness of the practice stems from our willingness to take in the suffering of the world rather than pushing it away or denying it. As a formal practice, *Tonglen* has four stages:^[as taught by Buddhist nun, Pema Chödrön in Chapter 12 of *The Wisdom of No Escape* (2001) and at [Pema Chodron, Tonglen Instructions](http://web.archive.org/web/20100615055156/http://www.shambhala.org/teachers/pema/tonglen2.php)]
+
+First, we rest our mind briefly, for a second or two, in a state of openness or stillness. 
+
+Second, we breathe in a feeling of hot, dark, heavy suffering — a sense of claustrophobia — and we breathe out a feeling of cool, bright lightness — a sense of freshness. We breathe in completely through all the pores of the body and we breathe out, radiate out, completely through all the pores of the body. We do this until it feels synchronised with the in-and-out breath. 
+
+Third, we work with our personal situation — any painful situation that is real to us. Traditionally, we begin by doing tonglen for someone we care about and wish to help. However, if we are stuck, we do the practice for the pain we ourselves are feeling and simultaneously for all those just like ourselves who are feeling the same kind of suffering. For instance if we are feeling inadequate — we breathe that in for ourselves and all the others in the same boat — and we send out confidence or relief in any form that we wish. Finally, we make the taking in and sending out larger. If we are doing tonglen for someone we love, we extend it out to everyone who is in the same situation. If we are doing tonglen for someone we see on television or on the street, we do it for all the others who are in the same boat — we make it larger than just one person. Then we do it for all those who are feeling the anger or fear that we are caught up with and extend it to all beings.
+
+
+
+
+
+
+---
+#### Footnotes

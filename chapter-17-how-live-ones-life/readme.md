@@ -310,7 +310,9 @@ How can suffering end? Since suffering is to want what we don’t have, then pea
 Imagine getting everything you want. Would this bring you peace? Now imagine welcoming everything you get. Would this bring you peace?
 :::
 
-## 17.8. *An exploration of nonvolitional living* (1993), by Galen Sharp^[[Galen Sharp](https://galensharp.com/Author.html)]
+## 17.8. *An exploration of nonvolitional living* (1993), by Galen Sharp
+
+Excerpt from [Galen Sharp](https://galensharp.com/Author.html)
 
 <div class=indented>
 

@@ -33,7 +33,7 @@ Is the absence of feelings of responsibility and guilt equivalent to the emotion
  7. Antisocial behaviour without apparent compunction.
  8. Poor judgement and failure to learn from experience.
  9. Pathological egocentricity and incapacity to love.
- 10. General poverty in major affective reactions.
+ 10. General poverty in major affective reäctions.
  11. Specific loss of insight.
  12. Unresponsiveness in general interpersonal relations.
  13. Fantastic and uninviting behaviour with drink, and sometimes without.

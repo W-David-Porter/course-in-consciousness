@@ -87,7 +87,7 @@ Falwell: “Pat, did you notice yesterday that the ACLU and all the Christ-hater
  * In *Jerusalem Countdown* (2006), John Hagee (see above) says, “The final battle for Jerusalem is about to begin. Every day in the media you are watching the gathering storm over the State of Israel. The winds of war are once again about to sweep through the sacred city of Jerusalem. The world is about to discover the power of the God of Abraham, Isaac and Jacob, the Keeper of Israel, ‘who… shall neither slumber nor sleep’ (Ps. 121:4). His righteous fury will be evident in the defence of Israel”.
 
 :::tip Question
-What was your reaction to this list? Was it anger, sadness, depression, cynicism, indifference, acceptance, compassion?
+What was your reäction to this list? Was it anger, sadness, depression, cynicism, indifference, acceptance, compassion?
 :::
 
 ## 14.3. A non-dualistic view of God
@@ -189,9 +189,9 @@ Now, three passages from *John* 8:
 
 </div>
 
-Jesus tells them that his true identity has always been pure Awareness/Presence (as it is for everyone). (This assertion incited an all-too common reaction among those who fear having their beliefs challenged.)
+Jesus tells them that his true identity has always been pure Awareness/Presence (as it is for everyone). (This assertion incited an all-too common reäction among those who fear having their beliefs challenged.)
 
-Jesus‘ identification with pure Awareness/Presence (again with the reaction of those who were afraid to question what they had been taught) is reïnforced in the following passages from *John* 10:
+Jesus‘ identification with pure Awareness/Presence (again with the reäction of those who were afraid to question what they had been taught) is reïnforced in the following passages from *John* 10:
 
 <div class=indented>
 

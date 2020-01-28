@@ -167,7 +167,7 @@ The harmonious tranquillity of non-local mind experienced in a spiritual communi
 
 Some spiritual teachers (e.g., Gangaji) speak of a single, profound experience of awakening that occurred while they were in the presence of their master. They call this phenomenon ‘transmission’, and it might result from the overlap of subtle bodies discussed above (see also [Section 18.4](/chapter-18-practices-teachers/#_18-4-who-or-what-is-it-that-practices)). Other teachers say it happens more gradually over time. Some teachers (e.g., Francis Lucille) at times call it the ‘direct path’ (but this is only one form of the direct path, see another in [Section 23.4](/chapter-23-disidentification-through-inquiry/#_23-4-there-is-no-suffering-in-the-present-moment)). Ramesh has called it ‘magic’, and says on page 142 of his book, *Peace and Harmony in Daily Living* (2003):
 
->…the average person experiences a certain kind of peace and relaxation in the sage’s company and he realises that this has rarely anything to do with what is talked about during the meeting. The very presence of the man of wisdom seems to exude peace and harmony in spite of the fact that he seems to respond to outside events with an absolutely normal reaction!
+>…the average person experiences a certain kind of peace and relaxation in the sage’s company and he realises that this has rarely anything to do with what is talked about during the meeting. The very presence of the man of wisdom seems to exude peace and harmony in spite of the fact that he seems to respond to outside events with an absolutely normal reäction!
 
 Many people have attested that the experience of being in the Presence of the sage is enlivening and rarely boring.
 

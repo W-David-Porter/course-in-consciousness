@@ -74,7 +74,7 @@ When classical physics was applied to such a model of the atom, it predicted tha
 
 ![bohr model](/images/bohr-model.gif)
 
-<div>
+</div>
 
 Bohr applied his theory to the simplest atom, the hydrogen atom, which consists of one electron orbiting a nucleus of one proton. The theory explained many of the properties of the observed line spectrum of hydrogen, but could not explain the next more complicated atom, that of helium, which has two electrons. Nevertheless, the theory contained the basic idea of quantised orbits, which was retained in the more correct theories that came later.
 
@@ -174,3 +174,4 @@ We have seen that, even if the quantum wave function is objectively real, it is 
 
 ---
 
+#### Footnotes

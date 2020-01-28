@@ -388,7 +388,7 @@ The following diagram illustrates the concepts discussed in this chapter. Diside
 
 ![disidentification](/images/disidentification.gif)
 
-<div>
+</div>
 
 
 ---

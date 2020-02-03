@@ -121,5 +121,20 @@ See if you can see whether there is a ‘me’ present during the transition fro
 
 Even when we are passively observing our thoughts of judgement, fear, or desire, if there is the sense of an observer being present (see [Section 23.2](/chapter-23-disidentification-through-inquiry/#_23-2-inquiry-into-the-self-self-inquiry)), there is still identification. Nevertheless, each time we are aware that this is happening, identification has weakened, and as the understanding continues to deepen, suffering continues to decrease.
 
+## 19.3. Trusting Awareness
+
+Pure Awareness is our true nature. It is What-We-Are. Pure Awareness never changes. Everything else does. That is why it makes sense to trust pure Awareness and why it makes no sense to trust anything else. We are conditioned to trust everything and anything except what is trustworthy. Trusting Awareness takes responsibility out of the hands of the ego, which cannot be trusted, and puts it in Awareness, which can be trusted. The proof that Awareness is trustworthy comes with our experience of greater relaxation, peace and freedom as we trust It.
+
+:::tip Exercise
+Trusting Awareness requires practice and self-reminding until it becomes automatic. Any feeling of irritation or dissatisfaction can be a reminder that we are still trying to trust the ego and to trust Awareness instead.
+:::
+
+Furthermore, any practice that helps us to realise our true nature as Awareness is a useful practice. A simple practice is to think the *mantra* “Awareness” as often as we can remember to. This will help to dispel the illusion that we are a separate ‘I’ and to become what we really are.
+
+:::tip Exercise
+Think the *mantra* “Awareness” as often as you can remember to. Do you experience transcendence of the individual ‘I’?
+:::
+
+A *mantra* must be mindfully thought, not mechanically. Being Awareness happens when we remember that we are Awareness. Like other spiritual practices, the practice itself shows that nobody is doing it (see [Section 18.4](/chapter-18-practices-teachers/#_18-4-who-or-what-is-it-that-practices)).
 
 

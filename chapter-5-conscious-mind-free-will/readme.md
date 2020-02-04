@@ -42,9 +42,9 @@ Distant hypnosis: Inducing hypnosis of a person at a distance.
 
 Psychic healing: A type of remote viewing and healing in which the healer actively transposes intuitive impressions into thoughts and specific healing actions in a patient’s body to remedy a perceived problem.
 
-Spiritual healing: Remote healing in which the healer is in a receptive, aware, non-judgemental state which allows his or her consciousness to be used as a conduit for healing by non-local, universal mind.
+Spiritual healing: Remote healing in which the healer is in a receptive, aware, non-judgemental state which allows his consciousness to be used as a conduit for healing by non-local, universal mind.
 
-Energy healing: Healing in which the healer directs his or her attention to the patient and concentrates on replenishing or manipulating the patient’s vital energy flow. Examples are reiki, therapeutic touch, laying on of hands, pranic healing and Qi Gong.
+Energy healing: Healing in which the healer directs his attention to the patient and concentrates on replenishing or manipulating the patient’s vital energy flow. Examples are reiki, therapeutic touch, laying on of hands, pranic healing and Qi Gong.
 
 Intuition: Direct, non-analytical awareness that can come from non-local mind, internal subconscious processes, psychic sources such as mind-to-mind connections or direct clairvoyant perception of the outside world.
 
@@ -103,7 +103,7 @@ What objects are conscious? This question was also asked in [Section 1.2](/chapt
 
 To reveal the difficulties in this type of measurement, suppose that my mind is directly sensitive to your mind without my depending on any cues from your behaviour or your physical reäctions. We might think that such might be the case in certain kinds of telepathic events. Now, for example, could we determine whether my experience of ‘red’ is the same as yours?
 
-The answer is no because my experience of red is still inescapably in my mind, never in yours. Thus, a telepathic technique does not give us a way to determine whether my experience of red is the same as yours. Furthermore, no matter what the technique for measuring consciousness, there is always the problem that the person interpreting the measurement is aware of only the contents of his or her own mind, never of anybody else’s.
+The answer is no because my experience of red is still inescapably in my mind, never in yours. Thus, a telepathic technique does not give us a way to determine whether my experience of red is the same as yours. Furthermore, no matter what the technique for measuring consciousness, there is always the problem that the person interpreting the measurement is aware of only the contents of his own mind, never of anybody else’s.
 
 This does not mean that minds cannot communicate with each other. Non-local consciousness allows this (see [Section 5.2](#_5-2-extraordinary-abilities-of-the-mind), [Section 9.4](/chapter-9-perceiving-conceptualising/#_9-4-many-minds-one-awareness), [Section 12.1](/chapter-12-space-time-causality-destiny/#_12-1-the-concepts-of-space-and-time), [Section 12.2](/chapter-12-space-time-causality-destiny/#_12-2-speculations-on-the-concepts-of-nonlocality-in-time-and-space) and [Chapter 16](chapter-16-love-seeking-itself)).
 

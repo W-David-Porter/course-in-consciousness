@@ -137,4 +137,6 @@ Think the *mantra* “Awareness” as often as you can remember to. Do you exper
 
 A *mantra* must be mindfully thought, not mechanically. Being Awareness happens when we remember that we are Awareness. Like other spiritual practices, the practice itself shows that nobody is doing it (see [Section 18.4](/chapter-18-practices-teachers/#_18-4-who-or-what-is-it-that-practices)).
 
+---
 
+#### Footnotes

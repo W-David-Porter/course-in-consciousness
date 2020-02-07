@@ -254,7 +254,7 @@ Because all types of objects are affected in exactly the same way by gravity, an
 Near the earth, how is space curved — towards the earth, away from the earth, or not at all?
 :::
 
-Clear evidence that the force of gravity is nothing but a concept is given by the fact that it can be replaced by another concept, the concept of the curvature of space. Less clear is that the body sensations that we normally associate with the force of gravity (see [Section 2.2](#_2-2-newtons-laws-and-determinism)) are also purely mental. We shall see more generally what we mean by the mind in [Section 9.2](/chapter-9-perceiving-conceptualising/#_9-2-what-is-the-perceived).
+Clear evidence that the force of gravity is nothing but a concept is given by the fact that it can be replaced by another concept, the concept of the curvature of space. Less clear is that the body sensations that we normally associate with the force of gravity (see [Section 2.2](/chapter-2-classical-physics-newton-einstein/#_2-2-newtons-laws-and-determinism)) are also purely mental. We shall see more generally what we mean by the mind in [Section 9.2](/chapter-9-perceiving-conceptualising/#_9-2-what-is-the-perceived).
 
 General relativity also predicts the existence of black holes, objects that are so massive but so tiny that space around them curves into them. A light beam that gets close enough to a black hole will be bent into the black hole and never escape.
 

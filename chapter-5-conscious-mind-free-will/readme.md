@@ -172,7 +172,7 @@ Art by [Jolyon](https://www.jolyon.co.uk)
 
 ## 5.7. What seem to be the effects of consciousness?
 
-Forget for the moment that, without consciousness there may be no physical world ([Section 4.2](/chapter-4-waves-interference/#_4-2-schrodinger’s-cat-paradox)). Does consciousness affect the physical world? It does indeed seem to have an effect on the physical world, although one must be cautious about this:
+Forget for the moment that, without consciousness there may be no physical world ([Section 4.2](/chapter-4-waves-interference/#_4-2-schrodingers-cat-paradox)). Does consciousness affect the physical world? It does indeed seem to have an effect on the physical world, although one must be cautious about this:
 
 <div class="loweralphalist">
 
@@ -395,7 +395,7 @@ b) other brain scans have suggested that all decisions are effected by emotion e
 
 Scientists studying voles and human Swedish twins have discovered a gene variant involved in producing a hormone that affects monogamy in animals whereby men with two copies of the variant were twice as likely to have had a relationship crisis with their spouse or partner in the last twelve months as men who did not carry the variant.^[[Genetic variation in the vasopressin receptor 1a gene (AVPR1A) associates with pair-bonding behavior in humans,	 *Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/early/2008/09/02/0803081105), 2 September, 2008]
 
-In this discussion and those in [Section 5.9](#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will), [Section 5.10](#_5-10-brain-imaging-measurements-on-free-will), [Section 5.11](#_5-10-brain-imaging-measurements-on-free-will), we see that free will plays no role, so our experiences are determined solely by the reäctions of the brain to its circumstances. This means that the brain must function in a purely stimulus–response mode, where a stimulus can come either from an event that is perceived by the senses, or from one that arises spontaneously in the mind, like a thought, feeling or emotion. We now consider such a model of the brain.
+In this discussion and those in [Section 5.9](#_5-9-the-experiments-of-libet-et-al-and-their-implications-for-free-will), [Section 5.10](#_5-10-brain-imaging-measurements-on-free-will), [Section 5.11](#_5-11-free-will-as-the-possibility-of-alternative-action), we see that free will plays no role, so our experiences are determined solely by the reäctions of the brain to its circumstances. This means that the brain must function in a purely stimulus–response mode, where a stimulus can come either from an event that is perceived by the senses, or from one that arises spontaneously in the mind, like a thought, feeling or emotion. We now consider such a model of the brain.
 
 A computer is a crude and inadequate, but still useful, analogue of the brain (which we will assume includes the entire nervous system). The design and memory of a computer are analogous to the genetics and memory of the brain, while the programming of a computer is analogous to the conditioning of the brain. Just as a computer does only what its design and programming permit it to do, the brain does only what its genetics and conditioning permit it to do.
 

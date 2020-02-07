@@ -1,26 +1,57 @@
+var mySlugify = function(str) {
+	const rControl = /[\u0000-\u001f]/g;
+	const rRemove = /[‘’]+/g;
+	const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”–—<>,.?/]+/g;
+
+	return str
+		// Remove diacritics
+	.replace(/ä/g, "a").replace(/ë/g, "e").replace(/ï/g, "i").replace(/ö/g, "o").replace(/ü/g, "u")
+		// Remove control characters
+		.replace(rControl, '')
+		// Remove control characters
+		.replace(rRemove, '')
+		// Replace special characters
+		.replace(rSpecial, '-')
+		// Remove continuous separators
+		.replace(/\-{2,}/g, '-')
+		// Remove prefixing and trailing separators
+		.replace(/^\-+|\-+$/g, '')
+		// ensure it doesn't start with a number (#121)
+		.replace(/^(\d)/, '_$1')
+		// lowercase
+		.toLowerCase()
+
+
+}
+
 module.exports = {
 
 	title: "A Course in Consciousness",
 	description: "This is a course in seeing, not in believing.",
+	
 	markdown: {
-    extendMarkdown: md => {
+		extendMarkdown: md => {
 			[
 				md.use(require("markdown-it-footnote")),
 				md.use(require("markdown-it-sub")),
 				md.use(require("markdown-it-sup"))
 			]
-    }
+		},
+		slugify: mySlugify,
+		toc: {
+			slugify: mySlugify
+		}
 	},
-  themeConfig: {
-    smoothScroll: true,
-    nav: [
-			{ text: "Home", link: "/" }, 
-			{ text: 'Dialogue in Consciousness', link: "/dialogue-consciousness/"},
-			{ text: "Part 1", link: "/part-1-quantum-theory-consciousness/"},
-			{ text: "Part 2", link: "/part-2-metaphysics-non-duality/"},
-			{ text: "Part 3", link: "/part-3-end-suffering-discover-true-nature/"}
+	themeConfig: {
+		smoothScroll: true,
+		nav: [
+			{ text: "Home", link: "/" },
+			{ text: 'Dialogue in Consciousness', link: "/dialogue-consciousness/" },
+			{ text: "Part 1", link: "/part-1-quantum-theory-consciousness/" },
+			{ text: "Part 2", link: "/part-2-metaphysics-non-duality/" },
+			{ text: "Part 3", link: "/part-3-end-suffering-discover-true-nature/" }
 
-    ],
+		],
 		sidebar: [
 			"/dialogue-consciousness/",
 			"/foreword/",
@@ -57,6 +88,6 @@ module.exports = {
 	},
 	evergreen: true,
 	plugins: ["vuepress-plugin-medium-zoom", "@vuepress/back-to-top"]
-	
-	
+
+
 }

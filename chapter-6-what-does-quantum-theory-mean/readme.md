@@ -229,7 +229,7 @@ The three general classes of interpretations of quantum theory are the following
 
 1. Purely objective. In classical physics, this would be a purely materialistic interpretation. In quantum physics, it could be a hidden variables interpretation, or a many worlds interpretation when there are no observers, as in the early universe. If consciousness exists, it is an epiphenomenon of the material world and has no agency. The material world determines all of our experiences. 
 
-2. Partly objective and partly subjective. Classically, this would be a Cartesian dualistic, or mind/body interpretation. In quantum physics, it could be a Copenhagen interpretation if consciousness collapses the wave-function, or a many worlds interpretation if consciousness causes a branching. In both cases, it is consciousness that manifests the material world. 
+2. Partly objective and partly subjective. Classically, this would be a Cartesian dualistic, or mind–body interpretation. In quantum physics, it could be a Copenhagen interpretation if consciousness collapses the wave-function, or a many worlds interpretation if consciousness causes a branching. In both cases, it is consciousness that manifests the material world. 
 
 3. Purely subjective. Classically, this would be an idealistic interpretation, such as Plato’s or Berkeley’s. In quantum physics, a purely subjective interpretation need have no wave-function, but if it did, the wave-function would be purely a tool for calculating the probability that a subjective experience would occur. 
 

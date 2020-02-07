@@ -85,9 +85,9 @@
 		<ol class=alpha>
 			<li>Whenever the ‘I’-object appears to arise, the not-‘I’ object also appears to arise.</li>
 			<li>Then, desire for completion also arises, including the desire for the not-‘I’ object.</li>
-			<li>But, because fear/desire form a dual pair, whenever desire arises, fear also arises, including the fear of the not-‘I’ object.</li>
+			<li>But, because fear–desire form a dual pair, whenever desire arises, fear also arises, including the fear of the not-‘I’ object.</li>
 			<li>Thus, the not-‘I’ object seems real.</li>
-			<li>Thoughts also split the apparent not-‘I’ object into a multitude of apparent objects, and fear/desire makes them all seem real.</li>
+			<li>Thoughts also split the apparent not-‘I’ object into a multitude of apparent objects, and fear–desire makes them all seem real.</li>
 		</ol>
 </li>
 	<li>What is the true nature of all objects?

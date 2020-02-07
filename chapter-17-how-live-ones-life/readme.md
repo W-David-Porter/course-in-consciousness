@@ -205,7 +205,7 @@ What else can we say about purpose in one’s life? The first thing we can say i
 Do you feel that your life has a purpose? Has it ever changed?
 :::
 
-## 17.4. The will to live / the wish to die
+## 17.4. The will to live – the wish to die
 
 In the meditation for November 3 in *A Net of Jewels* (1996), Ramesh says:
 

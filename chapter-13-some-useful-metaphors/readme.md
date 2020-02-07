@@ -78,7 +78,7 @@ If a thorn enters the foot (identification with the sense of personal doërship 
 
 An electrical appliance (a human body) is an inert object that comes to ‘life’ when electricity (Awareness) identifies with it and Presence becomes present. In the absence of the electricity, the appliance is ‘dead’.
 
-A variant of this metaphor is that a fan continues to turn for a time even after the electricity has been turned off, meaning that fear/desire and their derivatives may continue for a time after awakening but they cause no suffering because there is no identification with them (“There is a difference between Awakening and Deliverance: The former is sudden, thereafter deliverance is gradual” — Wei Wu Wei in *Posthumous Pieces*, Chapter 40).
+A variant of this metaphor is that a fan continues to turn for a time even after the electricity has been turned off, meaning that fear–desire and their derivatives may continue for a time after awakening but they cause no suffering because there is no identification with them (“There is a difference between Awakening and Deliverance: The former is sudden, thereafter deliverance is gradual” — Wei Wu Wei in *Posthumous Pieces*, Chapter 40).
 
 ## 13.8. The gold object
 

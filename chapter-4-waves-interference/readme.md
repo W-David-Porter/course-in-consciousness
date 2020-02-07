@@ -207,7 +207,7 @@ When you clearly see three squares, hold the page still, and the hidden image wi
 
 ## 4.4. Another experimental violation of observer independent theory
 
-[Section 4.3](#_4-3-bell’s-theorem-the-aspect–groblacher-experiments-and-the-non-locality-of-reality) discussed conflicts between the hidden variables and quantum descriptions of experiments that were done on entangled quantum objects, such as pairs of entangled photons. Recently, measurements were done on pairs of trapped ions that were not entangled, and even with these non-entangled particles, the results were consistent with quantum theory but inconsistent with the assumption of observer-independent particles.^[*State-independent experimental test of quantum contextuality*, Kirchmair, Zähringer, Gerritsma, Kleinmann, Gühne Cabello, Blatt, Roos, Nature 460 (2009), 494–497] 
+[Section 4.3](#_4-3-bells-theorem-the-aspect-groblacher-experiments-and-the-non-locality-of-reality) discussed conflicts between the hidden variables and quantum descriptions of experiments that were done on entangled quantum objects, such as pairs of entangled photons. Recently, measurements were done on pairs of trapped ions that were not entangled, and even with these non-entangled particles, the results were consistent with quantum theory but inconsistent with the assumption of observer-independent particles.^[*State-independent experimental test of quantum contextuality*, Kirchmair, Zähringer, Gerritsma, Kleinmann, Gühne Cabello, Blatt, Roos, Nature 460 (2009), 494–497] 
 
 ---
 

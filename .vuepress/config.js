@@ -1,7 +1,7 @@
 var mySlugify = function(str) {
 	const rControl = /[\u0000-\u001f]/g;
 	const rRemove = /[‘’]+/g;
-	const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”–—<>,.?/]+/g;
+	const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”–—<>…,.?/]+/g;
 
 	return str
 		// Remove diacritics
@@ -83,6 +83,7 @@ module.exports = {
 			"/chapter-23-disidentification-through-inquiry/",
 			"/chapter-24-disidentification-through-meditation/",
 			"/chapter-25-love-finding-itself/",
+			"/chapter-26-very-short-summary/",
 			"/appendix/"
 		]
 	},

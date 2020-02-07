@@ -72,8 +72,7 @@ and the following ones from Deuteronomy 22:
 >^20^If, however, this charge is true, that evidence of the young woman’s virginity was not found,  
 ^21^then they shall bring the young woman out to the entrance of her father’s house and the men of her town shall stone her to death, because she committed a disgraceful act in Israel by prostituting herself in her father’s house. So you shall purge the evil from your midst.
 
-Interpreting the Christian *Bible* has not only the difficulties of being written for a different culture, and being written or translated by writers whose enlightenment is dubious, but it also has the additional obstacle of being intrinsically dualistic. Nevertheless, as we see in [Section 14.3](/chapter-14-religion-belief-non-duality/#_14-3-a-non-dualistic-view-of-god) and [Section 21.3](/chapter-21-resistance-clinging-acceptance/#_21-3-clinging%E2%80%93resistance-desire%E2%80%93fear-attachment%E2%80%93aversion)
-[Chapter 22](/chapter-22-disidentification-from-attachment-aversion/), several passages have non-dualistic interpretations, although these interpretations are virtually unknown in Christian circles. Furthermore, any scripture that is based on the God-concept is most easily given a non-dualistic interpretation if God is assumed to be Awareness/Presence (see [Section 14.3](/chapter-14-religion-belief-non-duality/#_14-3-a-non-dualistic-view-of-god)) rather than being separate from us.
+Interpreting the Christian *Bible* has not only the difficulties of being written for a different culture, and being written or translated by writers whose enlightenment is dubious, but it also has the additional obstacle of being intrinsically dualistic. Nevertheless, as we see in [Section 14.3](/chapter-14-religion-belief-non-duality/#_14-3-a-non-dualistic-view-of-god) and [Section 21.3](/chapter-21-resistance-clinging-acceptance/#_21-3-clinging-resistance-desire-fear-attachment-aversion), several passages have non-dualistic interpretations, although these interpretations are virtually unknown in Christian circles. Furthermore, any scripture that is based on the God-concept is most easily given a non-dualistic interpretation if God is assumed to be Awareness/Presence (see [Section 14.3](/chapter-14-religion-belief-non-duality/#_14-3-a-non-dualistic-view-of-god)) rather than being separate from us.
 
 :::tip Question
 Have you ever been unable to understand the Bible? Have you ever been able to understand it?
@@ -116,7 +115,7 @@ Life happens because it must.
 
 </div>
 
-Because we know from our own experience that life does not happen without suffering (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-%E2%80%94-religion-or-not), [Section 21.1](/chapter-21-resistance-clinging-acceptance/#_21-1-what-are-resistance-and-clinging)), we can also say:
+Because we know from our own experience that life does not happen without suffering (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-religion-or-not), [Section 21.1](/chapter-21-resistance-clinging-acceptance/#_21-1-what-are-resistance-and-clinging)), we can also say:
 
 <div class=indented>
 
@@ -179,7 +178,7 @@ In the meditation for May 6, he says:
 Is it fearful to you to think that life has no meaning of its own?
 :::
 
-Whenever good or bad fortune strikes, the thought may arise in the conditioned mind that there must be some meaning to it, particularly if a belief in God is also present. Thus, the event may be thought to reflect either God’s favour or disfavour, and this can result in either pride or guilt. However, if God’s will is all there is, (see [Section 12.5](/chapter-12-space-time-causality-destiny/#_12-5-the-concepts-of-destiny-and-god%E2%80%99s-will)), there can be no individual to feel pride or guilt. If pride or guilt arises, it is God’s will, not the individual’s.
+Whenever good or bad fortune strikes, the thought may arise in the conditioned mind that there must be some meaning to it, particularly if a belief in God is also present. Thus, the event may be thought to reflect either God’s favour or disfavour, and this can result in either pride or guilt. However, if God’s will is all there is, (see [Section 12.5](/chapter-12-space-time-causality-destiny/#_12-5-the-concepts-of-destiny-and-gods-will)), there can be no individual to feel pride or guilt. If pride or guilt arises, it is God’s will, not the individual’s.
 
 In the teaching of non-duality, the world has no meaning in itself. Birth, life, good and bad fortune, sickness, suffering and death are all impersonal. Therefore, to think that ‘my’ suffering is due to ‘my’ failure is a misunderstanding. Any thought of meaning is just a thought that has no more meaning than any other thought. However, do not make the mistake of believing that absence of purpose is the same thing as presence of randomness. We know from our own past and from history that events occur in a pattern, not at random (see [Section 12.3](/chapter-12-space-time-causality-destiny/#_12-3-the-concept-of-causality)).
 
@@ -193,7 +192,7 @@ In the meditation for May 20 in *A Net of Jewels* (1996), Ramesh says:
 Does this quotation describe your experience?
 :::
 
-Ramesh’s statement is consistent with the Buddha’s ‘Four Noble Truths’ (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-%E2%80%94-religion-or-not)): the Presence of *Dukkha*, the Cause of *Dukkha*, the End of *Dukkha* and the Path Leading to the End of *Dukkha*.
+Ramesh’s statement is consistent with the Buddha’s ‘Four Noble Truths’ (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-religion-or-not)): the Presence of *Dukkha*, the Cause of *Dukkha*, the End of *Dukkha* and the Path Leading to the End of *Dukkha*.
 
 In chapter 25 of *I Am That* (1984), Nisargadatta says:
 
@@ -211,7 +210,7 @@ In the meditation for November 3 in *A Net of Jewels* (1996), Ramesh says:
 
 >The essence of manifest existence is continuous change, from integration or birth to disintegration or death. With sentience comes the will to live, to not yield to disintegration, and this is the ego, which generates the thinking mind and all man’s misery in the ensuing futile attempt to avoid the inevitable.
 
-Purpose can manifest in a multitude of forms, the most apparent among them being the will to live. However, the Second Noble Truth of Buddhism states that suffering comes from the craving for non-existence as well as from its dual opposite, the craving for existence (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-%E2%80%94-religion-or-not)). An extreme form of craving for non-existence is the death wish. When the death wish appears in an unaware person, it is usually interpreted as a wish for the destruction of the body, and he will try to suppress it out of guilt and because of the religious and cultural stigma against suicide. However, to suppress it is to throw away an opportunity to understand it. A more aware interpretation is that the death wish is nothing more than a wish for the end of suffering. This need not require physical death because the body is not the source of the suffering (although it is the seat of physical pain). As we have seen in [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification), the real source of suffering is identification with the ‘I’-concept, which results in the imaginary ‘me’. Thus, the death wish is really a wish for disidentification and for the ensuing peace.
+Purpose can manifest in a multitude of forms, the most apparent among them being the will to live. However, the Second Noble Truth of Buddhism states that suffering comes from the craving for non-existence as well as from its dual opposite, the craving for existence (see [Section 14.5](/chapter-14-religion-belief-non-duality/#_14-5-buddhism-religion-or-not)). An extreme form of craving for non-existence is the death wish. When the death wish appears in an unaware person, it is usually interpreted as a wish for the destruction of the body, and he will try to suppress it out of guilt and because of the religious and cultural stigma against suicide. However, to suppress it is to throw away an opportunity to understand it. A more aware interpretation is that the death wish is nothing more than a wish for the end of suffering. This need not require physical death because the body is not the source of the suffering (although it is the seat of physical pain). As we have seen in [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification), the real source of suffering is identification with the ‘I’-concept, which results in the imaginary ‘me’. Thus, the death wish is really a wish for disidentification and for the ensuing peace.
 
 :::tip Question
 Are you afraid to die? Are you afraid not to die?

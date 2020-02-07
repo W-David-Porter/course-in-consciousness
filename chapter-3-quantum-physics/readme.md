@@ -110,7 +110,7 @@ The proper interpretation was discovered by German physicist Max Born (1882–19
 Suppose you accepted the principle that reality is probabilistic rather than deterministic. How would it affect your notions of free will? How would it affect your sense of control over your thoughts, feelings, decisions and actions? How would it affect your perceptions of other people’s control over their thoughts, feelings, decisions and actions? How would it affect your judgements about yourself and others?
 :::
 
-The first feature violates the second fundamental assumption of classical physics (see [Section 2.2](/chapter-2-classical-physics-newton-einstein/#_2-2-newton’s-laws-and-determinism)), i.e., that both the position and velocity of an object can be measured with no limits on their precision except for those of the measuring instruments. The second feature violates the first fundamental assumption of classical physics, i.e., that the objective world exists independently of any observations that are made on it.
+The first feature violates the second fundamental assumption of classical physics (see [Section 2.2](/chapter-2-classical-physics-newton-einstein/#_2-2-newtons-laws-and-determinism)), i.e., that both the position and velocity of an object can be measured with no limits on their precision except for those of the measuring instruments. The second feature violates the first fundamental assumption of classical physics, i.e., that the objective world exists independently of any observations that are made on it.
 
 ## 3.3. A striking example of probability measurement
 

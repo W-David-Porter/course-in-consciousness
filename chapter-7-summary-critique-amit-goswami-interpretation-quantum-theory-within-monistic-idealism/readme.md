@@ -29,7 +29,7 @@ Recall that, in our adaptation of Plato’s cave allegory (see [Section 1.4](/ch
 
 ## 7.2. Schrödinger’s cat revisited
 
-We recall that the cat paradox ([Section 4.2](/chapter-4-waves-interference#_4-2-schrodinger%E2%80%99s-cat-paradox)) was invented by Schrödinger to point out the strange consequences of coupling the microscopic with the macroscopic in such a way that both must be included in the wave-function. Let us review this paradox.
+We recall that the cat paradox ([Section 4.2](/chapter-4-waves-interference/#_4-2-schrodingers-cat-paradox)) was invented by Schrödinger to point out the strange consequences of coupling the microscopic with the macroscopic in such a way that both must be included in the wave-function. Let us review this paradox.
 
 A radioactive atom, a Geiger counter, a vial of poison gas and a cat are in a box. The atom has a 50% chance of decaying in one minute. If it decays, the Geiger counter is triggered, causing the poison to be released and the cat to die. If it does not decay, the cat is still alive after one minute. At one minute, I look to see if the cat is alive or dead. We assume that everything in the box can be described by quantum theory, so before I look there is nothing but a wave-function. The wave-function contains a superposition of two terms, one describing a dead cat and one describing a live cat. Before I look, there is neither a dead nor a live cat. When I look, I do not see a superposition, I see either a dead or a live cat. The dead cat part of the wave-function represents, with increasing probability, a cat that may have been dead for any time up to one minute.
 
@@ -49,7 +49,7 @@ Find a quiet place and close your eyes. Focus on your body sensations, particula
 When you see a slow motion scene in a movie, why does it seem to be continuous rather than flickering?
 :::
 
-At the present time, most mainstream physicists think quantum theory can describe any physical object, including cats and our own bodies. In cosmology, even the entire early universe is thought to have been represented by a wave-function. This is an enormous extrapolation from the most complex, but still relatively simple, objects that have been experimentally shown to obey quantum theory (see [Section 4.2](/chapter-4-waves-interference#_4-2-schrodinger%E2%80%99s-cat-paradox)). Nevertheless, in this chapter we shall make the assumption that everything in the physical world is quantum mechanical. However, we must keep in mind that this assumption ignores the difficulties in interpreting quantum theory and in resolving its paradoxes, as discussed in [Chapter 6](/chapter-6-what-does-quantum-theory-mean/).
+At the present time, most mainstream physicists think quantum theory can describe any physical object, including cats and our own bodies. In cosmology, even the entire early universe is thought to have been represented by a wave-function. This is an enormous extrapolation from the most complex, but still relatively simple, objects that have been experimentally shown to obey quantum theory (see [Section 4.2](/chapter-4-waves-interference/#_4-2-schrodingers-cat-paradox)). Nevertheless, in this chapter we shall make the assumption that everything in the physical world is quantum mechanical. However, we must keep in mind that this assumption ignores the difficulties in interpreting quantum theory and in resolving its paradoxes, as discussed in [Chapter 6](/chapter-6-what-does-quantum-theory-mean/).
 
 ## 7.3. The world in idealism
 

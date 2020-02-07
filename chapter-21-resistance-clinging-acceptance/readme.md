@@ -228,3 +228,37 @@ In the meditation for September 22 in *A Net of Jewels* (1996), Ramesh says:
 >Feelings and emotions are all based on duality. So long as they continue to dominate one’s outlook, duality will continue to have a firm hold, excluding the real holiness, the wholeness that is UNICITY.
 
 However, this does not mean to suppress our feelings and emotions, because suppression is resistance. Rather, it means to become aware of them and to accept them so that we are no longer estranged from them (see [Section 16.2](/chapter-16-love-seeking-itself/#_16-2-self-hatred-and-self-love), [Section 24.2](/chapter-24-disidentification-through-meditation/#_24-2-buddhist-meditation)).
+
+## 21.4. What is Acceptance?
+
+In duality, acceptance–resistance form a polar pair. However, Acceptance as we shall speak of it transcends all duality. Therefore, we cannot practice Acceptance because the dualistic ‘I’-doër is present in all practices. However, we can see directly that our true nature is Awareness. Awareness accepts everything and rejects nothing. Therefore, Acceptance results from seeing directly that Awareness is our true nature and understanding that it is our true nature.
+
+## 21.5. When resistance ends, life becomes stress-free
+
+To live without resistance is to live without stress. In the meditation for June 27 in *A Net of Jewels* (1996), Ramesh says:
+
+>To live naturally is to live as a mere witness, without control and therefore without mentation, want or volition, uninvolved in the dream-play of life and living.
+
+In the meditation for November 23, he says:
+
+>As acceptance gradually expands, then life becomes easier. Suffering becomes more easily bearable than when you are looking at it as something to be rejected, something to be ended.
+
+On page 76 of *The Wisdom of Sri Nisargadatta Maharaj* (1992) by Robert Powell, Nisargadatta Maharaj says:
+
+>The moment you know your real being, you are afraid of nothing. Death gives freedom and power. To be free in the world, you must die to [disidentify from] the world. Then the universe is your own, it becomes your body, an expression, and a tool. The happiness of being absolutely free is beyond description. On the other hand, he who is afraid of freedom cannot die.
+
+And in chapter 83 of *I Am That* (1984), he says:
+
+>Once you realise that the road is the goal and that you are always on the road, not to reach a goal, but to enjoy its beauty and wisdom, life ceases to be a task and becomes natural and simple, in itself an ecstasy.
+
+We might think that it is impossible not to resist suffering, but resistance to suffering creates even more suffering. If we shift our perspective from seeing suffering as a curse to seeing it as a necessary part of life, resistance to suffering tends to disappear and, with it, the suffering also (see [Section 17.2](/chapter-17-how-live-ones-life/#_17-2-whatever-happens-must-happen)).
+
+Instead of the word Acceptance, Francis Lucille uses the word Welcoming, which he defines as ‘benevolent indifference’. Both words, Acceptance and Welcoming, imply more than pure indifference (see also [Section 17.7](/chapter-17-how-live-ones-life/#_17-7-how-is-peace-realised)). They also imply the transcendental Love of the Self for the Self as discussed in [Section 16.1](/chapter-16-love-seeking-itself/#_16-1-non-dualistic-vs-dualistic-love). (For more about Love, see [Chapter 25](/chapter-25-love-finding-itself/).)
+
+---
+
+#### Footnotes
+
+
+
+

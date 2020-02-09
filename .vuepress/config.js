@@ -84,7 +84,7 @@ module.exports = {
 			"/chapter-24-disidentification-through-meditation/",
 			"/chapter-25-love-finding-itself/",
 			"/chapter-26-very-short-summary/",
-			"/appendix/"
+			"/appendix-my-resources-and-teachers/"
 		]
 	},
 	evergreen: true,

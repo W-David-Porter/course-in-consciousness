@@ -2,11 +2,11 @@
 
 The following concepts, like all concepts, cannot describe Reality, but, unlike most concepts, they point to Reality.
 
-#### 1. The premise
+### 1. The premise
 
 Consciousness is all there is. Another word for Consciousness is the impersonal, yet intimate, I.
 
-#### 2. The conclusions
+### 2. The conclusions
 
 <div class=indented>
 
@@ -22,6 +22,6 @@ The entire manifestation is an expression of Love.
 
 </div>
 
-#### 3. The practice 
+### 3. The practice 
 
 Don’t believe this — look and see it for yourself!

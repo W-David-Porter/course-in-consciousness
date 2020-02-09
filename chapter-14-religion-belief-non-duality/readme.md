@@ -16,7 +16,7 @@ Have you suffered as a result of religious teachings?
 
 Religion can be defined as a belief system plus a power structure to enforce the belief system. The power structure can be overt, as in a conventional religion, or it can be a subtle pressure from a group to conform. Within this definition, the Western culture of individual identity and striving is a religion, politics is a religion, science is a religion, materialism is a religion, medicine is a religion, idealism is a religion and even *Advaita* can be a religion. Whenever we try to correct somebody’s belief, we are acting as the thought police to enforce a belief system. When there is no ‘we’ to do anything, a response to a belief may arise but it will never be separative because it will come from the absence of separation.
 
-*This is a course in seeing and understanding, not in belief.* In non-duality, Reality transcends all concepts, so Reality cannot be conceptualised. Non-duality as a teaching contains many concepts, but all of them are meant to be pointers to Reality that can be verified by experience. To mistakenly believe the concepts as Reality Itself would actually prevent one from realising Reality. In the end, the only validity of any concepts is in their usefulness in bringing about awakening and the end of suffering.
+**This is a course in seeing and understanding, not in belief.** In non-duality, Reality transcends all concepts, so Reality cannot be conceptualised. Non-duality as a teaching contains many concepts, but all of them are meant to be pointers to Reality that can be verified by experience. To mistakenly believe the concepts as Reality Itself would actually prevent one from realising Reality. In the end, the only validity of any concepts is in their usefulness in bringing about awakening and the end of suffering.
 
 :::tip Question
 Why can’t belief bring you to Reality?
@@ -28,7 +28,7 @@ On page 109 of *The Wisdom of Nisargadatta* (1992) by Robert Powell, Nisargadatt
 
 On page 65 of the same book, Nisargadatta says:
 
->Those who know only scriptures know nothing. To know is to be.
+>Those who know only scriptures know nothing. To know is to **be**.
 
 In the meditation for August 25 in *A Net of Jewels* (1996), Ramesh says:
 
@@ -44,10 +44,10 @@ In the meditation for August 28 of *A Net of Jewels* (1996), Ramesh says:
 
 >When a person finds that his own efforts are fruitless, then he turns to a power, he creates a power, conceives a power which will give him what he himself cannot get. He creates a concept, worships it, prays to it and begs it to give him what he wants. When even that entity fails to give him what he is seeking, further frustration and misery arise.
 
-In religion, mankind creates its gods in its own images, and each religion then justifies its actions by claiming it speaks for its god. The more vengeful and punitive is the god, the more vengeful and punitive are the people who created it and who believe in it. Furthermore, if we think of God as being separate from us, we will not be able to avoid asking such questions as, “Why did God create suffering?” or, “Why is God doing this to *me*?”. Thus, many adherents to Christianity are described as being God-fearing, not God-loving. Any belief in a separate god induces guilt, expiation of which often takes the form of trying to induce guilt in others. It is no accident that the most peaceful religions are the ones, like Buddhism, that have no concept of god.
+In religion, mankind creates its gods in its own images, and each religion then justifies its actions by claiming it speaks for its god. The more vengeful and punitive is the god, the more vengeful and punitive are the people who created it and who believe in it. Furthermore, if we think of God as being separate from us, we will not be able to avoid asking such questions as, “Why did God create suffering?” or, “Why is God doing this to **me**?”. Thus, many adherents to Christianity are described as being God-fearing, not God-loving. Any belief in a separate god induces guilt, expiation of which often takes the form of trying to induce guilt in others. It is no accident that the most peaceful religions are the ones, like Buddhism, that have no concept of god.
 
 :::tip Questions
-Have you ever asked the question, “Why did God create suffering?” or, “Why is God doing this to *me*?”.
+Have you ever asked the question, “Why did God create suffering?” or, “Why is God doing this to **me**?”.
 :::
 
 Religions often preach love without knowing what Love is (see [Chapter 16](/chapter-16-love-seeking-itself/) and [Chapter 25](/chapter-25-love-finding-itself/)). Many religious fundamentalists interpret their god’s love for them to be inseparable from its hatred for others. The U.S. political movement known as the [Christian religious right](https://en.wikipedia.org/wiki/Christian_right) is one such group. Its primary spokesmen are Robert Grant, Pat Robertson, John Hagee, Rod Parsley, Franklin Graham, James Dobson, and Jerry Falwell (deceased 2007).
@@ -149,7 +149,7 @@ Now, some passages from *John* 14:
 
 </div>
 
-Non-dualistically, realising ourselves as pure Awareness/Presence ([Figure 1, Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality#figure1)) is the means and the end (the way and the truth). If we know this, we also know the Absolute (unmanifest Consciousness, the Father).
+Non-dualistically, realising ourselves as pure Awareness/Presence ([Figure 1, Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality#figure1)) is the means and the end (**the way and the truth**). If we know this, we also know the Absolute (unmanifest Consciousness, **the Father**).
 
 <div class=indented>
 
@@ -168,7 +168,7 @@ Philip wants Jesus to show him pure Awareness/Presence, but Jesus tells him agai
 
 </div>
 
-The ‘other Counsellor’, or Holy Spirit, is spiritual intuition (see [Figure 1, Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality#figure1)), which few know (it cannot be seen with the body’s eyes), but it can be known by all who want to know. (Spiritual intuition, not blind belief, is the true meaning of faith.)
+The ‘other **Counsellor**’, or **Holy Spirit**, is spiritual intuition (see [Figure 1, Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality#figure1)), which few know (it cannot be seen with the body’s eyes), but it can be known by all who want to know. (Spiritual intuition, not blind belief, is the true meaning of faith.)
 
 <div class=indented>
 

@@ -44,7 +44,7 @@ Now we must consider experiences that are also purely internal to the mind, but 
 
 Does the mind function when we are not observing it? In our everyday experience, the mind will sometimes appear to work on a problem unconsciously or subconsciously, i.e. without conscious awareness, so that the solution later appears full-blown, seemingly in a flash of genius. However, this assumes that the mind is a real object that can exist outside of awareness, i.e., that it is objectively real. (Later we shall use a different definition for the mind.) Because the subconscious and unconscious minds can never be observed directly, their existence can only be an assumption.
 
-*Because all of our experiences are necessarily subjective, we have no means to get beyond them to any kind of objective reality that might exist. Because of this, it is impossible for an objective reality to reveal itself through any observation.* Thus, the existence of an objective reality can never be proved and, even if such an objective reality existed, it could never affect any of our observations.
+**Because all of our experiences are necessarily subjective, we have no means to get beyond them to any kind of objective reality that might exist. Because of this, it is impossible for an objective reality to reveal itself through any observation.** Thus, the existence of an objective reality can never be proved and, even if such an objective reality existed, it could never affect any of our observations.
 
 :::tip Question 
 Is there any way of verifying that your feelings exist if you are not observing them? 
@@ -199,7 +199,7 @@ As paradoxical as it might seem, *Advaita* is more ‘scientific’ than is the 
 
 ## 1.6. The distinction between Consciousness, Awareness and mind
 
-Here, we must say what distinction we shall make between mind and consciousness. Many writers use ‘mind’ when other writers use ‘consciousness’ to describe the same thing. In Chapters 1 through 8, we shall use the word ‘consciousness’ (uncapitalised) rather ambiguously to mean either mind or the general principle of consciousness. This reflects the ambiguity of common usage. Beginning in [Chapter 9](/chapter-9-perceiving-conceptualising/), we shall be more precise and shall start referring to ‘Consciousness’ (capitalised) as All-That-Is. This includes Noümenon (the Unmanifest) and phenomenon (the manifest). When we speak of our experience, we shall often refer to Noümenon as Awareness, and to phenomenon as mind. Then the word ‘mind’ will mean only the *experience* of the mental, sensory and perceptual functioning of the individual organism, not to any kind of physical object such as the brain. The combination of body and mind we shall refer to as the body–mind organism. After Chapter 9, we shall not use ‘consciousness’ (uncapitalised) unless we are following the usage of other writers.
+Here, we must say what distinction we shall make between mind and consciousness. Many writers use ‘mind’ when other writers use ‘consciousness’ to describe the same thing. In Chapters 1 through 8, we shall use the word ‘consciousness’ (uncapitalised) rather ambiguously to mean either mind or the general principle of consciousness. This reflects the ambiguity of common usage. Beginning in [Chapter 9](/chapter-9-perceiving-conceptualising/), we shall be more precise and shall start referring to ‘Consciousness’ (capitalised) as All-That-Is. This includes Noümenon (the Unmanifest) and phenomenon (the manifest). When we speak of our experience, we shall often refer to Noümenon as Awareness, and to phenomenon as mind. Then the word ‘mind’ will mean only the **experience** of the mental, sensory and perceptual functioning of the individual organism, not to any kind of physical object such as the brain. The combination of body and mind we shall refer to as the body–mind organism. After Chapter 9, we shall not use ‘consciousness’ (uncapitalised) unless we are following the usage of other writers.
 
 :::tip Exercise
 Whenever you can think of it, ask, “What is it that does not change no matter what I am doing or what is happening?”. Then look and see. The purpose of the question is to focus your attention. The answer comes when you look and see.
@@ -218,9 +218,9 @@ We shall see that, according to the teaching of non-duality, Reality is not:
  4. What you want it to be. 
  5. What you think it should be.
 
-Well, then, what is It?
+Well, then, what **is** It?
 
-We shall see that the only way to find out is to look and see for yourself, not to believe. In fact, this is a course in seeing, not in believing.
+We shall see that the only way to find out is to look and see for yourself, not to believe. In fact, **this is a course in seeing, not in believing**.
 
 ---
 

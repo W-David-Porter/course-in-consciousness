@@ -8,7 +8,7 @@ Physicists measure the spectrum (the intensity of light as a function of wavelen
 
 <div class=centred>
 
-![prism](/images/prism.gif)
+![prism](./images/prism.gif)
 
 </div>
 
@@ -16,7 +16,7 @@ In the late 1800s, physicists were making accurate measurements of the spectra o
 
 <div class=centred>
 
-![black body spectrum](/images/black-body-spectrum.gif)
+![black body spectrum](./images/black-body-spectrum.gif)
 
 </div>
 
@@ -28,7 +28,7 @@ Classical physics could not explain the spectra of black bodies. It predicted th
 
 <div class=centred>
 
-![black body](/images/blackbody.gif)
+![black body](./images/blackbody.gif)
 
 </div>
 
@@ -42,7 +42,7 @@ Also in the late 1800s, experimental physicists were measuring the emission of e
 
 <div class=centred>
 
-![photo-electric effect](/images/photoelectric-effect.gif)
+![photo-electric effect](./images/photoelectric-effect.gif)
 
 </div>
 
@@ -56,7 +56,7 @@ In addition to measuring the spectra of blackbody radiation in the nineteenth ce
 
 <div class=centred>
 
-![line spectra](/images/line-spectra.gif)
+![line spectra](./images/line-spectra.gif)
 
 </div>
 
@@ -64,7 +64,7 @@ Line spectra are another example of phenomena that could not be explained by cla
 
 <div class=centred>
 
-![rutherford model](/images/rutherford-model.gif)
+![rutherford model](./images/rutherford-model.gif)
 
 </div>
 
@@ -72,7 +72,7 @@ When classical physics was applied to such a model of the atom, it predicted tha
 
 <div class=centred>
 
-![bohr model](/images/bohr-model.gif)
+![bohr model](./images/bohr-model.gif)
 
 </div>
 
@@ -96,7 +96,7 @@ Schrödinger verified his equation by using it to calculate the line emission sp
 
 <div class=centred>
 
-![schröedinger model](/images/schrodinger-model.gif)
+![schröedinger model](./images/schrodinger-model.gif)
 
 </div>
 
@@ -118,7 +118,7 @@ Probabilities can be measured using sophisticated instrumentation. A striking ex
 
 <div class=centred>
 
-![irons atoms electrons](/images/iron-atoms-electrons.jpg)
+![irons atoms electrons](./images/iron-atoms-electrons.jpg)
 
 </div>
 
@@ -134,7 +134,7 @@ Another feature of the quantum world, the world of microscopic objects, is that 
 
 <div class=centred>
 
-![electron uncertainty](/images/electron-uncertainty.gif)
+![electron uncertainty](./images/electron-uncertainty.gif)
 
 </div>
 
@@ -158,7 +158,7 @@ The uncertainty principle can be understood from a wave picture. A wave of preci
 
 <div class=centred>
 
-![uncertainty 1](/images/uncertainty1.gif)
+![uncertainty 1](./images/uncertainty1.gif)
 
 </div>
 

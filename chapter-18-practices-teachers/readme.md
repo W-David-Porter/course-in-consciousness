@@ -171,4 +171,4 @@ At this point, I will list some observations I have made about teachers and prac
 
 ## 18.6. Some of the contemporary sages of non-duality who have followed the tradition of *Advaita*
 
-![teachers](/images/teachers.gif)
+![teachers](./images/teachers.gif)

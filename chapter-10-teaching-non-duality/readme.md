@@ -10,7 +10,7 @@ The statement of non-duality is that Consciousness is all there is. *Advaita*, t
 
 <div class=centred id=figure1>
 
-![consciousness.gif](/images/consciousness.gif)
+![consciousness.gif](./images/consciousness.gif)
 
 <em>Figure 1.</em>
 
@@ -210,7 +210,7 @@ When [Figure 1](#figure1) is stripped of all non-essential concepts, it becomes 
 
 <div class=centred>
 
-![consciousness-2.gif](/images/consciousness-2.gif)
+![consciousness-2.gif](./images/consciousness-2.gif)
 
 </div>
 

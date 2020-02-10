@@ -50,7 +50,7 @@ This metaphor is similar to that of the movie. The body–mind organism is nothi
 
 <div class=centred>
 
-![kermit](/images/kermit.gif)
+![kermit](./images/kermit.gif)
 
 </div>
 

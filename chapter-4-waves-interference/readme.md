@@ -10,7 +10,7 @@ Suppose we do an experiment in which machine gun bullets are fired at a wall wit
 
 <div class=centred id=figure1>
 
-![interference](/images/interference.gif)
+![interference](./images/interference.gif)
 
 <em>Figure 1</em>
 
@@ -20,15 +20,15 @@ When we are dealing with waves, we have a different rule. The superposition prin
 
 <div class=centred>
 
-![wave 1](/images/wave1.gif)
+![wave 1](./images/wave1.gif)
 
 <em>Crest added to a crest gives a higher crest.</em>
 
-![wave 2](/images/wave2.gif)
+![wave 2](./images/wave2.gif)
 
 <em>Crest added to a trough gives cancellation.</em>
 
-![wave 3](/images/wave3.gif)
+![wave 3](./images/wave3.gif)
 
 <em>Two waves added out of phase give an intermediate wave.</em>
 
@@ -40,11 +40,11 @@ The superposition principle leads to the phenomenon of interference. The superpo
 
 <div class=centred>
 
-![water wave](/images/water-wave.jpg)
+![water wave](./images/water-wave.jpg)
 
 <em>Looking down on a water wave. The bright lines are crests, the dark ones are troughs.</em>
 
-![water wave interference](/images/water-wave-interference.jpg)
+![water wave interference](./images/water-wave-interference.jpg)
 
 <em>Interference of two water waves. Crests added to crests form higher crests. Troughs added to troughs form deeper troughs.</em>
 
@@ -64,7 +64,7 @@ This equation has a simple interpretation. The first term on the right is simply
 
 <div class=centred id=figure2>
 
-![two slit pattern for bullets](/images/two-slit-pattern-for-bullets.gif)
+![two slit pattern for bullets](./images/two-slit-pattern-for-bullets.gif)
 
 <em>Figure 2</em>
 
@@ -74,7 +74,7 @@ The middle term on the right of Equation 1 is called the interference term. This
 
 <div class=centred>
 
-![two slit pattern with electrons](/images/two-slit-pattern-with-electrons.gif)
+![two slit pattern with electrons](./images/two-slit-pattern-with-electrons.gif)
 
 <em>Figure 3</em>
 
@@ -92,9 +92,9 @@ This thought experiment was originally created by Schrödinger in an attempt to 
 
 <div class=centred>
 
-![the cat](/images/the-cat.jpg)
+![the cat](./images/the-cat.jpg)
 
-![cat](/images/cat.gif)
+![cat](./images/cat.gif)
 
 </div>
 
@@ -173,7 +173,7 @@ These experiments could not distinguish between a reality that is not strongly o
 
 <div class=centred>
 
-![bell](/images/bell.gif)
+![bell](./images/bell.gif)
 
 </div>
 
@@ -195,7 +195,7 @@ There can be strong correlations between two random sets that cannot be discover
 
 <div class=centred>
 
-![magic eye](/images/magic-eye.gif)
+![magic eye](./images/magic-eye.gif)
 
 </div>
 

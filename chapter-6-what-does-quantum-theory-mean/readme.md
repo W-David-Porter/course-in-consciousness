@@ -76,7 +76,7 @@ where it is obvious that |+,up> goes up and |-,down> goes down. This wave-functi
 
 <div class=centred>
 
-![stern gerlach 1](/images/stern-gerlach1.gif)
+![stern gerlach 1](./images/stern-gerlach1.gif)
 
 </div>
 
@@ -109,7 +109,7 @@ In this section, we shall assume the Copenhagen interpretation. We also assume t
 
 <div class=centred>
 
-![stern gerlach 2](/images/stern-gerlach2.gif)
+![stern gerlach 2](./images/stern-gerlach2.gif)
 
 </div>
 
@@ -117,7 +117,7 @@ Now suppose there are two observers, you and I (see figure below), so that you o
 
 <div class=centred>
 
-![stern gerlach 3](/images/stern-gerlach3.gif)
+![stern gerlach 3](./images/stern-gerlach3.gif)
 
 </div>
 
@@ -171,7 +171,7 @@ Is there any way the many-worlds interpretation could be true?
 
 <div class=centred>
 
-![parallel universe](/images/parallel-universe.gif)
+![parallel universe](./images/parallel-universe.gif)
 
 </div>
 

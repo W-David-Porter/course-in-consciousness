@@ -63,11 +63,11 @@ Non-local consciousness collapses the wave-function. Space–time, perceived obj
 
 <div class=centred id=figure1>
 
-![goswami realms](/images/goswami-realms.gif)
+![goswami realms](./images/goswami-realms.gif)
 
 <em>Figure 1. Manifestation of sentience by wave-function collapse.</em>
 
-![self aware universe](/images/self-aware-universe.gif)
+![self aware universe](./images/self-aware-universe.gif)
 
 <em>The universe creates itself by observing itself (J.A. Wheeler, 1975)</em>
 
@@ -100,7 +100,7 @@ The presence of the quantum part of the brain provides a large, possibly infinit
 
 <div class=centred>
 
-![brain parts](/images/brain-parts.gif)
+![brain parts](./images/brain-parts.gif)
 
 <em>Figure 2. Quantum-classical model of the brain</em>
 
@@ -110,7 +110,7 @@ Just as in our analogies, the presence of the classical part is necessary for co
 
 <div class=centred>
 
-![brain wave function](/images/brain-wave-function.gif)
+![brain wave function](./images/brain-wave-function.gif)
 
 Figure 3. Quantum-classical states of the brain</em>
 
@@ -186,7 +186,7 @@ According to Goswami, this tangled hierarchy is necessary for sentience to appea
 
 <div class=centred>
 
-![first identification](/images/first-identification.gif)
+![first identification](./images/first-identification.gif)
 
 *Figure 4. Diagram of the first identification*
 
@@ -198,7 +198,7 @@ The classical part records in its memory every experience (every collapse) in re
 
 <div class=centred>
 
-![brain](/images/brain.gif)
+![brain](./images/brain.gif)
 
 *Figure 5. Model of the brain-sensory system*
 
@@ -210,7 +210,7 @@ The secondary processes and repeated running of the learned programs of the clas
 
 <div class=centred>
 
-![second identification](/images/second-identification.gif)
+![second identification](./images/second-identification.gif)
 
 *Figure 6. Diagram of the second identification*
 

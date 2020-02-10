@@ -190,7 +190,7 @@ In the 1800s, it was known that light had a wave-like nature, and classical phys
 
 <div class=centred>
 
-![wave](/images/wave.gif)
+![wave](./images/wave.gif)
 
 </div>
 
@@ -203,7 +203,7 @@ The electro-magnetic spectrum (see previous section) contains electro-magnetic w
 
 <div class=centred>
 
-![electro-magnetic spectrum](/images/electromagneticspectrum.gif)
+![electro-magnetic spectrum](./images/electromagneticspectrum.gif)
 
 </div>
 
@@ -302,7 +302,7 @@ In classical physics, objects interact with each other through their force field
 
 <div class=centred>
 
-![dilbert on gravity](/images/dilbertongravity.gif)
+![dilbert on gravity](./images/dilbertongravity.gif)
 
 </div>
 

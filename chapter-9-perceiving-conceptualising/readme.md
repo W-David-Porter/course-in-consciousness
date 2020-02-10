@@ -203,7 +203,7 @@ The problem of trying to create an objective theory of subjective experience has
 
 <div class=centred>
 
-![consciousness from neurons](/images/consciousness-from-neurons.gif)
+![consciousness from neurons](./images/consciousness-from-neurons.gif)
 
 *Art by Jolyon, [www.jolyon.co.uk](https://www.jolyon.co.uk)*
 

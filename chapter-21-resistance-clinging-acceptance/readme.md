@@ -44,7 +44,7 @@ The ‘I’-doër and clinging–resistance define each other in a self-reïnfor
 
 <div class=centred>
 
-![clinging resistance](/images/clinging-resistance.gif)
+![clinging resistance](./images/clinging-resistance.gif)
 
 </div>
 
@@ -58,7 +58,7 @@ There are many other kinds of self-reïnforcing feedback loops. A common one is 
 
 <div class=centred>
 
-![i doer self-hatred](/images/i-doer-self-hatred.gif)
+![i doer self-hatred](./images/i-doer-self-hatred.gif)
 
 </div>
 

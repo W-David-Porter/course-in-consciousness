@@ -142,7 +142,7 @@ Gödel’s theorem shows that no logical system can produce all of the true stat
 
 <div class=centred>
 
-![godel school work](/images/godel-school-work.gif)
+![godel school work](./images/godel-school-work.gif)
 
 <em>Gödel‘s school work, age 6–7 (J. W. Dawson, Jr., Logical Dilemmas (1997))</em>
 
@@ -164,7 +164,7 @@ Have you ever experienced a sense of inner connection with a machine?
 
 <div class=centred>
 
-![conscious robot](/images/conscious-robot.gif)
+![conscious robot](./images/conscious-robot.gif)
 
 Art by [Jolyon](https://www.jolyon.co.uk) 
 
@@ -220,7 +220,7 @@ We conclude from these studies that our ability to perceive separate objects and
 
 <div class=centred>
 
-![infant perception](/images/infant-perception.gif)
+![infant perception](./images/infant-perception.gif)
 
 </div>
 
@@ -236,7 +236,7 @@ In a ground-breaking series of experiments first reported in 1973, Benjamin Libe
 
 <div class=centred>
 
-![retroactive referral](/images/libet3.gif)
+![retroactive referral](./images/libet3.gif)
 
 </div>
 
@@ -248,7 +248,7 @@ In 1983, Libet et. al.^[*Unconscious cerebral initiative and the role of conscio
 
 <div class=centred>
 
-![readiness potential](/images/libet2.gif)
+![readiness potential](./images/libet2.gif)
 
 </div>
 
@@ -256,7 +256,7 @@ A simplified diagram of these results is shown below:
 
 <div class=centred>
 
-![readiness potential onset](/images/libet2.gif)
+![readiness potential onset](./images/libet1.gif)
 
 </div>
 
@@ -268,7 +268,7 @@ The consequences of this insight are extraordinary, revolutionary, and far-rangi
 
 <div class=centred>
 
-![libet experiment](/images/libet-experiment.gif)
+![libet experiment](./images/libet-experiment.gif)
 
 Art by [Jolyon](https://www.jolyon.co.uk)
 
@@ -282,7 +282,7 @@ Note: Instead of watching a clock as in the Libet, et al. experiments, the subje
 
 <div class=centred>
 
-![brain image](/images/brain-image.jpg)
+![brain image](./images/brain-image.jpg)
 
 </div>
 

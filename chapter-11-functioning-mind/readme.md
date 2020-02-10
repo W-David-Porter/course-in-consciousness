@@ -36,7 +36,7 @@ The yin–yang symbol of ancient Chinese philosophy^[see, e.g., [wikipedia](http
 
 <div class=centred>
 
-![yin yang](/images/yinyang.gif)
+![yin yang](./images/yinyang.gif)
 
 *All is Consciousness*
 
@@ -386,7 +386,7 @@ The following diagram illustrates the concepts discussed in this chapter. Diside
 
 <div class=centred>
 
-![disidentification](/images/disidentification.gif)
+![disidentification](./images/disidentification.gif)
 
 </div>
 

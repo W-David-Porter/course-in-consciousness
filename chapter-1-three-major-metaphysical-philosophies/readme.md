@@ -58,7 +58,7 @@ While we may call it reality, external objective reality is not reality at all. 
 
 <div class="centred">
 
-![subject–object chasm](/images/subject-object-chasm.gif)
+![subject–object chasm](./images/subject-object-chasm.gif)
 
 To leap or not to leap? [Art by Jolyon](https://www.jolyon.co.uk)
 
@@ -140,7 +140,7 @@ Idealism was first expounded by Plato in his cave allegory in *The Republic* (c.
 
 <div class=centred>
 
-![plato’s cave](/images/platoscave.gif)
+![plato’s cave](./images/platoscave.gif)
 
 </div>
 

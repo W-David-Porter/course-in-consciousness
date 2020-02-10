@@ -40,7 +40,8 @@ module.exports = {
 		slugify: mySlugify,
 		toc: {
 			slugify: mySlugify
-		}
+		},
+		externalLinks: {target: "_self", rel: "noopener noreferrer"}
 	},
 	themeConfig: {
 		smoothScroll: true,

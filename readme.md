@@ -16,11 +16,11 @@ footer: by Stanley Sobottka, https://courseinconsciousness.org/. Permission is g
 ---
 
 
-[https://courseinconsciousness.org/](https://courseinconsciousness.org/)<br>
-Stanley Sobottka <br>
-Emeritus Professor of Physics <br>
-University of Virginia <br>
-Charlottesville, VA 22904-4714 <br>
+[https://courseinconsciousness.org/](https://courseinconsciousness.org/)  
+Stanley Sobottka  
+Emeritus Professor of Physics  
+University of Virginia  
+Charlottesville, VA 22904-4714  
 
 Permission is granted to copy and distribute freely. Changes in content are not permitted. 
 
@@ -63,5 +63,5 @@ Important: Because this course makes many statements, the reader might think tha
 
 ### From the publisher:
 
-I have taken the liberty of adjusting some of the typographical conventions. Content hasn’t changed, but there’s been some slight reördering. I’ve also updated most of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
+I have formatted the site to make it much more readable on mobile devices. While I have nto changed the content in accord with the notice on the original site, I have taken the liberty of adjusting some of the typographical conventions. I’ve also updated most of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
 —David Porter

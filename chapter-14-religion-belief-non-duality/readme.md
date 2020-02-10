@@ -244,7 +244,7 @@ It is always a question of knowing and seeing, and not that of believing. The te
 
 This invitation is the only true ‘religion’ because it does not depend on beliefs, which always conflict with other beliefs.
 
-The heart of the Buddha’s teaching consists of the ‘Four Noble Truths’. On page 93, Rahula presents the Buddha's teaching of the First Noble Truth:
+The heart of the Buddha’s teaching consists of the ‘Four Noble Truths’. On page 93, Rahula presents the Buddha’s teaching of the First Noble Truth:
 
 <div class=indented>
 

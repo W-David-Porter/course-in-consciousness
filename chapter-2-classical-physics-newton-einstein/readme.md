@@ -309,7 +309,7 @@ In classical physics, objects interact with each other through their force field
 As revolutionary as Einstein’s general theory of relativity was, it did nothing to change the belief that we as observers still live within the context of space–time even though space–time is no longer thought to be absolute and unchanging. This means, for example, that we as objects are still subject to the experience of separation and isolation from other objects, and to the experience of ageing and the ultimate death of the body. It took an even more revolutionary theory, the quantum theory, to begin to shake these imprisoning beliefs.
 
 :::tip Exercise
-[View the video of the Hubble telescope's first 15 years of observations](http://imgsrc.hubblesite.org/hu/gallery/db/video/hm_15th_anniversary/formats/hm_15th_anniversary_640x480.mov)
+[View the video of the Hubble telescope’s first 15 years of observations](http://imgsrc.hubblesite.org/hu/gallery/db/video/hm_15th_anniversary/formats/hm_15th_anniversary_640x480.mov)
 :::
 
 :::tip Questions

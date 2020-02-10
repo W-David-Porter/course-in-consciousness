@@ -249,7 +249,7 @@ The questions and examples given above are only suggestions. Your intuition will
 
 ## 23.6. Being Awareness
 
-We can go no further than to be what we already are, which is pure Awareness. How do we be Awareness? One way is to inquire into what it is that is aware, and to see that nothing we can be aware of can be what is aware (see [Section 18.2](/chapter-18-practices-teachers/#_18-2-the-importance-of-being-aware), [Section 23.3](#_23-3-inquiry-into-the-self-self-inquiry)). This means that we are not a thought, not a feeling, not an emotion, not a body sensation, not a perception, not any object of awareness: we are what is aware of them.
+We can go no further than to be what we already are, which is pure Awareness. How do we be Awareness? One way is to inquire into what it is that is aware, and to see that nothing we can be aware of can be what is aware (see [Section 18.2](/chapter-18-practices-teachers/#_18-2-the-importance-of-being-aware), [Section 23.3](./#_23-3-inquiry-into-the-self-self-inquiry)). This means that we are not a thought, not a feeling, not an emotion, not a body sensation, not a perception, not any object of awareness: we are what is aware of them.
 
 The next step is to shift our perception so that we are aware of all objects from the outside. When perception shifts in this way, we see that all objects, whether subjective or objective, are inside us and nothing is outside us. The result is that the illusion of separation disappears and suffering ends.
 

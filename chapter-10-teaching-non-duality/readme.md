@@ -73,7 +73,7 @@ Try the following exercises in self-inquiry, then describe your experiences. The
 Is there anything we can do to awaken?
 :::
 
-The practices just described give confidence in the teaching. To advance the inward movement towards enlightenment, one can inquire further by asking, “What is it that is aware of all of this?”. Asking such questions and looking inward in this manner allows us to begin to sense that we are not really individuals, but in fact are unmanifest, impersonal Awareness, which is not an object so it cannot be seen. **The way to know what we are is to see what we are not.** We are pure Awareness in which the body–mind organism, and indeed the entire universe, appears and disappears. Because the disappearance of the phenomenal self is not the extinction of pure Awareness (see [Figure 1](#figure1)), there is no reason to fear it.
+The practices just described give confidence in the teaching. To advance the inward movement towards enlightenment, one can inquire further by asking, “What is it that is aware of all of this?”. Asking such questions and looking inward in this manner allows us to begin to sense that we are not really individuals, but in fact are unmanifest, impersonal Awareness, which is not an object so it cannot be seen. **The way to know what we are is to see what we are not.** We are pure Awareness in which the body–mind organism, and indeed the entire universe, appears and disappears. Because the disappearance of the phenomenal self is not the extinction of pure Awareness (see [Figure 1](./#figure1)), there is no reason to fear it.
 
 The practices described above are called inquiry and are discussed in greater detail in [Chapter 23](/chapter-23-disidentification-through-inquiry/). They really include two practices: Self-inquiry (capitalised) is inquiry into our true nature, while self-inquiry (uncapitalised) is inquiry into the ego or ‘me’. They are variants of the basic practice, which is to ask, “Who/what am I (really)?”. This seemingly simple practice is actually extremely profound because it expresses the only true purpose in anybody’s life. All seeking for happiness, satisfaction or fulfillment is merely a distortion of this one purpose of realising our true nature. Whether we realise it or not, we who think we are individuals are all seeking to find our Source, which is our true Self. Inquiry stops the mind and turns it towards Source, which seems to be inward, but which is really all there is. Inquiry is emphasised in the teachings of sages who consider themselves to be disciples of Ramana Maharshi.
 
@@ -165,7 +165,7 @@ However, note that, in the February 4 meditation in *A Net of Jewels* (1996), Ra
 
 >The original state of the Noumenon is one where we do not even know of our beingness.
 
-This is the state before birth and after death. Since there is no body in this state, there is only Noumenon. This state is not identical with the states in dreamless sleep, under anaesthesia or while comatose, because, objectively speaking, in those states there is still rudimentary sentience associated with the brainstem. Dreamless sleep, anaesthesia and coma are examples of the presence of absence as depicted in [Figure 1](#figure1). These are not the same as death because, before the body was born and after it dies, there is a double absence — the absence of the presence of the manifestation and the absence of the absence of the manifestation. The only way to describe this state is that it is neither presence (waking) nor absence (sleep), neither existence nor non-existence.
+This is the state before birth and after death. Since there is no body in this state, there is only Noumenon. This state is not identical with the states in dreamless sleep, under anaesthesia or while comatose, because, objectively speaking, in those states there is still rudimentary sentience associated with the brainstem. Dreamless sleep, anaesthesia and coma are examples of the presence of absence as depicted in [Figure 1](./#figure1). These are not the same as death because, before the body was born and after it dies, there is a double absence — the absence of the presence of the manifestation and the absence of the absence of the manifestation. The only way to describe this state is that it is neither presence (waking) nor absence (sleep), neither existence nor non-existence.
 
 :::tip Question
 What is the experience of dreamless sleep? Can you remember it? What is the experience of being under anaesthesia? Can you remember it?
@@ -206,7 +206,7 @@ Does the thought of death frighten you or make you feel uneasy?
 
 ## 10.5. Summary diagram
 
-When [Figure 1](#figure1) is stripped of all non-essential concepts, it becomes the following:
+When [Figure 1](./#figure1) is stripped of all non-essential concepts, it becomes the following:
 
 <div class=centred>
 

@@ -52,7 +52,7 @@ The superposition principle leads to the phenomenon of interference. The superpo
 
 See a [computer simulation of a two-slit interference pattern using water waves](http://www.falstad.com/ripple/), [using light waves](https://www.walter-fendt.de/html5/phen/doubleslit_en.htm) and [also](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html).
 
-An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the **square** of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](#figure1), where the intensity I~12~ at the absorber is plotted. Notice the radical difference between the graph of I~>12~ for the water waves and the graph of P~>12~ for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](https://perg.phys.ksu.edu/vqmorig/tutorials/online/wave_part/).
+An important measurable property of classical waves is power, or intensity *I* (power per unit area). Power is proportional to the **square** of the wave amplitude, and is always positive. Interference of classical waves is illustrated in the middle panel of [Figure 1](./#figure1), where the intensity I~12~ at the absorber is plotted. Notice the radical difference between the graph of I~>12~ for the water waves and the graph of P~>12~ for the bullets. The difference is due to interference. Likewise, when we observe light waves, we also observe the intensity distribution, not the wave amplitude. [Computer animation of the comparison between particles and waves in a two slit experiment](https://perg.phys.ksu.edu/vqmorig/tutorials/online/wave_part/).
 
 For quantum waves, we already know that the property that is proportional to the square of the wave amplitude is probability. We now need to find out what interference implies for the measurement of probabilities.
 
@@ -60,7 +60,7 @@ Let *ψ1* and *ψ2* be the amplitudes, or heights, of two probability waves repr
 
 <p style=text-align:center>ψ2 = (ψ1 + ψ2)2 = ψ12 + 2ψ1ψ2 + ψ22&emsp;(Equation 1)</p>
 
-This equation has a simple interpretation. The first term on the right is simply the probability that the first particle would appear **if there were no interference from the second particle**, and vice versa for the last term. Thus these two terms by themselves could represent the probabilities for classical particles like bullets, even though we do not ordinarily represent them by waves. If the middle term did not exist, this expression would then just represent the sum of two such classical probabilities. In the top panel of [Figure 1](#figure1), it would represent the probability that a bullet came through either the first hole or the second hole and appeared at a particular point on the screen. Figure 2 below shows the actual bullet impacts.
+This equation has a simple interpretation. The first term on the right is simply the probability that the first particle would appear **if there were no interference from the second particle**, and vice versa for the last term. Thus these two terms by themselves could represent the probabilities for classical particles like bullets, even though we do not ordinarily represent them by waves. If the middle term did not exist, this expression would then just represent the sum of two such classical probabilities. In the top panel of [Figure 1](./#figure1), it would represent the probability that a bullet came through either the first hole or the second hole and appeared at a particular point on the screen. Figure 2 below shows the actual bullet impacts.
 
 <div class=centred id=figure2>
 
@@ -70,7 +70,7 @@ This equation has a simple interpretation. The first term on the right is simply
 
 </div>
 
-The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P~12~ in the bottom panel of [Figure 1](#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
+The middle term on the right of Equation 1 is called the interference term. This term appears only for wave phenomena (including classical waves like water waves) and is responsible for destructive or constructive interference since it can be either negative or positive. If destructive interference is complete, the middle term completely cancels the other two terms (this will happen if ψ1 = −ψ2). Because of interference, the probability distributions for waves are completely different from those for bullets. The probability distribution for electrons, labelled P~12~ in the bottom panel of [Figure 1](./#figure1), has the same shape as the intensity distribution of the water waves shown in the middle panel because both distributions are derived from the square of algebraically summed wave amplitudes. The actual electron impacts are shown in Figure 3 below.
 
 <div class=centred>
 
@@ -141,7 +141,7 @@ We know that the observer observes only a live or a dead cat, not a superpositio
 
 <p style=text-align:center>ψ^2^ = (ψ~1~ + ψ~2~)^2^ = ψ~1~^2^ + ψ~2~^2^&emsp;(Equation 2)</p>
 
-Without the interference term, Equation 2 no longer describes the superposition of a dead cat and a live cat. Superficially, it is similar to the description of classical objects like bullets as was discussed above [Figure 2](#figure2). In the classical case, before an observation the cat is real but either alive or dead. The probabilities represent only our ignorance of the actual case. However, in the quantum case, before an observation there is no cat, live or dead. There is only a wave-function that represents the possibilities that will be manifested when an observation is made.
+Without the interference term, Equation 2 no longer describes the superposition of a dead cat and a live cat. Superficially, it is similar to the description of classical objects like bullets as was discussed above [Figure 2](./#figure2). In the classical case, before an observation the cat is real but either alive or dead. The probabilities represent only our ignorance of the actual case. However, in the quantum case, before an observation there is no cat, live or dead. There is only a wave-function that represents the possibilities that will be manifested when an observation is made.
 
 ## 4.3. Bell’s theorem, the Aspect–Gröblacher experiments and the non-locality of reality
 
@@ -207,7 +207,7 @@ When you clearly see three squares, hold the page still, and the hidden image wi
 
 ## 4.4. Another experimental violation of observer independent theory
 
-[Section 4.3](#_4-3-bells-theorem-the-aspect-groblacher-experiments-and-the-non-locality-of-reality) discussed conflicts between the hidden variables and quantum descriptions of experiments that were done on entangled quantum objects, such as pairs of entangled photons. Recently, measurements were done on pairs of trapped ions that were not entangled, and even with these non-entangled particles, the results were consistent with quantum theory but inconsistent with the assumption of observer-independent particles.^[*State-independent experimental test of quantum contextuality*, Kirchmair, Zähringer, Gerritsma, Kleinmann, Gühne Cabello, Blatt, Roos, Nature 460 (2009), 494–497] 
+[Section 4.3](./#_4-3-bells-theorem-the-aspect-groblacher-experiments-and-the-non-locality-of-reality) discussed conflicts between the hidden variables and quantum descriptions of experiments that were done on entangled quantum objects, such as pairs of entangled photons. Recently, measurements were done on pairs of trapped ions that were not entangled, and even with these non-entangled particles, the results were consistent with quantum theory but inconsistent with the assumption of observer-independent particles.^[*State-independent experimental test of quantum contextuality*, Kirchmair, Zähringer, Gerritsma, Kleinmann, Gühne Cabello, Blatt, Roos, Nature 460 (2009), 494–497] 
 
 ---
 

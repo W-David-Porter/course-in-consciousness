@@ -132,7 +132,9 @@ It turns out that the second law of thermodynamics can be stated in the followin
 
 The second law is based on our observations of the direction in time of natural processes. We say that this direction depends on the universe proceeding in time from a state of lower entropy to a state of higher entropy but, in classical physics, the increasing direction of entropy is **identical** to the forward direction of time. We cannot distinguish one from the other. It is tautological to say that entropy increases with time because the increase of entropy cannot be distinguished from the forward direction of time. However, in quantum physics, the direction of time is determined by the nature of a quantum event (see [Chapter 6](/chapter-6-what-does-quantum-theory-mean/)).
 
-Note: The fact that the forward direction of time is the direction of increasing entropy implies that the universe began in a much lower entropy state than that of today. What caused the entropy to be so low when the universe began is not known. This is a subject of intensive research in theoretical cosmology.
+:::details Note
+The fact that the forward direction of time is the direction of increasing entropy implies that the universe began in a much lower entropy state than that of today. What caused the entropy to be so low when the universe began is not known. This is a subject of intensive research in theoretical cosmology.
+:::
 
 The direction of time can also be inferred from the first two statements of the second law of thermodynamics: 1) The unidirectional flow of heat from hot to cold bodies, and 2) the possibility of total conversion of mechanical energy to heat energy, but not the reverse.
 
@@ -270,7 +272,9 @@ On February 11, 2003, C.L. Bennett and D.N. Spergel reported^[*Science News*, Fe
 
 There are powerful theoretical reasons for believing that the curvature of our space is neither positive nor negative but is exactly zero. The curvature depends on the average energy density (the average amount of energy per cubic metre), the expansion rate of the universe and the rate of increase in the expansion rate. In practice, it is too difficult to measure the curvature by measuring the curvature of light beam trajectories, but it can be estimated if the average angular size of the intensity spots in the cosmic microwave background, the expansion rate of the universe, and the rate of increase in the expansion rate are all known.^[[The fate of the cosmos: Dark energy can shape the universe](https://www.computerweekly.com/news/1280096974/The-fate-of-the-cosmos-Dark-energy-can-shape-the-universe)] 
 
-Side note: In his initial papers, Einstein had constructed a model of the universe with zero curvature that was not expanding at all. Later, in 1922 but also before Hubble’s discovery, Russian physicist Aleksandr Friedmann (1888–1925) discovered solutions to the general relativity equations that described an expanding universe with either positive or negative curvature. Still later, in 1932 after Hubble’s discovery, Einstein and W. de Sitter constructed a model that described an expanding universe with zero curvature.
+:::details Side note
+In his initial papers, Einstein had constructed a model of the universe with zero curvature that was not expanding at all. Later, in 1922 but also before Hubble’s discovery, Russian physicist Aleksandr Friedmann (1888–1925) discovered solutions to the general relativity equations that described an expanding universe with either positive or negative curvature. Still later, in 1932 after Hubble’s discovery, Einstein and W. de Sitter constructed a model that described an expanding universe with zero curvature.
+:::
 
 :::tip Question
 Suppose there was no dark matter. What would be the observable result?

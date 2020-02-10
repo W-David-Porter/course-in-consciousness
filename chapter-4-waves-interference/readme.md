@@ -108,12 +108,14 @@ where, for simplicity, we again assume the wave-functions are real rather than c
 
 The remaining items in the box are all macroscopic, but because they are nothing more than collections of microscopic particles (atoms and molecules) that obey quantum theory, we assume they also obey quantum theory.
 
-Technical note: If macroscopic objects do not obey quantum theory, we have no other theory to explain them. For example, classical physics cannot explain the following semi-macroscopic and macroscopic phenomena: 
+:::details Technical note
+If macroscopic objects do not obey quantum theory, we have no other theory to explain them. For example, classical physics cannot explain the following semi-macroscopic and macroscopic phenomena: 
 
- 1. Interference fringes ([Section 4.1](/chapter-4-waves-interference/#_4-1-waves-and-interference)) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms.^[The wave nature of biomolecules and fluorofullerenes [C~60~F~48~](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
+ 1. Interference fringes ([Section 4.1](/chapter-4-waves-interference/#_4-1-waves-and-interference)) have been directly produced with buckminsterfullerenes (‘buckyballs’) consisting of 60 carbon atoms and 48 fluorine atoms (C~60~F~48~).^[[The wave nature of biomolecules and fluorofullerenes](http://arxiv.org/PS_cache/quant-ph/pdf/0309/0309016v1.pdf)]
  2. A superconducting quantum interference device (SQUID) containing millions of electrons was made to occupy Schrödinger’s cat states.^[[Physicists Unveil Schrödinger’s SQUID](http://www.sciencemag.org/cgi/content/full/287/5462/2395a)]
  3. Ferromagnetism, superconductivity and superfluidity all are quantum phenomena which occur in macroscopic systems.
- 4. The period of inflation in the early history of the universe is thought to be quantum mechanical in origin.^[[See these excellent lectures in cosmology](http://abyss.uoregon.edu/~js/cosmo/lectures)
+ 4. The period of inflation in the early history of the universe is thought to be quantum mechanical in origin.^[See these excellent lectures in cosmology [Cosmology](http://abyss.uoregon.edu/~js/cosmo)]
+:::
 
 Hence, we assume the Geiger counter can also be described by a wave-function that is a solution to the Schrödinger equation. The combined system of nucleus and detector then must be described by a wave-function that contains two terms, one describing a nucleus and a detector that has detected a particle, and one describing a nucleus and a detector that has not detected a particle:
 
@@ -153,7 +155,8 @@ Weak objectivity was difficult enough to accept by some physicists, but quantum 
 
 Einstein could never accept a reality which was non-local or which was indefinite. His paper written with Podolsky and Rosen in 1935^[the famous EPR paper, *Can A Quantum-Mechanical Description of Physical Reality be Considered Complete?*, A. Einstein, B. Podolsky, N. Rosen, Phys. Rev. 47 (1935) 777–780] was an attempt to use a thought experiment to show that, because quantum mechanics could not describe a reality which was both local and definite, the theory was incomplete.
 
-Biographical note: This was Einstein’s last major paper on quantum theory. Until he died in 1955, he tried to devise a ‘unified field theory’ which would unite general relativity with electromagnetism in one theory. He failed in this because he could not accept the quantum description of electromagnetism. Actually, his failure is no greater than that of present-day physicists, who have produced many candidates for a unified field theory but none that can be verified with current experimental techniques.
+:::details Biographical note: This was Einstein’s last major paper on quantum theory. Until he died in 1955, he tried to devise a ‘unified field theory’ which would unite general relativity with electromagnetism in one theory. He failed in this because he could not accept the quantum description of electromagnetism. Actually, his failure is no greater than that of present-day physicists, who have produced many candidates for a unified field theory but none that can be verified with current experimental techniques.
+:::
 
 Following the EPR paper, many physicists expended a great deal of effort in trying to devise theories that were complete, namely **theories that assumed that parameters like position and velocity are at all times definite even if they are unknown**, and which at the same time gave results that agree with quantum theory. (These are called **hidden variable theories**, which by definition assume strong objectivity.) None of these theories found general acceptance because they were inelegant, complicated and awkward to use, and the best-known version also turned out to be extremely non-local (David Bohm, see [Section 6.2](/chapter-6-what-does-quantum-theory-mean/#_6-2-the-hidden-variables-interpretation-a-purely-objective-interpretation)).
 
@@ -189,7 +192,9 @@ The experiments of Aspect and Gröblacher et al. do not prove quantum theory to 
 
 In a non-local system, a measurement made at one end of the system is correlated with a measurement made at the other end even if no local signal passes between the two. It might be thought that, because non-local correlations can exist between events occurring at two different points, observers at these two points could use these correlations to communicate instantaneously with each other in violation of Einstein’s special theory of relativity. However, **the non-locality of quantum theory implies a correlation between data sets, not a transmission of information at greater than light velocities**. Thus, the special theory is not violated. We can see this by realising that the photons detected at either A or B alone occur completely randomly both in time and in polarisation. Consequently, observer A sees no information in his data alone, and likewise with observer B. It is only by later comparing these two random sets of data that a correlation between the two sets can be discovered.
 
-Technical note: Theoretical calculations indicate that the human eye might be sensitive enough to detect the correlations from entangled pairs of photons without the aid of electronic devices.^[*Possible entanglement detection with the naked eye*, Brunner, Branciard, Gisin, Phys. Rev. A 78 (2008) 052110]
+:::details Technical note
+Theoretical calculations indicate that the human eye might be sensitive enough to detect the correlations from entangled pairs of photons without the aid of electronic devices.^[*Possible entanglement detection with the naked eye*, Brunner, Branciard, Gisin, Phys. Rev. A 78 (2008) 052110]
+:::
 
 There can be strong correlations between two random sets that cannot be discovered by looking at one set alone. This is illustrated by the example of random stereograms (see [Magic Eye diagrams](https://www.magiceye.com) and below) which, when first viewed, look like near-random patterns of coloured dots (see below). However, there are actually two separate near-random patterns present, and they are displaced from each other by a distance roughly equal to the spacing between a person’s eyes. Thus, by looking at the pattern with the direction of the eyes non-convergent as if looking some distance away, the two eyes see different patterns. The correlations between the patterns are discerned by the brain, and a three-dimensional image is seen.
 

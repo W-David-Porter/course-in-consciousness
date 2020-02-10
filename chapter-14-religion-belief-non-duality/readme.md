@@ -333,7 +333,9 @@ Buddhism stands unique in the history of human thought in denying the existence 
 
 </div>
 
-Note: Rahula is incorrect in stating that Buddhism is unique in denying the existence of a Soul, self or *Atman* since the Buddhist concept of no-self is consistent with the *Advaita* teaching of no-self.
+:::details Note
+Rahula is incorrect in stating that Buddhism is unique in denying the existence of a Soul, self or *Atman* since the Buddhist concept of no-self is consistent with the *Advaita* teaching of no-self.
+:::
 
 On page 55, Rahula goes on to say:
 

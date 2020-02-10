@@ -92,7 +92,11 @@ Does the manifestation (the first level of identification) occur only in the inf
 
 In the sage, as distinct from ordinary people, there is no identification with the concepts of doërship. However, in the sage as well as with ordinary people, there is identification with name and form. This means that there is direct awareness of the body’s thoughts, feelings, emotions, sensations and perceptions, but there is no direct awareness of those of any other body (see [Section 9.2](/chapter-9-perceiving-conceptualising/#_9-2-what-is-the-perceived)). Thus, when the sage says “I”, he often refers to ‘his’ body–mind but never to another body–mind. (At other times, when the sage says “I”, he often refers to Consciousness.) Ramesh says that identification with name and form is exhibited when the sage is addressed and the body responds. In the *Advaita Fellowship News* of August 2003,^[[Advaita Fellowship](https://www.advaita.org)] he says:
 
->The really important thing to realise — there is no need to try to remember it — is that the fact that there is no individual doër does not mean that there is no doing, that there is inaction, but that the operation of doing happens in the form not of inaction but non-action. The ego — as identification with a name and form — will remain as long as the body remains, but after Self-realisation, continues to function merely as a witness of the non-doing instead of as a doër.^[In this passage, Ramesh uses the term ‘ego’ to mean both identification with name and form after Self-realisation, and identification with doërship, name and form before Self-realisation. In this course, we shall use it only in the latter sense.]
+>The really important thing to realise — there is no need to try to remember it — is that the fact that there is no individual doër does not mean that there is no doing, that there is inaction, but that the operation of doing happens in the form not of inaction but non-action. The ego — as identification with a name and form — will remain as long as the body remains, but after Self-realisation, continues to function merely as a witness of the non-doing instead of as a doër.
+
+:::details note
+In this passage, Ramesh uses the term ‘ego’ to mean both identification with name and form after Self-realisation, and identification with doërship, name and form before Self-realisation. In this course, we shall use it only in the latter sense.
+:::
 
 Because the sage functions from pure Awareness, when the sage speaks, it comes directly from Source without being corrupted by a ‘me’. However, what the sage says and the way it is said also depends on the conditioning of the body–mind organism, and this persists after the disappearance of the ‘me’. That is why different sages will explain their experiences of non-duality in different terms.
 
@@ -114,7 +118,9 @@ Do the following exercise with your eyes closed while looking past your thoughts
  2. There are sensations of touch and pressure, but is there something causing the sensations?
 :::
 
-Note: Sometimes we might carelessly say that Consciousness exists, but as we have already seen, Consciousness includes all existence and non-existence, and transcends both existence and non-existence (see [Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality)). Another type of confusion results when the word existence is used to refer to the pure sense of Presence that always accompanies pure Awareness whenever manifestation is present. This might be called pure Existence, but we shall avoid using this terminology.
+:::details Note
+Sometimes we might carelessly say that Consciousness exists, but as we have already seen, Consciousness includes all existence and non-existence, and transcends both existence and non-existence (see [Section 10.1](/chapter-10-teaching-non-duality/#_10-1-the-metaphysics-of-non-duality)). Another type of confusion results when the word existence is used to refer to the pure sense of Presence that always accompanies pure Awareness whenever manifestation is present. This might be called pure Existence, but we shall avoid using this terminology.
+:::
 
 Everyone can say the following: “I am not an individual, and I am not limited”. As pure Awareness, I am unlimited Reality. Reality is the same whether the eyes are open or closed. When the eyes are closed and all thoughts and images are absent, I am the only Reality. When the eyes are open, and objects seem to be present, I am still the only Reality. Reality underlies and pervades all the objects that I perceive. That is why I am everything and everything is Me.
 
@@ -198,9 +204,12 @@ The concept of ‘I’ necessarily requires the concept of its polar opposite, t
 What are some examples of good here being evil elsewhere, and vice versa?
 :::
 
-Note: Many passages in the Bible can be interpreted as metaphors for non-dual teachings. For example, Genesis 2:17 graphically describes the fatal consequences of dividing Consciousness into polar pairs:
+:::details Note
+Many passages in *the Bible* can be interpreted as metaphors for non-dual teachings. For example, *Genesis* 2:17 graphically describes the fatal consequences of dividing Consciousness into polar pairs:
 
 >…but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die.
+:::
+
 
 In chapter 16 of *I Am That* (1984), Nisargadatta Maharaj says:
 
@@ -278,8 +287,9 @@ It is easy to fall into the trap of blaming one’s ego for one’s suffering. B
 No concept can reflect or describe the intrinsic wholeness of nature. For this reason, every concept that we use in this course is fundamentally inadequate to describe Reality — we can only point to It. All concepts that we use are merely pointers. The only way to **know** Reality is to see that we **are** Reality. That is why this course cannot teach us what we really are, but it can encourage us to find out what we really are, which means to **be** what we are. Essential to being what we are is to see what we are **not**. This means that we must see that we are not a body, not a mind, not a doër, not a thinker, not a decider, not an ego, not a self-image, not any thing. In contrast to the impossibility of seeing what we are, it **is** possible to see what we are not, because anything that we think we are is merely a concept or image, so we can also see that we are not it. The reverse of identification is disidentification, and seeing what we are not is an essential part of disidentification.
 
 :::tip Question
-Have you ever had an experience of unlimited vastness? [This might be described as the (usually sudden) vision that I am far more than I perceive.] How would you describe it? Can it even be described?
+Have you ever had an experience of unlimited vastness? (This might be described as the (usually sudden) vision that I am far more than I perceive.) How would you describe it? Can it even be described?
 :::
+
 
 One should not assume from the above that concepts are useless or unnecessary. This course consists entirely of concepts, and they are essential for functioning in the world. Conceptualising by itself is not a source of problems — it is identification with concepts that causes all problems. The sage uses concepts as a necessary part of living but does not identify with them. In particular, there is no identification as the ‘me’ so there is no belief in a sage entity.
 
@@ -291,7 +301,11 @@ In the meditation for March 1 in *A Net of Jewels* (1996), Ramesh says:
 
 >Responsibility and guilt are imaginary concepts based on the mistaken notion that a sentient being has independent existence, autonomy and choice of action. But to think that any individual being can act independently is itself the basic mistake. Although sentient beings appear to act and react, all functioning really happens only in Consciousness.
 
-No concept causes more suffering than that of sin, and no emotions cause more suffering than those of guilt and shame. Everybody grows up with them because they are instilled by religion, government, society and parents in order to coërce obedience. There are two types of sin: 1) the feeling that it is possible to **do** something that is wrong or evil, and 2) the feeling that it is possible to **be** somebody who is bad or worthless. Guilt is self-condemnation and despair for the former. Shame is self-punishment and disgust for the latter. (In Christianity, both guilt and shame stem from the concept of ‘original sin’, the ‘sin’ that Adam supposedly committed by disobeying God. See, e.g., Romans 5:12: “*Therefore as sin came into the world through one man and death through sin, and so death spread to all men because all men sinned*”. A more enlightened interpretation of original sin is that it means the belief in being separate, which everybody is conditioned into by age two (see [Section 5.8](/chapter-5-conscious-mind-free-will/#_5-8-when-and-how-does-a-child-begin-to-perceive-objects) and [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification)). The belief in separateness is the belief in being defective and incomplete, see below.)
+No concept causes more suffering than that of sin, and no emotions cause more suffering than those of guilt and shame. Everybody grows up with them because they are instilled by religion, government, society and parents in order to coërce obedience. There are two types of sin: 1) the feeling that it is possible to **do** something that is wrong or evil, and 2) the feeling that it is possible to **be** somebody who is bad or worthless. Guilt is self-condemnation and despair for the former. Shame is self-punishment and disgust for the latter. 
+
+:::details note
+In Christianity, both guilt and shame stem from the concept of ‘original sin’, the ‘sin’ that Adam supposedly committed by disobeying God. See, e.g., Romans 5:12: “*Therefore as sin came into the world through one man and death through sin, and so death spread to all men because all men sinned*”. A more enlightened interpretation of original sin is that it means the belief in being separate, which everybody is conditioned into by age two (see [Section 5.8](/chapter-5-conscious-mind-free-will/#_5-8-when-and-how-does-a-child-begin-to-perceive-objects) and [Section 11.4](/chapter-11-functioning-mind/#_11-4-objectification-the-second-level-of-identification)). The belief in separateness is the belief in being defective and incomplete, see below.
+:::
 
 :::tip Question
 Have you ever felt guilt? Shame? In your own experience, how did they originate?

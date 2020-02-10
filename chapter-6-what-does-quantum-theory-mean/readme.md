@@ -4,11 +4,14 @@
 
 ## 6.1. The interpretation problem
 
-[Technical note: The fundamental equation that must be solved in quantum physics is the Schrödinger equation:
+:::details Technical note
+The fundamental equation that must be solved in quantum physics is the Schrödinger equation:
 
 <div style=text-align:center>iħ ∂ψ∕∂t=Hψ</div>
 
 This equation is explicitly a first-order differential equation in time, but is implicitly second order in space since *H* is second order in the spatial derivatives. The equation describes how the Schrödinger wave-function *ψ* propagates in time and space. It must be solved explicitly for *ψ*.]
+
+:::
 
 In contrast with classical physics, in which the results of an observation are implicit in the theory itself, quantum theory requires an interpretation to relate the theory to an observation. There are three broad categories of interpretations.
 
@@ -92,7 +95,11 @@ Reduction, or collapse, of the wave-function requires going from a pure state co
 
 Now suppose that I look at the detector and that I also can be described by the Schrödinger equation. Two components are needed to describe me, which we will call me^+^ and me^−^, with the obvious connotations. The final wave-function will be the pure state,
 
-<div style=text-align:center>ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^></div>
+<div style=text-align:center>
+
+ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^>
+
+</div>
 
 However, if I am aware of the final state of the detector, this wave-function cannot describe the combined system since I know that the detector is either in the ‘on’ state or the ‘off’ state. Something has effectively collapsed the wave-function so that only one term remains.
 
@@ -147,17 +154,25 @@ Is there any way the Copenhagen interpretation can be true?
 
 This interpretation was invented by Hugh Everett (1930–1982) in 1957 as a theory that would not require wave-function collapse. 
 
-Biographical note: Hugh Everett published his many-worlds theory as his Ph.D. thesis at Princeton University under John Wheeler. In 1959, his theory was scorned by Neils Bohr (who was wedded to the Copenhagen interpretation) but by this time Everett had already left physics to join the Pentagon to work on mathematical weapons policy research. He later co-founded several companies, which continued to do weapons studies for the military. He promoted the use of game theory in weapons policy, and helped to create the policy of Mutual Assured Destruction to prevent the U.S. from launching pre-emptive nuclear war against the U.S.S.R. and China, which he had calculated would lead to unacceptable loss of life.
+:::details Biographical note
+Hugh Everett published his many-worlds theory as his Ph.D. thesis at Princeton University under John Wheeler. In 1959, his theory was scorned by Neils Bohr (who was wedded to the Copenhagen interpretation) but by this time Everett had already left physics to join the Pentagon to work on mathematical weapons policy research. He later co-founded several companies, which continued to do weapons studies for the military. He promoted the use of game theory in weapons policy, and helped to create the policy of Mutual Assured Destruction to prevent the U.S. from launching pre-emptive nuclear war against the U.S.S.R. and China, which he had calculated would lead to unacceptable loss of life.
+:::
 
 Many-worlds theory was later adopted by cosmologists to describe the early universe. According to cosmology, the universe exploded from a point at the time of the big bang approximately fourteen billion years ago. Early on, the universe was so tiny and its density was so high that its gravitational forces were enormously high. In such conditions, gravity cannot be treated classically so it must be described quantum mechanically. Even though as yet there is no quantum theory of gravity, physicists think that the initial universe must be described by a wave-function. By definition, in this case, there can be no external observer. Therefore, there can be no wave-function collapse, and quantum theory is assumed to be correct without any corrections or additions.
 
 Let us now look at the Stern-Gerlach experiment in the light of the many-worlds interpretation. We return to the wave-function that describes my observation of the detector:
 
-<div style=text-align:center>ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^></div>
+<div style=text-align:center>
+
+ψ> = α |+,up,on,me^+^> + β |−,down,off,me^−^>
+
+</div>
 
 There can be no reduction of the wave-function now. Both terms must describe reality. The many-worlds interpretation says that at the moment of an observation, the world splits, or branches, and that both branches continue after the observation. There is a me in both branches. This interpretation maintains that in each branch, the me in that branch is aware of only the observation that it made. Since in **my** world, I am aware of only one result, I exist only in my branch. In the other branch, the other me is aware of the other result. The two branches do not communicate with each other, so the two mes are unaware of each other.
 
-Technical note: Assuming all of this to be true, what then is the interpretation of α and β? The probabilistic interpretation of quantum theory says that |α|^2^ and |β|^2^ are the statistical probabilities of each outcome. These probabilities can be measured only by making many observations on identical systems. What can they mean here when we have only one system (the universe)? Bryce S. de Witt in 1970 proposed the following interpretation. In the first trial of such an experiment, both branches result from the observation. If I now make many observations with my apparatus in my branch, I will measure probabilities that agree with |α|^2^ and |β|^2^. At each observation, there will be another branching, which will result in this me being in my branch, and another me being in another branch. If each of these other mes continues the observations, he will also measure probabilities which agree with |α|^2^ and |β|^2^.
+:::details Technical note
+Assuming all of this to be true, what then is the interpretation of α and β? The probabilistic interpretation of quantum theory says that |α|^2^ and |β|^2^ are the statistical probabilities of each outcome. These probabilities can be measured only by making many observations on identical systems. What can they mean here when we have only one system (the universe)? Bryce S. de Witt in 1970 proposed the following interpretation. In the first trial of such an experiment, both branches result from the observation. If I now make many observations with my apparatus in my branch, I will measure probabilities that agree with |α|^2^ and |β|^2^. At each observation, there will be another branching, which will result in this me being in my branch, and another me being in another branch. If each of these other mes continues the observations, he will also measure probabilities which agree with |α|^2^ and |β|^2^.
+:::
 
 Quantum theorists^[see, e.g., [Maximilian Schlosshauer, Kristian Camilleri, *The quantum-to-classical transition: Bohr’s doctrine of classical concepts,emergent classicality, and decoherence*](https://arxiv.org/PS_cache/arxiv/pdf/0804/0804.1609v1.pdf)] have realised that Eq. 1 is not a realistic description of the situation because it omits entanglements between the two terms on the right and terms describing the environment, including air molecules, physical apparatus, photons and the rest of the universe. When such interactions are included, the system decoheres and interference between the two terms disappears. Without interference, the terms describing the macroscopic objects (the detector and me) become similar to a classical representation of macroscopic objects except that the terms still refer to wave-functions instead of positions, velocities and orientations. Also, because there has been no collapse, all of the terms remain present and all of them contain interactions with the rest of the universe. Thus, each term represents an entire universe that is very subtly different from the universe represented by the other term. In this sense, the theory is indeed a many-worlds theory.
 
@@ -200,7 +215,9 @@ Christopher Fuchs^[[QBism, the Perimeter of Quantum Bayesianism](https://arxiv.o
 
 Without wave-functions, quantum mechanics has no problems or paradoxes of non-locality, collapse or branching. This, perhaps, is the strongest argument for a subjective interpretation.
 
-Historical note: British mathematician and Presbyterian minister Thomas Bayes (1702–1761) proved the special case, which is called Bayes’ theorem, of the more general ‘principle of insufficient reason’ of French mathematician and astronomer Pierre-Simon Laplace (1749–1827).
+:::details Historical note
+British mathematician and Presbyterian minister Thomas Bayes (1702–1761) proved the special case, which is called Bayes’ theorem, of the more general ‘principle of insufficient reason’ of French mathematician and astronomer Pierre-Simon Laplace (1749–1827).
+:::
 
 ## 6.11. The purely subjective interpretation
 

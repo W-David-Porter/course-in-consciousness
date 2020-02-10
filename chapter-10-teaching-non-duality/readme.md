@@ -144,7 +144,9 @@ And in the meditation for October 14, he says,
 
 Since there never is a separate ‘I’, there can be no entity either to incarnate or to reïncarnate. Ramesh explains the existence of individual characteristics of the body–mind organism as a result of conditioning and heredity (see also [Section 5.15](/chapter-5-conscious-mind-free-will#_5-15-if-there-is-no-free-will-how-do-things-happen)). 
 
-Note: Ramesh says that heredity includes differences projected from the ‘pool’ of consciousness (see [Section 8.1](/chapter-8-transcendental-realms#_8-1-similarities-between-the-different-transcendental-realms)) as well as genetic differences. (The ‘pool’ is a concept that cannot be verified; see [Section 8.2](/chapter-8-transcendental-realms#_8-2-the-meaning-of-the-transcendental-realms).) Ramesh uses this concept to try to explain the origin of body–minds that are strikingly similar to previous ones, as in the concept of reïncarnation. From the ‘pool’, he says the body–mind may have inherited characteristics from previous body–minds, but there is no previous lifetime of the ‘I’ since there is no ‘I’.
+:::details Note
+Ramesh says that heredity includes differences projected from the ‘pool’ of consciousness (see [Section 8.1](/chapter-8-transcendental-realms#_8-1-similarities-between-the-different-transcendental-realms)) as well as genetic differences. (The ‘pool’ is a concept that cannot be verified; see [Section 8.2](/chapter-8-transcendental-realms#_8-2-the-meaning-of-the-transcendental-realms).) Ramesh uses this concept to try to explain the origin of body–minds that are strikingly similar to previous ones, as in the concept of reïncarnation. From the ‘pool’, he says the body–mind may have inherited characteristics from previous body–minds, but there is no previous lifetime of the ‘I’ since there is no ‘I’.
+:::
 
 Some sages teach that, in the absence of the body, Consciousness is still aware of itself. The evidence they cite is an awareness that they say exists during deep (dreamless) sleep. For example, in *I Am That* (1984), chapter 11, the following dialogue ensues between Nisargadatta Maharaj and a questioner:
 

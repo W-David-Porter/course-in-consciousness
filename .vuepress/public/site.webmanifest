@@ -1,0 +1,19 @@
+{
+	"name": "A Course in Consciousness",
+	"short_name": "course in consciousness",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#880088",
+	"background_color": "#880088",
+	"display": "standalone"
+}

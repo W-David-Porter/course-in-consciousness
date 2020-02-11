@@ -27,8 +27,16 @@ var mySlugify = function(str) {
 module.exports = {
 
 	title: "A Course in Consciousness",
-	description: "This is a course in seeing, not in believing.",
-	
+	description: "A course in consciousness. Quantum theory of consciousness. The metaphysics of nonduality. The end of suffering. The discovery of our true nature.",
+	head: [
+		["meta", {name: "keywords", content: "consciousness,quantum theory,nonduality,advaita,noumenon,metaphysics,end of suffering,true nature"}],
+		["link", {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
+		["link", {rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png"}],
+		["link", {rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png"}],
+		["link", {rel: "manifest", sizes: "180x180", href: "/site.webmanifest"}]
+	],
+
+
 	markdown: {
 		extendMarkdown: md => {
 			[

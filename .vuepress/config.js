@@ -51,14 +51,18 @@ module.exports = {
 		},
 		externalLinks: { target: "_self", rel: "noopener noreferrer" }
 	},
+
+
 	themeConfig: {
 		smoothScroll: true,
+		search: false,
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: 'Dialogue in Consciousness', link: "/dialogue-consciousness/" },
 			{
 				text: "Part 1",
 				items: [
+					{ text: "Foreword", link: "/foreword/" },
 					{ text: "Preface to Part 1", link: "/part-1-quantum-theory-consciousness/" },
 					{ text: "1. The Three Major Metaphysical Philosophies", link: "/chapter-1-three-major-metaphysical-philosophies/" },
 					{ text: "2. Classical Physics from Newton to Einstein", link: "/chapter-2-classical-physics-newton-einstein/" },

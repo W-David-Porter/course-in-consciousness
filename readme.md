@@ -59,7 +59,7 @@ Important: Because this course makes many statements, the reader might think tha
    * [Chapter 24. Disidentification Through Meditation](/chapter-24-disidentification-through-meditation/)
    * [Chapter 25. Love Finding Itself](/chapter-25-love-finding-itself/)
    * [Chapter 26. Very Short Summary](/chapter-26-very-short-summary/)
- * [Appendix. My Resources and Teachers](appendix-my-resources-and-teachers)
+ * [Appendix. My Resources and Teachers](/appendix-my-resources-and-teachers/)
 
 ### From the publisher:
 

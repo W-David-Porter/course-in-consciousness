@@ -63,5 +63,5 @@ Important: Because this course makes many statements, the reader might think tha
 
 ### From the publisher:
 
-I have formatted the site to make it much more readable on mobile devices. While I have nto changed the content in accord with the notice on the original site, I have taken the liberty of adjusting some of the typographical conventions. I’ve also updated most of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
+I have formatted the site to make it much more readable on mobile devices. While I have not changed the content in accord with the notice on the original site, I have taken the liberty of adjusting some of the typographical conventions. I’ve also updated most of the dead links, but there are still more to be updated. If you find any you can email david.porter@fastmail.com.
 —David Porter

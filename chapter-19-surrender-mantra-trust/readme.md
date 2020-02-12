@@ -24,7 +24,7 @@ Surrender to God has even greater benefits when dealing with the debilitating af
 Do you know somebody who is or has been in a 12-step program? Did it help?
 :::
 
-If we believe that God is separate from us, surrendering to God is dualistic. In Christianity, surrender is epitomised by the following passage from *Luke* 22:42:^[[*Bible* Revised Standard Version](http://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=DIV1&byte=4782437)]
+If we believe that God is separate from us, surrendering to God is dualistic. In Christianity, surrender is epitomised by the following passage from *Luke* 22:42:^[[*Bible*, (Revised Standard Version)](http://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=DIV1&byte=4782437)]
 
 >…not my will, but yours, be done.
 

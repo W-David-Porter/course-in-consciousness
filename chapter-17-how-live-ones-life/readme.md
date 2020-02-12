@@ -54,7 +54,7 @@ Intentionally damaging or destroying a living plant is an offence… Therefore d
 
 </div>
 
-Now let us compare this precept with the proscription against murder in the *Bible*:^[all biblical passages are from the New Revised Standard Version at [oremus Bible Browser](http://bible.oremus.org)]
+Now let us compare this precept with the proscription against murder in the *Bible*:^[all biblical passages are from the *New Revised Standard Version* at [Oremus Bible Browser](http://bible.oremus.org)]
 
 In *Exodus* 20:13, the original Sixth Commandment is stated:
 
@@ -89,7 +89,7 @@ The *Bhagavad Gita* is not a manual for behaviour, but rather is a description o
 
 In physics, the invariance of physical laws describes what does and does not happen. For example, because physical laws are observed to be the same everywhere in space (invariance in space), momentum is observed to be conserved. Because physical laws are observed to be the same at all times (invariance in time), energy is observed to be conserved. In general, anything that is permitted by invariance principles and conservation laws can and does happen, and anything that is precluded by them does not happen. However, although we call these principles laws, there is no obligation for nature to obey them. They are merely man-made descriptions of what is regularly observed to happen or not to happen (see [Section 12.4](/chapter-12-space-time-causality-destiny/#_12-4-the-nature-of-laws)).
 
-Theoretical cosmologists apply the known physical laws to the study of the universe as a whole. The cosmological anthropic principle was first stated by Australian theoretical physicist Brandon Carter in 1974.^[Carter, B., *Large Number Coincidences and the Anthropic Principle in Cosmology*, in *Confrontation of Cosmological Theories with Data*, M.S. Longair, Editor. 1974, pp. 291–298] Simply stated, it says:
+Theoretical cosmologists apply the known physical laws to the study of the universe as a whole. The cosmological anthropic principle was first stated by Australian theoretical physicist Brandon Carter in 1974.^[Carter, B., Large Number Coincidences and the Anthropic Principle in Cosmology, in *Confrontation of Cosmological Theories with Data*, M.S. Longair, Editor. 1974, pp. 291–298] Simply stated, it says:
 
 <div class=indented>
 
